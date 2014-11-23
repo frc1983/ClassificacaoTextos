@@ -1,0 +1,4271 @@
+bastante;1
+Magos Fadas e Bruxas;1
+churrascaria;1
+halo;2
+sugestivo;1
+Suica;1
+exibir;1
+pico;2
+lubrificacao;1
+Marbella Resort;1
+Miguel Couto;2
+Vern Fleming;1
+Michael;1
+Macunaima;1
+tel;8
+cheia;3
+viajar;7
+desfalcar;1
+detalhe;2
+cooperativa;1
+ressaltar;1
+desembocar;1
+Karl Wendlinger;1
+estudar;2
+Palmeira;2
+enterrar;2
+distinto;1
+avir;1
+homenagem;1
+nomeacao;1
+mostrar;9
+jantar;2
+guardar;2
+C;2
+D;1
+relacionar;1
+F;11
+Hiro Matsushita;1
+titulo;5
+J;4
+turn;1
+campeonato;5
+scudetto;1
+cep;3
+R;13
+ceu;4
+S;1
+Batata;1
+V;1
+diaadia;1
+barulho;1
+Best Western;1
+modificar;1
+Andanca;1
+Jordan;5
+responsavel;8
+Instituto;4
+erosivo;1
+Jairzinho;1
+chover;1
+f;2
+corriqueiro;1
+l;1
+m;1
+n;1
+the;3
+p;3
+equiparar;1
+justificar;1
+decepamento;2
+s;30
+aceitar;2
+Lucia Tulchinski;1
+t;5
+preparar;2
+sulcoreano;1
+frances;2
+sala;1
+w;1
+x;5
+ressurgir;1
+ileso;2
+Chevrolet;1
+contratempo;1
+sangue;1
+tragico;2
+Yllas;1
+corretor;31
+corrigir;2
+tio;1
+aficionado;1
+quantidade;3
+franzino;1
+vitima;4
+vigilia;1
+cidadao;1
+projeto;6
+estaleiro;1
+Kemi;1
+Havai antigo;1
+flagrar;2
+euforia;2
+Samoa Ocidental;5
+finlandes;1
+traficante;1
+disco;3
+festa;1
+astrologia;1
+colisao;5
+Movimento Social Italiano;1
+Folha;6
+Iwa;1
+fratura;1
+abater;1
+apostar;2
+duradouro;1
+Gugelmin;2
+Benetton;8
+endereco;2
+Trem das ;1
+puxar;3
+Lobato;1
+esportista;1
+abismo;2
+ocupar;6
+sextafeira;3
+empossar;1
+Covas;1
+beber;1
+Rio;18
+Ford;23
+contrario;1
+chefe;3
+alagoano;1
+pastilha;1
+o qual;2
+camping;1
+Sindicato;3
+expor;2
+SABADO;1
+promiscuidade;1
+aconselhar;2
+viario;2
+escandinavo;2
+propor;1
+famoso;2
+meteorologia;1
+perfeito;1
+no que diz respeito;1
+bemsucedido;1
+Nigel Mansell;3
+Poipu;1
+em frente;2
+Rubinho;1
+litro;3
+Kanno;1
+periferia;2
+aridez;2
+geleira;3
+atrapalhar;2
+nascente;1
+Antunes Filho;1
+argumentar;1
+triunfar;1
+San Siro;1
+hospitalizacao;2
+imigrante;1
+liderar;3
+carrinho;1
+Hemominas;1
+gerente;4
+rota;2
+aluno;2
+embora;5
+tarefa;2
+esporte;4
+quilo;8
+variacao;8
+uRV;1
+campina;2
+Torre;1
+acumular;4
+noite;9
+interessado;1
+do que;12
+ebulicao;1
+Upolu;3
+capitao;2
+capital;6
+Janis Joplin;1
+levantamento;3
+elenco;1
+banalizar;1
+cor;1
+flora;2
+academia;1
+chamar;4
+coral;2
+helicoptero;5
+escoar;1
+construcao;1
+existente;1
+vulcanico;2
+las;2
+experiente;1
+proibir;4
+sargento;1
+reservar;2
+hatch;1
+ignicao;1
+economista;1
+parabrisa;2
+pintura;1
+chacara;1
+mesmo assim;1
+desabamento;3
+anel;3
+no caso de;3
+aviso;1
+acompanhar;2
+custa;1
+ceder;1
+diretamente;2
+doar;2
+pampa;1
+custo;11
+afirmar;17
+atirar;1
+Enrique Jesus Marin;1
+escultor;1
+engatar;1
+As Mil e uma Noites;1
+Jarbas Agnelli;1
+Christiansted;1
+significar;3
+frigorifico;4
+arrasar;1
+semanal;1
+preto;2
+doce;3
+led;2
+progressivamente;1
+profissional;7
+carga;1
+lei;5
+traducao;2
+eventual;2
+Centro;2
+comprar;3
+seguir;5
+novidade;4
+ler;12
+Fundacao;2
+cargo;1
+transferencia;1
+piso;4
+estocar;1
+resseguro;1
+Revolution Nine;1
+vitrine;1
+importante;5
+enrolar;1
+solucao;3
+revigorante;1
+em flagrante;1
+Lucienne Adami;2
+vazio;2
+esclarecimento;1
+meado;2
+juizo;1
+tacada;1
+o maximo;1
+trazer;9
+Aquidauana;1
+logico;2
+produzir;5
+curral;1
+desenho;2
+construir;4
+caixa;5
+alusao;1
+lacre;1
+vigencia;2
+Nature;2
+brusco;1
+coruja;1
+Gersino Claudio Soares;1
+nascer;13
+Robby Gordon;1
+pertencer;3
+prestar;3
+Riccardo Patrese;1
+Barretos;1
+versao;4
+quintafeira;3
+ensaio;1
+fumo;1
+pacifista;1
+homem;9
+definir;2
+converter;1
+desesperar;1
+anteontem;5
+entregar;1
+atravessar;1
+Antonio Luiz Cadorin;1
+Renato Kramer;1
+jogador;28
+russoalemao;1
+campus;1
+Pernambuco;2
+integralmente;1
+roberto;2
+Freitas Botti;1
+Barra;5
+pago;7
+Renata Aparecida Peretti;1
+Nehme;1
+cultivar;1
+de morte;1
+pescaria;2
+tremer;3
+Stevenson;4
+Nhamunda;1
+San Paolo;1
+anunciar;4
+sorteio;1
+Minas Gerais;5
+idolo;1
+despesa;5
+aspecto;3
+congelar;2
+obrigacao;1
+catastrofe;1
+estrategia;1
+obrigar;7
+fixar;6
+combinacao;2
+Lidu;1
+igualdade;2
+Tijuco Preto;1
+montagem;1
+embarque;1
+dueto;1
+Aida;11
+destino;1
+favoritismo;2
+bico;2
+vendedor;1
+salario;1
+em repouso;1
+cheque de viagem;1
+inexplicavel;1
+Ubatuba;2
+repleto;1
+pais;18
+Miami;1
+prestes;3
+subsequente;1
+proliferar;1
+prender;5
+engraxar;1
+infraestrutura;3
+Smith Jr;1
+clima;1
+em transito;1
+Luis Carlos;1
+geralmente;2
+obvio;3
+Roland Ratzemberger;1
+brasileiro;38
+Outrigger;1
+cardapio;1
+apropriar;1
+circulacao;1
+varar;1
+visitante;4
+perto de;6
+empatar;1
+importancia;1
+Denner;1
+planeta;1
+dirigir;7
+dificultar;2
+solar;3
+flauta;2
+agronomo;2
+diretor;3
+adequar;2
+constatar;1
+troca;5
+centro;5
+proximidade;1
+inexperiente;1
+pane;1
+Copa;12
+dobrar;1
+sueco;1
+autoestrada;1
+Playing Games;1
+besta;1
+normalmente;2
+JAIRO BOUER;2
+novembro;4
+territorio;7
+produto;12
+Porto;2
+respiratorio;1
+dissidio;1
+erro;1
+diario;2
+revenda;2
+zona;15
+diaria;1
+dar;20
+avantajar;1
+entao;5
+Edmundo;3
+banana;1
+Monza SL;1
+corpo;2
+dono;2
+imaginar;2
+quanto a;4
+interesse;2
+formar;11
+quartafeira;2
+Manaus;1
+brigar;1
+Leblon;1
+cantar;3
+Villeneuve;1
+formal;1
+SP Interior;2
+elevar;6
+culpar;4
+cooperacao;1
+horoscopo;1
+IGPM;3
+atual;4
+Sao;1
+Souza Aparecido;1
+canadense;2
+CBF;3
+dadiva;1
+Maranduba;1
+Lippi;1
+igualmente;1
+agencia;1
+principal;11
+corte;5
+computador;1
+hemisferio;1
+celebracao;1
+atuar;1
+fuzzy;1
+Renault;2
+portatil;1
+zoom;1
+razao;2
+realmente;4
+Chapada;1
+desabar;1
+gerenciar;1
+comparar;2
+oceanografia;1
+Sampdoria;3
+profundo;1
+economico;4
+de frente;4
+mofar;1
+telefone;3
+crise;3
+diametro;1
+arbusto;1
+garota;1
+Jimmy Vasser;2
+Dinamarca;1
+preco;50
+sinopse;1
+luz;5
+reconhecimento;1
+Beethoven;1
+exemplar;1
+Multishow;1
+multiponto;1
+gancho;1
+almocar;1
+garoto;2
+presidente;10
+talve;1
+reconhecer;1
+Bobby Rahal;1
+acerto;1
+Palace;1
+sudeste;2
+relativo;1
+armadilha;1
+Giacomo Puccini;1
+dose;1
+monteiro;1
+aguardar;1
+Vinicius Losacco;1
+protecao;2
+equivalente;3
+montanha;4
+pluvial;1
+Paraguai;5
+testemunhar;1
+Atalanta;1
+oceano;3
+camarote;1
+Ser;1
+monte;3
+CFM;2
+transformar;10
+campanha;1
+passarinho;1
+Nereide Schilaro Santa Rosa;1
+Tete Smith;1
+Ten Years After;1
+nuca;1
+hotel;12
+Golden Boys;3
+Luiz Aquila Rocha Miranda;1
+Angelo Kawano;1
+dispensar;2
+testemunha;2
+dirigente;2
+veiculo;10
+cigarro;1
+Interlagos;5
+efeito;3
+Cara Cara;1
+revisao;5
+cansar;3
+revisar;2
+estadista;1
+mulher;1
+hantaviru;1
+retribuir;1
+podio;1
+vegetacao;3
+mina;1
+dia;49
+estimulo;1
+Equator;1
+por isso que;2
+rigor;1
+Julio da Silva;1
+inflacao;5
+fisico;4
+empregar;1
+desertizacao;1
+divulgar;3
+apenas;17
+Natal;3
+legal;2
+natureza;6
+verdadeiro;3
+distrito;1
+beira;1
+comunicar;1
+gratuitamente;1
+fisicamente;1
+estreante;2
+Everaldo;1
+consumo;7
+excepcional;1
+estipular;1
+afluxo;1
+ideia;1
+tese;1
+Menestrel;1
+final;10
+Marcia Marcondes;1
+conselho;3
+isento;1
+Sit;3
+estrangeiro;1
+quebra;1
+banho;2
+Gremio;2
+segurar;8
+craque;4
+linhagem;1
+adorar;1
+salario minimo;2
+Revista;1
+Arie Luyendyk;2
+laranjeira;2
+fronteira;2
+comprazer;1
+encontro;4
+delito;2
+chegar;29
+chanceler;1
+veloz;2
+alem de;13
+Historia;1
+limpeza;1
+mamiferos;1
+As Rosas Nao Falam;1
+estabelecer;2
+tragedia;3
+jurar;1
+partir;2
+Davy Jones;1
+transportar;2
+constitucional;1
+seguro;46
+saber;17
+fundar;1
+Croix;3
+Jonas Thern;1
+curto;2
+homenagear;3
+lancamento;5
+frigir;1
+abalroar;2
+cujo;2
+correspondencia;2
+jamais;2
+jornal;2
+climatico;2
+mito;1
+bairro;3
+banco;5
+atendimento;10
+balanco;1
+Canada;3
+por outro lado;1
+planicie;2
+curso;2
+pulmao;1
+perder;12
+operacao;2
+inicialmente;1
+caraiba;1
+Palhoca;1
+opiniao;2
+em segundo lugar;2
+ciclico;1
+frequentemente;1
+banca;1
+status;1
+publicar;6
+curva;9
+dom;1
+ansiosamente;1
+dor;3
+CNT;1
+bando;1
+cada vez mais;1
+especifico;2
+comeco;4
+mae;3
+Camus;2
+concentracao;1
+Waimea Plantation;1
+Manchete;1
+apresentacao;7
+mal;5
+permanecer;2
+crime;1
+mao;1
+Edivaldo;1
+man;1
+baiano;2
+Mercosul;1
+banda;2
+operadora;1
+mar;7
+atraves;4
+mau;1
+Rosalen;1
+surgir;3
+ataque;2
+Nacao;1
+Italia;6
+varios;3
+pesquisa;4
+Sol;2
+Laranja;1
+reboque;1
+conveniar;1
+bradesco;2
+pesqueisador;1
+opera;1
+menina;1
+Woodstock Ventures;1
+maio;9
+Pedro Lamy;1
+mais;90
+acordar;2
+uso;9
+Carlos Alberto Parreira;1
+menino;3
+Marba;1
+industrializar;1
+logo;3
+comprimentar;1
+sensivel;1
+compositor;1
+lista;4
+tribuna;1
+progresso;2
+ideal;3
+telefonico;2
+revendedor;3
+penetracao;2
+intensivo;1
+financiamento;1
+mormon;1
+soldado;1
+dizer;61
+rendimento;1
+Coreia;1
+Leste;1
+baia;4
+congestionar;2
+servir;6
+escritor;3
+cocaina;1
+veterano;1
+criadouro;1
+loja;6
+trecho;2
+Paulo Temoteo dos Santos;1
+mes;20
+demitir;1
+combater;2
+encaixar;2
+sereia;1
+tentar;5
+acima;2
+prejudicar;2
+ladrao;1
+hoje a noite;1
+constituir;1
+matematico;2
+competir;1
+entretanto;1
+Juca Chaves;1
+recente;1
+Burt;1
+Jose Vicente Ferraz;1
+conseguir;10
+crescente;1
+Yerba Buena;1
+confinador;3
+penhasco;1
+adubo;1
+masculino;1
+materia;1
+caminho;2
+participacao;1
+descrever;1
+teimosinho;1
+manha;2
+conceito;1
+autodromo;2
+expectativa;2
+eventualmente;1
+Suporte Assessoria;1
+crosscountry;4
+prudente;1
+feio;1
+apresentar;9
+Import Express;1
+preocupacao;1
+ja que;5
+Amsterda;1
+declarar;1
+volkswagen;5
+velar;1
+passarela;1
+Muro;1
+Argentina;1
+abalar;3
+Lamy;1
+alemao;5
+Sul;1
+Lilian;1
+Mercado;1
+erica Areias;1
+Campo;1
+prognostico;1
+forcar;2
+confinamento;4
+negociacao;1
+otimizar;1
+animal;5
+controlar;3
+vitoria;9
+Miranda;11
+inedito;2
+preparador;1
+catamara;3
+lona;2
+safari;4
+fimdesemana;1
+charmoso;1
+Alexandre Campelo;1
+Corinthians;2
+mil;38
+custar;6
+alcool;2
+vicelider;1
+Tambores de Cores;1
+Louis Pascal;1
+componente;2
+Califoria;1
+setenta;1
+em negrito;1
+ingressar;1
+Oto Gomes Miranda;1
+sosia;1
+saveiro;1
+desaparecer;2
+Pele;9
+texto;3
+Mato Grosso;2
+Coordenadoria;1
+Australia;3
+modernette;1
+fabrica;3
+horario;13
+acerola;7
+restituicao;1
+lamentavel;1
+Oto Gomes;2
+lateral;4
+dente;1
+eletrico;5
+esqui;4
+Lagoa;2
+incluir;6
+arquivo;1
+denso;1
+pegar;5
+observar;3
+Corsa GL;1
+Arte;1
+Juarez Rizzieri;1
+disponibilidade;1
+manusear;1
+Serra;1
+Eddie Irvine;2
+investir;3
+demonstrar;1
+pressao;5
+mapa;3
+Andersen;2
+Pandemonium;1
+acomodar;1
+saltar;1
+Honda Civic;1
+engenheiro;2
+especialista;2
+Ipanema;1
+China;2
+monge;1
+segurado;14
+corretagem;1
+externo;2
+Ford Fiesta;1
+Maradona;1
+colheita;4
+ocupante;1
+Conab;1
+dirigibilidade;1
+desconfiar;1
+somente;5
+Carlinhos Brown;1
+Xuxa;1
+arroba;7
+registro;1
+diadema;1
+fumaca;2
+sussurro;1
+Samoa Americana;3
+comparacao;2
+formula;5
+sintoma;1
+base;3
+chuva;20
+brasileirinho;1
+McCartney;2
+unanime;1
+Florenca;1
+realizar;6
+incentivo;1
+meteorologico;1
+atingir;22
+camisinha;1
+Suzuki;2
+satisfazer;1
+provavelmente;3
+gravidade;1
+cozer;2
+Chile;5
+PMDB;1
+automatico;1
+sindrome;1
+indice;6
+escapar;2
+Damon Hill;2
+Defesa Civil;1
+biologo;1
+playoff;1
+Steven;1
+treno;3
+inundavel;1
+ciencia;3
+isoladamente;1
+Rubens Barrichello;3
+preceito;1
+variar;2
+varias;7
+internar;1
+mato;1
+Peru;2
+juvenil;2
+COPA;1
+sobrepujar;1
+Mangueira;3
+contratar;4
+gordo;3
+combate;3
+impor;2
+federal;2
+Cinema;1
+estimativo;1
+reabrir;2
+arranhao;1
+lagosta;1
+acidentar;3
+burburinho;1
+estimativa;1
+pragmatismo;1
+Timbalada;2
+superficie;1
+entrada;2
+distancia;4
+enxurrada;1
+reter;1
+concessionaria;2
+expressivo;1
+alinhar;1
+aviao;2
+subterraneo;1
+Unser Jr;2
+punir;1
+tomar;3
+polvo;1
+portugues;1
+Rainmaker;2
+emocionar;2
+Sportv;1
+respectivamente;2
+manuseio;1
+Opel Astra;1
+opor;2
+defeito;1
+associacao;1
+antepor;1
+mais ou menos;1
+militar;3
+artilheiro;1
+snowmobile;4
+umido;2
+Oregon;1
+alertar;1
+literario;1
+Hantaan;1
+Science;1
+velho;3
+Bolivia;1
+examinar;1
+Vale do Paraiba;2
+por um lado;2
+aprender;1
+essencial;1
+Prado;1
+em conta;1
+maquina;4
+umidificante;1
+torcer;1
+legislacao;2
+pista;25
+areia;3
+Servico;1
+grave;3
+narrar;2
+urucum;1
+perigoso;2
+Patagonia Express;1
+Ritmo;1
+polimerase;1
+ao lado de;1
+tipico;2
+estacao;9
+existir;8
+veneno;1
+contravencao;2
+Heloisa Prieto;1
+Piacenza;2
+ao vivo;6
+Dominic Dobson;1
+orfao;1
+habitat;1
+branco;5
+notar;1
+aglomerado;1
+preferir;4
+quimico;2
+via;2
+Beco;1
+relogio;3
+Moura;1
+apolice;6
+tranquilo;1
+comandar;1
+bombeiro;1
+devastacao;1
+Iniki;11
+vicepresidente;4
+vip;2
+tudo o que;1
+sinistro;4
+restaurante;3
+verificar;4
+AL;1
+AM;1
+Emerson;4
+sustentar;2
+volta;14
+stop;2
+asteroide;2
+chocar;4
+Finland;1
+rolar;2
+vista;2
+explicar;6
+derrota;1
+BA;1
+canion;2
+cedo;4
+capacidade;1
+Al;1
+manutencao;2
+em homenagem a;1
+Bertone;1
+prevalecer;2
+caminhada;1
+francamente;1
+conjunto;3
+contratacao;4
+a cargo de;1
+colocacao;2
+pescoco;1
+abalo;3
+remontar;1
+Antonio de Caldas Lacerda;1
+Fernando Shimada;1
+Michigan;1
+CR;5
+ou seja;2
+Br;2
+milanista;1
+mecanico;5
+mortifero;1
+Velha Senhora;1
+sucursal;1
+conhecer;14
+Fiat;1
+estrago;1
+debater;2
+excompanheiro;1
+severo;1
+recomendacao;1
+teste;4
+aquarela;1
+maremoto;1
+bolinho;1
+DJ;1
+duzentos;1
+companheiro;8
+tradicional;2
+Junqueiropolis;5
+estrutura;3
+recuar;3
+remedio;1
+sonho;4
+atipico;1
+imolar;3
+elevacao;2
+mapeamento;2
+autonomo;1
+EF;1
+transito;16
+gravar;2
+torcedor;3
+Confederacao;1
+ES;1
+livre;2
+volume;2
+livro;13
+ascensao;1
+Marcilio Marques Moreira;1
+restricao;1
+Haiti;3
+estudioso;1
+Taquari;1
+Tadeu Soares da Silva;1
+sismografo;1
+FT;1
+FW;3
+abril;20
+acima de;3
+apresentador;1
+sensacao;2
+Associacao dos Engenheiros Agronomos;2
+rico;5
+lencol freatico;1
+estrada;9
+carroceria;1
+abrir;4
+eletronico;7
+iniciar;5
+Vontade;1
+GM;6
+de fortuna;1
+GP;12
+hippie;1
+inicial;3
+destacar;1
+Mika Hakkinen;2
+pontuacao;1
+remodelar;1
+Asia;1
+eletronica;2
+motorista;10
+incomodo;3
+dezenas de;2
+comercializacao;1
+risco;12
+lindo;2
+indicacao;2
+acertar;1
+resultante;1
+torcida;2
+pagar;20
+bravo;1
+DNZ;1
+asiatico;1
+solucionar;1
+analisar;2
+comunitario;1
+nao;120
+asfalto;3
+agua;22
+Don Curro;1
+similar;1
+aroeira;1
+valer;7
+alerta;3
+pantaneiro;1
+divisao;1
+restaurar;2
+explodir;1
+Voyage;1
+Freire;1
+forte;15
+justamente;1
+Mike Groff;1
+Ciro Ferrara;1
+gostar;1
+sediar;1
+vupt;1
+gruta;1
+chassi;2
+em obras;1
+ajudar;3
+esclarecer;1
+alimento;3
+italobrasileiro;1
+influencia;2
+premio;4
+Fleury;1
+barraco;1
+Marketi Fou;1
+trigo;4
+anotar;1
+vinheta;1
+reclinavel;1
+Movimento;1
+Ceara;2
+TravelThe New York Times;2
+pela primeira vez;2
+honra;2
+posreal;1
+Sindipec;5
+linha;6
+calendario;2
+decidir;3
+visitar;4
+derivar;1
+ao longo de;1
+USP;2
+morar;4
+Juve;6
+Rio Salt;1
+Comando;1
+exigencia;1
+Carlos Alberto;1
+aparelho;2
+grupo;8
+Bandeirantes;1
+Flamengo;1
+talentoso;1
+topo;1
+exercicio;1
+queimar;1
+golfo;1
+atrelar;1
+esportivo;5
+Senado;1
+etc;1
+ME;1
+anual;2
+forno;1
+mais uma vez;1
+golfe;2
+Maluf;1
+MS;3
+espalhar;3
+cronobiologia;2
+revista;4
+Araraquarense;1
+avaliacao;1
+moise;1
+cloreto;1
+intervalo;2
+NE;1
+cena;3
+atrito;1
+evaporacao;2
+de forca;1
+andar;5
+choro;2
+Rizomar;1
+terrestre;3
+finlandesa;2
+Ricardo Rocha;2
+media;7
+forma;8
+evoluir;1
+Cha Cha Cha;1
+Franca;5
+medir;1
+medio;5
+render;2
+exame;3
+poluente;1
+quarto;9
+Baby Seguro Bandeirante;2
+bandeirante;4
+conduzir;1
+proposta;2
+lesar;1
+haver;37
+empresario;1
+destruir;5
+assim como;2
+por hora;1
+rigoroso;2
+uma boa dose;1
+Lei;1
+estar;114
+marcha;2
+prefeito;2
+PF;1
+preferencia;1
+PM;2
+terreno;1
+ao mesmo tempo;1
+por tras;1
+racionamento;1
+furacao;9
+Moritz;1
+Itamar;1
+definicao;3
+Oz;1
+Instituto Agronomico;2
+refem;1
+reconstruir;3
+Alain Prost;2
+barao;2
+anuncio;1
+mangue;1
+amizade;1
+tricampeonato;4
+perpectivo;1
+ultrapassar;5
+topografia;1
+coqueiro;1
+desenvolvimento;5
+modelo;14
+barco;1
+Milao;1
+Milan;8
+Tchecoslovaquia;1
+adolescente;2
+Fipe;2
+marcar;5
+Kilauea Point National Wildlife;1
+RS;2
+numero;15
+heroi;1
+farra;1
+objetivo;2
+tinta;1
+atrair;1
+Firmino Rodrigues Alves;1
+corderosa;1
+SP;11
+corrente;1
+desova;1
+horror;1
+riscoi;1
+grao;3
+Sabesp;1
+fevereiro;8
+tour;3
+comunicado;1
+grau;3
+espera;2
+merecer;4
+de agora;1
+diagnostico;1
+seguinte;3
+suco;2
+duplo;4
+incomodar;1
+apos;17
+St;4
+TV;7
+metade;4
+representar;1
+enumerar;1
+documento;6
+querosene;1
+The Kauais Beach Press;1
+autopeca;1
+desconhecer;2
+sucessor;1
+neve;6
+Lontra;1
+refletir;2
+US;27
+BARBAROS Bandeirantes;1
+leite;2
+Vitoria;1
+Napoli;3
+leito;1
+Angra;1
+sepultar;2
+giro;2
+disputar;1
+gaucha;1
+boato;1
+transmitir;1
+inspirador;1
+batida;6
+Sindifrio;2
+roteiro;2
+frente a;1
+MTV SPORTS MTV;1
+VW;1
+Rota dos Contrabandistas de Bebida;1
+foco;1
+movimentar;1
+certame;2
+perfume;1
+Santana;1
+trepidante;1
+central;2
+gado;10
+temporada;16
+incendio;5
+Plagne;1
+publico;4
+jardim;2
+visar;1
+classe;2
+piscar;1
+ninguem;1
+baixinho;1
+resultar;3
+nobre;1
+visao;1
+farol;5
+de forma a;1
+vender;17
+previo;1
+Adam LaBour;1
+terminar;6
+cacar;2
+instrumento;1
+Policia Militar;1
+lampada;4
+embaixador;2
+aquecer;1
+obrigatoriamente;1
+contorno;1
+dependente;1
+Centrooeste;1
+ao ar livre;1
+beijar;1
+vantagem;2
+Frio;1
+metro;9
+italiano;3
+producao;12
+embalar;1
+calcar;1
+Oleo;1
+pessoa;21
+Uefa;1
+determinar;2
+julho;4
+Big One;1
+Milha;1
+delegado;1
+fritura;1
+Roberto Mendes;1
+Blackout;1
+abate;2
+Schumacher;2
+janeiro;9
+atraso;1
+cidadesede;2
+tentativa;1
+fora de;6
+disciplinar;1
+guincho;1
+capitulo;2
+grid;5
+economia;2
+usar;12
+Hakkinen;3
+aprisionar;1
+cobertura;7
+estado;2
+Mike Grof;1
+alpino;1
+conservacao;1
+dica;1
+droga;2
+em publico;1
+pesar;4
+Allerton Gardens;1
+desperdicio;1
+psicologo;2
+Cultura;5
+mobilizacao;1
+raio;2
+pesca;4
+dispor;1
+desabrigar;2
+Stephen Schap;1
+deslocar;3
+prever;6
+posicao;5
+Escola Superior de Agricultura Luiz;1
+faixa;2
+Parana;7
+estada;3
+licenca;1
+solene;1
+atmosfera;1
+degradar;1
+juntar;6
+arrebatar;1
+William Campbell;1
+musgo;1
+futebol;10
+Disc Dog;1
+especie;5
+viagem;5
+estoque;1
+espinhel;1
+Marcelo Pires;1
+Lua;1
+ao inves de;1
+critica;2
+necessidade;1
+bom humor;1
+liberacao;2
+fruticultura;1
+terminal;1
+saneamento;1
+certificado;2
+Caesar Park;2
+politica;3
+cultivo;1
+Sandwich;1
+mapear;2
+critico;1
+processo;8
+Fanny;1
+escovar;1
+velorio;2
+Russ Gib;1
+Bolsa;2
+operacional;1
+politico;5
+contundir;2
+como se;2
+excelente;2
+culpa;1
+sitio;2
+perda;7
+fim;8
+fio;1
+teatro;1
+cabelo;1
+diferenca;1
+Logus GL;1
+analise;2
+gente;7
+Thierry Boutsen;1
+Adilio Passos dos Santos;1
+prejuizo;5
+revidar;1
+paralelamente;1
+ai;3
+trofeu;1
+Rubens Barbosa;1
+saude;9
+al;1
+Gonzaga;1
+competitivo;1
+renda;3
+ar;16
+potencia;2
+por acaso;1
+credibilidade;1
+intemperie;1
+disparar;1
+virgula;1
+cinetico;1
+obrigatorio;2
+importar;4
+prova;10
+elaborar;2
+pelicano;1
+agricola;5
+virus;1
+tetracampeonato;1
+manuscrito;1
+Juventus;4
+concorrencia;1
+vela;1
+samoano;3
+Sao Paulo DNR;1
+investigacao;1
+Signori;1
+cemiterio;2
+cotacao;4
+mau uso;1
+Reynard;9
+ca;1
+Sandman;1
+alimentacao;3
+na presenca de;1
+cl;2
+entulho;1
+iguaria;1
+tropical;1
+Peter Pan;1
+perceber;3
+Helio;1
+ocorrencia;1
+declaracao;1
+San Marino;3
+amplamente;1
+enorme;2
+caborno;1
+noturno;2
+terra;20
+velocidade;7
+impagavel;1
+fora;4
+corredor;2
+leque;1
+treino;9
+SYDNEY;1
+apostavel;1
+recompensa;1
+encontrar;8
+permitir;9
+resposta;5
+adesivo;2
+raro;3
+prelio;1
+favorecer;4
+ed;5
+Curio;2
+desabastecimento;1
+trimesstre;1
+avisar;2
+el;1
+UnB;1
+visibilidade;1
+preceder;1
+nariz;1
+seguranca;10
+Parque;2
+carro;78
+Jos Verstappen;1
+renuncia;1
+extrato;1
+fa;2
+acusado;1
+indio;2
+aportar;1
+promocao;1
+reagir;1
+vocal;1
+adesao;1
+pensao;1
+pensar;4
+Arrows;1
+britanico;3
+quilometro;8
+Uno;1
+desratizacao;1
+turista;4
+rato;2
+digital;1
+chuchu;1
+carta;11
+resultado;6
+gato;1
+Oeste;1
+pintar;1
+pelo menos;3
+claro;6
+trafico;2
+exclusividade;1
+Duce;1
+vento;9
+tempestade;2
+trigemea;1
+bianual;1
+Lucien;1
+ha;13
+exemplificar;1
+equipe;7
+cenario;2
+raso;1
+portar;1
+Getulio Vargas;1
+sujeira;1
+Tunibra;1
+completo;3
+oferta;8
+moncao;2
+regiao;27
+enquete;1
+Mark Smith;1
+Daniel Gonzalez;1
+e que;5
+colirio;1
+oscilacao;3
+impedir;2
+espelho;1
+despachante;1
+revoltar;1
+fusco;1
+papai Noel;4
+in;1
+ir;51
+briga;2
+contrato;4
+carne;16
+sinonimo;1
+acidente;45
+julgar;1
+foto;2
+fusca;1
+Lazio;5
+ja;28
+desfavoravel;1
+Michelangelo;1
+glossario;1
+lavagem;3
+decada;4
+resersa;1
+competente;1
+sertao;2
+Parma;1
+origem;2
+intocado;1
+literatura;1
+um pouco;4
+direto;3
+barbaro;2
+cruzamento;1
+peixe;6
+domestico;1
+sauna;1
+Edinho;4
+garimpeiro;1
+traumatizar;1
+km;21
+Margareth Menezes;1
+violencia;6
+nobel;1
+ciclone;2
+barato;2
+uma vez por todas;1
+passear;3
+nojento;1
+arcondicionado;1
+mG;3
+estimulante;1
+nutriente;4
+esquiador;5
+sujeito;1
+corresponder;1
+Paraiba;3
+Salvador;5
+nevoa;1
+convidar;2
+EUA;11
+Cadu;2
+fraco;5
+triunfo;1
+acusacao;1
+inexperiencia;1
+gosto;1
+tratamento;1
+romper;3
+funcionario;2
+calcular;2
+mi;1
+ocorrer;10
+mm;1
+codigo;1
+Cafe;1
+fornecimento;1
+lance;3
+lanca;1
+ampliar;1
+marmorizacao;1
+franquia;1
+fiscal;1
+trabalho;13
+ABNT;1
+quinze dias;3
+produtivo;2
+galpao;1
+contrabando;1
+tendencia;2
+nu;3
+perna;2
+Globo;1
+Paulo Eduardo Razuk;1
+Cafu;2
+Antonio Bivar;1
+of;1
+reserva;1
+ferida;1
+embacar;2
+dado;2
+cruzar;3
+Cooperativa;1
+irritar;2
+erosao;17
+Melvin Evans;1
+edicao;5
+porcao;1
+instalar;2
+pe;4
+sucesso;9
+por cima de;2
+Paris;5
+seca;16
+basear;2
+azar;2
+reduzir;7
+Geer;2
+seco;6
+anexar;1
+rG;1
+correr;9
+colocar;7
+cotar;1
+madeira;3
+de corrida;2
+virar;1
+curiosidade;1
+caseiro;1
+artificialmente;1
+sodio;2
+redwood;1
+pitoresco;1
+alagar;3
+John Paul Jr;1
+ouvir;5
+equipar;1
+sequestrar;4
+firmeza;1
+Rede;1
+repassar;1
+disfuncao;1
+Seguradora;2
+Luisinho;2
+caatinga;1
+angustia;1
+prolongar;1
+exposicao;1
+vascaino;3
+conquista;2
+Fabinho;1
+Ronaldo;1
+conversar;1
+erradicacao;1
+secretario;2
+conversao;1
+importacao;1
+empate;1
+Refugee;1
+Referencia;1
+Gianfranco Fini;1
+inverno;13
+cocar;1
+passeio;4
+renovar;1
+pugna;1
+absurdo;2
+voltar;9
+sobrar;1
+estiagem;7
+Lihue;1
+so;19
+constar;1
+engate;1
+removivel;1
+norma;1
+enderecar;1
+diferente;3
+Florianopolis;2
+Rio de Janeiro;2
+rebocar;1
+Sao Paulo;26
+cuidar;2
+retorno;2
+inflamacao;1
+desnivel;1
+metropole;3
+em redor de;1
+ao contrario de;1
+manchete;1
+compatibilidade;1
+Marilia;1
+equiparavel;1
+lugar;11
+desertificar;2
+graminea;1
+safrinha;4
+escrever;4
+leptospirose;1
+imovel;3
+predio;1
+Outrigger Kauai Beach;1
+reptil;1
+desenvolver;1
+coincidir;1
+polinesio;2
+comerciante;1
+sensivelmente;1
+por aqui;1
+cadeira;1
+Defesa;1
+Rabelo;1
+encadernacao;1
+colher;5
+absorver;3
+Peugeot;1
+brake;3
+obedecer;1
+acelerar;2
+considerar;9
+pintor;1
+Vida;2
+reviravolta;1
+operador;1
+colo;1
+Mundo;4
+Francisco Diniz;1
+dano;3
+caber;1
+de batida;2
+Andrea Gerbase;1
+tecido;3
+identificar;2
+locomover;1
+privado;1
+amiga;1
+gay;1
+ora;1
+desempenho;2
+divisa;1
+regime;1
+advogado;2
+aqui;2
+assim;5
+circulo;3
+Renato Correia;1
+remunerar;1
+orvalho;1
+New Jersey;1
+Mont Tremblant;1
+amigo;11
+venda;11
+Lombardia;1
+funcionar;3
+produtividade;1
+SP Litoral;1
+equipamento;8
+talento;2
+Irapuru;1
+Citroen ZX Volcane;1
+cinto de seguranca;5
+parque nacional;1
+pacecar;4
+software;1
+peleja;1
+Brizola;1
+somar;2
+dermatologista;1
+Rizzieri;1
+justo;2
+presenca;2
+Villaboim;1
+enamorar;1
+sanitario;1
+volante;3
+vitamina;1
+umidade;3
+laurel;1
+sucumbir;1
+frente;5
+precioso;1
+mercadoria;1
+nome;6
+esportividade;1
+cativo;1
+adiamento;1
+choco;1
+pleno;4
+forca;2
+mensalidade;1
+norte;12
+esquisito;1
+medicinar;1
+ambiente;1
+centigrado;1
+cabeca;12
+tanto;3
+Menina;1
+vencer;7
+longe;2
+reuniao;2
+avancar;3
+Marcio Forti;1
+Casa;2
+ponto;17
+longo;7
+lider;4
+citacao;1
+angulo;1
+mangueira;2
+Michael Andretti;3
+ponte;1
+selvagem;1
+garganta;1
+casal;3
+selo;1
+escassez;1
+Chuck Daly;1
+Oscar Kanno;1
+curioso;1
+preciso;4
+balancear;1
+ovo;1
+fertilizar;1
+populacao;5
+aparecer;4
+Eliseos;1
+reposicao;1
+Venezuela;3
+Hyatt Regency Kauai;1
+Cremonese;2
+desde que;2
+Robert Louis Stevenson;2
+ajustar;1
+ligacao;2
+carromadrinha;1
+ribeirao;1
+data;2
+Bota;4
+melhorar;5
+magia;1
+argentino;1
+coro;1
+Ede;1
+depressao;1
+cascalho;1
+Romario;1
+tabela;1
+costa;5
+corrida;13
+La Stampa;1
+Elba Ramalho;3
+excedente;1
+assoreamento;1
+Sergio Gil;1
+capuchinho;1
+Dudink;5
+criminal;1
+Escandinavia;2
+quase;18
+estatistica;2
+aproximadamente;1
+bezerro;1
+braco;1
+mais de;7
+turismo;4
+castigar;1
+Adao;1
+Ufir;2
+depender;5
+imediato;2
+homemdelata;1
+Motorshop;2
+FHC;1
+doloroso;1
+novamente;3
+caderno;1
+vontade;1
+negociar;3
+por volta de;2
+esperanca;3
+poluicao;3
+Milanelo;1
+exportar;2
+sexta;1
+Colombo;1
+continuar;16
+regularizar;1
+decretar;2
+explicacao;2
+confronto;1
+Alta;1
+fusivel;2
+consequencia;5
+independentemente;1
+cota;1
+acolchoar;1
+estender;2
+mudo;1
+aventura;3
+Sao Paulo Clube;1
+paranaense;1
+favela;1
+piraja;1
+Rafael;1
+Mezza;1
+governo;6
+tarar;1
+novo;33
+Tribunal;3
+covo;1
+Companhia Nacional de Abastecimento;1
+moderno;1
+amazona;3
+avenida;3
+menos;1
+remoto;3
+basto;1
+descoberta;1
+ultimo;20
+pedir;7
+radiador;2
+estadual;2
+cratera;2
+arrancar;1
+Marcelo Panico;1
+escorregar;1
+quarenta;1
+junto;1
+sera;2
+util;6
+atualizar;1
+perigo;1
+Eric Bernard;1
+manifestacao;1
+marron;1
+liberar;1
+fornecer;2
+atleta;1
+mineiro;1
+vigorar;1
+registrar;7
+interessante;1
+urbano;3
+durar;6
+indisciplinar;1
+prazo;5
+tribunal;2
+arquipelago;3
+policial;4
+Maceio;2
+dividir;4
+laranja;1
+agricultor;3
+toxico;1
+editorial;4
+convir;1
+americana;1
+garimpo;1
+porem;4
+sacrificar;1
+americano;2
+temor;1
+Joao;1
+eficiencia;1
+tarde;5
+comportamental;1
+New England Journal;1
+pratica;1
+cumprimentar;1
+trilho;1
+fruta;6
+atender;2
+Inter;1
+gol;3
+crescer;5
+substituir;3
+FNP;1
+entardecer;1
+tremendo;2
+Vaea;1
+inundar;1
+queda;10
+organico;2
+Trinidad;1
+pag;7
+pai;5
+maioria;6
+Derrick Coleman;1
+voar;1
+area;19
+Dalmo Rosalen;1
+costumar;5
+segurador;1
+corrreio;1
+especial;10
+liso;1
+assistir;3
+totalmente;4
+a fim de que;1
+OAB;2
+trilha;4
+Queiroz;1
+fruto;1
+abaixo de;4
+Dracena;1
+azul;1
+vidro;2
+tossir;1
+promissor;1
+regional;2
+despedir;1
+multiplicar;1
+Vasconcellos;1
+ativar;1
+memoravel;1
+fatal;1
+acougue;2
+Morihiro Hosokawa;1
+levantar;2
+vegetal;1
+Martin Brundle;1
+Suzuki Swift GTI;1
+alteracao;1
+qualquer;4
+voce;11
+rebaixamento;2
+proporcao;2
+Apple;1
+lado;6
+Cingapura;3
+Farias;1
+servico;7
+sexo;1
+viuva;1
+familia;4
+agradavel;2
+pedagogico;1
+decisivo;1
+injustica;1
+Manoel Bertone;1
+dificuldade;5
+redencao;1
+discussao;1
+derrotar;1
+suspender;2
+ultrapassagem;3
+Sylvio Lazzarini Neto;2
+fisga;1
+musical;1
+peca;2
+pedra;1
+aparencia;1
+Procon;2
+anteceder;1
+lago;1
+exdeputado;1
+diferentes;1
+elastico;1
+pesquisar;2
+conhecimento;1
+Taburello;1
+multidao;1
+caracteristica;3
+azulacinzentado;1
+indice pluviometrico;1
+artico;2
+precipitacao;1
+tosco;4
+parecer;7
+Assis Diniz;1
+Ilha;2
+nativo;4
+convencional;1
+Thales Gradi;1
+encher;1
+convencionar;1
+Toledo;2
+Net;2
+modalidade;2
+Alta Mogiana;1
+arroz;6
+Dick Simon;1
+submeter;2
+Paul McCartney;2
+virgem;2
+tempo;7
+traseiro;5
+Fabio Capello;1
+particula;3
+remocao;3
+enfrentar;5
+aperfeicoar;1
+agitacao;2
+em forma de;1
+afetar;1
+pio;1
+tico;1
+pit;2
+satisfatorio;1
+Mafia;1
+botar;1
+desde;11
+competidor;1
+Valdir;1
+arma;2
+em razao de;2
+morte natural;1
+conforto;1
+Vale;1
+inquerito;1
+Drazen Petrovic;1
+cartel;1
+estudante;5
+Pointer GTi;1
+verao;5
+Daewoo;1
+massa;2
+causa;5
+entrar;13
+assumir;7
+fascinante;1
+impunidade;4
+verde;3
+horas seguidas;1
+artigo;3
+largar;7
+Omega;2
+parcela;1
+Autolatina;1
+Auto;1
+Williams;16
+Recife;2
+treinador;1
+muro;3
+extra;1
+em direcao a;2
+acostumar;2
+Beth Carvalho;4
+acrescentar;1
+combinar;2
+profundidade;2
+tracado;2
+amadora;1
+consecutivo;2
+campeao;3
+tipicamente;1
+Sebastiao Curio;1
+Nio;1
+destaque;3
+Los Angeles;3
+lama;1
+continuamente;1
+Caixa de Funeral de Paul McCartney;1
+correia;1
+irregularidade;1
+John G;1
+desconto;6
+Cincinnati;1
+Kauai Hilton;1
+aumento;9
+bater;12
+recuperar;4
+comercializar;3
+Pedro Baranda;1
+Vara;1
+Francisco;1
+falho;1
+concorrer;1
+Kokee;1
+federacao;1
+ligar;5
+Rio Grande do Sul;3
+garrincha;1
+faceta;1
+Esalq;1
+libertar;2
+Tatuape;3
+receita;1
+preservar;1
+residencia;7
+figurino;1
+aplicacao;1
+Africa;1
+coordenar;2
+irritante;1
+parque;4
+Rovaniemi;4
+freio;12
+Turibio Leite;1
+primeiroministro;1
+melhor;1
+Molecula;1
+deserto;4
+decisao;2
+pessoal;7
+Albert Camus;1
+Vovo Regina;1
+amante;1
+evocar;1
+caramba;1
+Jiang Zening;1
+decolar;1
+molecula;3
+horizonte;1
+permanente;1
+assistencia;3
+fazedor;1
+limite;4
+Industria Fruteza;1
+arte;1
+projecao;3
+revestir;1
+Brasil;20
+defumar;1
+dispositivo;1
+Jose;1
+Laurindo;1
+ONU;1
+colecao;1
+desporto;2
+canal;1
+preocupar;5
+pena;2
+voluntario;1
+arvore;9
+deslizamento;1
+Flauta Doce;1
+tarifa;1
+grampear;1
+desejar;1
+Jackie Stewart;1
+semana;21
+ginastica;1
+irrigacao;1
+mandacaru;1
+dentro de;8
+tonelada;9
+miniatura;1
+agencia internacional;2
+perito;2
+parafuso;1
+safra;7
+palmeirense;1
+projetil;1
+banheiro;1
+Caetano;1
+soltar;1
+injecao;4
+correto;1
+baixar;4
+embarcacao;1
+pra;1
+passagem;2
+industria;5
+Colombia;2
+cacador;1
+alegre;1
+duramente;1
+espantalho;1
+NBC John Chancelor;1
+abertura;3
+chale;3
+Dener;38
+ITAU;2
+requerer;2
+travar;1
+junho;7
+higiene;1
+falar;11
+fisiologista;1
+gerenciamento;2
+Toquio;1
+assassinar;1
+proporcionar;1
+lixia;1
+paulista;9
+frear;1
+Helio do Prado;1
+geada;6
+mudar;4
+Aracaju;1
+antecipar;3
+escala;6
+equacao;1
+pelo contrario;1
+rachadura;1
+solidao;1
+pobreza;1
+confirmar;1
+medida;3
+Desertizacao;1
+cascavel;1
+organizar;1
+exercer;1
+quinzena;1
+medico;5
+a mais de;3
+time;7
+embargo;3
+Antonio Jose Silveira Paulilo;1
+tremor de terra;1
+nascimento;3
+tipo;7
+ganho;1
+prato;1
+tras;3
+zodiaco;1
+multa;1
+happy;1
+reparar;1
+homogeneo;1
+Laponia;3
+sobrevivencia;1
+solicitar;2
+Policia Florestal;1
+doente;1
+Clifton Mitchell;1
+assento;2
+pneu;3
+pagina;5
+Banff;1
+peso;4
+diodo;1
+Santa Catarina;2
+emprestar;2
+admitir;1
+Vigilancia;1
+junior;3
+visita;1
+cercar;1
+noroeste;2
+light;4
+nadar;1
+seculo;2
+Anfavea;1
+oxigenio;1
+regulagem;2
+agravar;2
+vendaval;1
+acontecer;12
+tiro;1
+Whistler;1
+esperar;8
+pirata;1
+descobrir;6
+ensaiar;1
+Banco;1
+manejo;1
+piscina;3
+temer;1
+Joan Baez;1
+gerar;4
+editor;1
+Londres;4
+inviabilizar;1
+terreo;1
+iminente;1
+obra;1
+curvar;1
+osso;1
+Sapucai;1
+tartaruga;6
+convencer;1
+fator;2
+perguntar;2
+Losacco;2
+chao;1
+carencia;3
+trabalhar;2
+Albuquerque;1
+em frente de;1
+ouvinte;1
+juiz;9
+Gloria;1
+Formula;2
+Austria;1
+ameaca;3
+mauasin;1
+tambem;32
+previsao;5
+pedido;1
+Curso;1
+questao;4
+rapidamente;2
+fundo;2
+alcada;2
+amanha;2
+indenizacao;6
+geral;3
+Ordem;1
+Bameirindus;1
+paixao;1
+cavar;1
+rebatizar;1
+novela;3
+campo;7
+apreciaddo;1
+imprudencia;1
+estabilidade;1
+Priscila Germakli Valenta;1
+obaoba;1
+taca;1
+fortaleza;1
+renovacao;1
+altitude;3
+Edson Romanholi;1
+recentemente;1
+meca;1
+paisagem;3
+Mussolini;1
+Guido Jose da Costa;2
+farinha;1
+Flavio Jose;1
+point;2
+escandalo;2
+Kitzbuehel;1
+reerguer;1
+sacudir;4
+europeia;1
+Caminho das Borboletas;1
+Rantasipi;1
+condominio;3
+desafio;2
+piorar;2
+doleiro;1
+parachoque;1
+montadora;1
+alias;2
+hospital;8
+mundial;15
+Foggia;2
+portuguesa;1
+facil;5
+esforco;1
+europeu;4
+magico;1
+conduta;1
+punicao;4
+Bangladesh;1
+barrar;1
+unico;10
+de roda;2
+acordo;1
+frutapao;1
+antigo;2
+barro;3
+Lufthansa;1
+Caixa;1
+serra;2
+Bill Clinton;1
+liquido;3
+bovino;3
+soterrar;1
+diverso;2
+medo;1
+marca;1
+acabar;11
+vitimar;1
+decretolei;1
+fiar;3
+coordenador;2
+festival;8
+firme;1
+desembarcar;2
+leste;3
+tecnico;8
+Freitas;1
+California;5
+champanhe;1
+Kadett GSi;1
+tecnica;3
+Junqueiro;1
+carregar;3
+orgao;1
+disparada;1
+Valcir Milanelo;1
+lideranca;1
+comer;3
+unidade;2
+extenso;1
+Courchevel;1
+irma;2
+despencar;2
+interior;5
+Goias;1
+calmo;1
+patamar;2
+idade;4
+Salt;3
+abacate;1
+convento;1
+desempenhar;1
+integral;1
+convite;4
+processar;1
+em miudos;1
+ICMS;1
+marco;7
+Mitsubishi;3
+acerca de;1
+abobora;2
+engordar;1
+insensivel;1
+em torno de;4
+apreender;1
+emissario;1
+convocar;1
+norteamericano;9
+McLaren;3
+domingo;11
+modesto;1
+safar;1
+Maria Emilia Santos Freire;1
+Adrian Fernandez;1
+meio;4
+hidrico;2
+clandestinamente;1
+Fluminense;2
+tala;3
+Roma;1
+Princeville;2
+entrega;1
+delimitar;1
+promover;1
+Marcelo Paiva;1
+concorrente;1
+cacto;1
+Golf;3
+esprimir;2
+outonoinverno;1
+precariedade;1
+passar;23
+GPs;3
+beneficiar;2
+demoniaco;1
+gangue;2
+Economist;1
+tercafeira;2
+hoje;29
+trator;3
+atomo;1
+altura;4
+UFRS;1
+produtor;6
+toalete;2
+Victor Abou Nehmi Filho;1
+Genova;2
+Baggio;1
+condenacao;1
+atencao;8
+lembranca;2
+dominio;1
+todo o mundo;1
+cachoeira;1
+imigracao;1
+bagagem;1
+santo;1
+Paul Tracy;1
+citar;2
+alterar;1
+Ayrton Senna;8
+cobrir;15
+xilofone;1
+greve;1
+Barrichello;1
+solo;20
+Raul Boesel;2
+triste;1
+Sinval;1
+material;3
+eliminar;1
+floresta;3
+GTI;1
+muscular;1
+institucional;1
+confusao;1
+ritmo;4
+Kawano;1
+executivo;1
+varejo;1
+TVUdinese;1
+superficial;2
+baixo;9
+pescar;2
+proximo;18
+May Shuravel;1
+Calazans;1
+a titulo de;1
+interceptar;1
+GTi;1
+executiva;1
+iminencia;1
+vocoroca;1
+Alberto Noli;1
+as vezes;1
+revolver;2
+belo;6
+sono;1
+espaco;3
+imprensa;1
+jet ski;1
+Levantamento do Solo;1
+Letrinha;1
+austriaco;2
+Santiago;3
+fantasia;1
+Manoel;1
+sulamericano;1
+enchente;3
+Taiwan;1
+filme mudo;1
+com vontade;1
+operar;1
+Teo Fabi;3
+Maria Laura;1
+periodo;9
+hora;20
+Secretaria da Agricultura;1
+companhia;2
+jumento;1
+Carlos Kauffmann;1
+desanimador;1
+existencia;3
+ocidental;1
+Marques;1
+pelotao;1
+plantar;7
+dificil;2
+experiencia;3
+Carl Sagan;1
+painel;3
+relatorio;1
+destombamento;2
+conscientizacao;1
+reestilizar;1
+possibilidade;1
+organizacao;2
+GP Brasil;1
+arido;1
+acessorio;4
+Medeiros;1
+Nelson Marques;1
+populoso;1
+destrocar;1
+anular;3
+Renata;2
+sombrio;1
+tralha;1
+reajuste;2
+Saint Paul;1
+sinal;6
+vazante;1
+Walter Gomes;1
+radio;1
+errar;4
+tamanho;1
+atropelar;1
+descartar;1
+Rolf Weber;1
+sabado;3
+Saara;1
+Ayrton Senna da Silva;1
+automovel;17
+O Magico de Oz;1
+condicao;14
+praia;11
+problema;18
+desprazer;1
+regressivo;1
+ondular;2
+piloto;20
+ondulacao;2
+proteger;4
+professor;1
+astro;1
+milhar;2
+morador;3
+diariamente;1
+envolver;7
+surpreender;1
+o que;11
+milhao;20
+evitar;20
+quebrar;4
+cervical;1
+Vectra;1
+pelar;1
+desregular;1
+dispersar;1
+diretora;1
+hour;1
+cobrar;2
+penalmente;1
+na frente de;1
+baixa;1
+cuidadoso;1
+setembro;10
+Antonio Marson;1
+Antonio Alberto Canabrava;1
+Lotus;1
+checar;1
+Argelia;7
+internacional;5
+percentual;1
+predador;1
+exclusivamente;1
+pretender;5
+migrar;2
+alcancar;1
+antivirus;1
+fracassar;1
+ganhar;9
+Premio;2
+programa;9
+grafiteiro;1
+Celso Amorim;1
+sentido;2
+receber;19
+metodo;1
+temporal;1
+taxa;2
+cerca de;13
+maquete;1
+Codigo;1
+taxi;2
+Flavio Briatore;1
+riquinho;1
+Senna;12
+dissolver;1
+escolha;1
+Ituano;1
+reger;1
+Jair Marinho;1
+funeral;1
+cozinha;1
+supor;1
+rodar;1
+desligar;3
+Eduardo;1
+Stroll;3
+bilhao;2
+fundamental;1
+mauricio;1
+global;1
+prisao;2
+lancar;4
+incerteza;1
+fisioterapia;1
+matutar;1
+temperatura;3
+milimetro;1
+ANTONIO Penteado MENDONA;1
+diversos;2
+perspectiva;1
+roubo;1
+fita;1
+extensao;1
+valor;9
+Merrill Lynch;1
+planta;5
+Internacional;1
+de espaco;1
+comissao;8
+segredo;2
+Equipe;2
+Ceagesp;1
+musica;5
+comum;5
+escoamento;2
+Wesley;4
+Napapiiri;1
+explosao;1
+a despeito de;1
+espectador;1
+Jules Rimet;1
+batizar;1
+esquerda;1
+Pontal de Paranapanema;1
+anfitria;1
+evidentemente;1
+Portuguesa;4
+cronobiologista;1
+positivo;2
+ruim;1
+Verona GLX;1
+nevoa seca;2
+Lucienne;1
+opcional;1
+erguer;1
+discordar;1
+cotejo;2
+torrencial;2
+meiodia;1
+Hockenheim;1
+combustivel;5
+endosso;1
+ciclo;1
+automobilismo;1
+sequeiro;1
+profissao;3
+acomodacao;3
+ajuste;1
+Distrito Federal;1
+fazenda;5
+chuvoso;1
+necessitar;1
+conforme;3
+cliente;5
+exceto;1
+Gal;1
+potencial;1
+Santos;2
+Marelise Porto;1
+imenso;2
+comida;1
+artulio;1
+frio;5
+suplementar;2
+Editora;3
+perpetuo;1
+Caymmi;1
+conquistar;1
+Russia;1
+causar;7
+adiar;1
+regenerar;1
+por causa de;5
+Phoenix;6
+Confaz;2
+Ilmor;8
+apesar de;7
+PUC;1
+acreditar;4
+exigir;3
+rapido;7
+Ferraz;1
+dentro;1
+financeiro;2
+preparativo;1
+Baby Dreams;1
+relevo;1
+Pantanal;6
+artificial;1
+refugio;2
+tubulacao;2
+serio;1
+enfim;1
+nacao;1
+sistema;11
+favorito;3
+inicio;11
+classificar;2
+irrecorrivel;1
+Gilberto Neves;1
+segundo;53
+encomendar;1
+socorro;3
+demorar;2
+arabe;1
+Victor Abou Nehme;1
+pacientemente;1
+responder;5
+suspeito;3
+Estados Unidos;3
+coleta;1
+padecer;1
+restrito;1
+universidade;1
+policia;3
+equivaler;1
+isca;1
+ciar;1
+Puyuhuapi;1
+Bovespa;1
+amarelado;1
+breakfast;1
+Pooh Richardson;1
+Guaruja;2
+alugar;2
+melhoramento;1
+dramatico;1
+escolta;1
+Porto Alegre;4
+BAMERINDUS;2
+fabricacao;1
+nucleo;1
+incrementar;1
+Piranga;1
+Reportagem;1
+dormir;4
+Kittila;1
+Nordeste;4
+em comparacao;1
+espanhol;1
+execao;1
+seringueira;1
+consequentemente;1
+aeroporto;5
+japones;10
+Morumbi Shopping;2
+Monza;3
+Secretaria do Meio Ambiente;1
+propriedade;3
+substituto;2
+palestrar;1
+Palo;1
+cultura;6
+oleo;4
+Caesar Park Ipanema;1
+Marta Suplicy;1
+morro;2
+tingir;1
+Brasilia;10
+observacao;2
+Kadett Lite;1
+inspecionar;1
+atar;1
+quente;2
+olho;3
+ontem;42
+ambos;9
+constante;2
+Lise Aron;1
+Christian Fittipaldi;1
+teoria;2
+habilitar;1
+degradacao;2
+menos de;6
+Camara;1
+certamente;1
+fama;1
+resolver;3
+aldeia;1
+emprestimo;1
+ferimento;1
+periferico;1
+Japao;8
+comprimir;1
+diversao;1
+MTV Sports;2
+arrendar;1
+Rio Doce;1
+caminhar;1
+predominar;1
+Gil;1
+enlatar;2
+caminhao;1
+sismologia;1
+antepenultimo;1
+psicodelico;1
+reciclar;1
+Priscila;7
+morte;13
+regra;3
+atacante;8
+normalizar;1
+slogan;1
+morto;8
+procura;3
+caverna;1
+Beatles;2
+transporte;2
+emissora;1
+clube;3
+momento;8
+Udinse;1
+reducao;3
+Mauro Sposito;1
+morrer;15
+papel;4
+agosto;9
+obrigatoriedade;1
+Sergipe;2
+Regina Drummond;1
+pessoa fisica;1
+Mario Andretti;2
+arcoiris;1
+imposto;1
+Frisco;1
+Sem Misterio;1
+frenetico;1
+performance;1
+polo;1
+arriscar;1
+serie;2
+Teixeira;1
+salgar;2
+acao;5
+Itau Seguros;1
+pronto;1
+Winthrop H;1
+aguar;1
+ion;1
+Botnia;1
+sorte;5
+comercial;2
+paraiso;2
+passaporte;2
+episodio;1
+ingenuo;2
+assalto;1
+cumplice;1
+Adriane Galisteu;2
+carioquinha;1
+ipe;1
+biologico;1
+abastecer;2
+Para;1
+passo;4
+fonte;3
+consultor;3
+tornar;4
+passe;1
+ciclicamente;1
+Mika;2
+felicidade;1
+colheitadeira;1
+Geraldo Magela;1
+municipal;3
+copia;3
+enquadrar;1
+titular;4
+Exercito;1
+manual;7
+Paul;3
+buraco;1
+planejamento;2
+invencao;1
+fraturar;3
+estabilizar;1
+Heimann;1
+providenciar;2
+fato;3
+mudanca;2
+personagem;1
+oficial;4
+adutor;1
+prometer;1
+distorcer;1
+conter;3
+estreito;2
+significado;1
+fase;1
+Gol;7
+ninho;2
+madrugada;2
+protocolar;1
+Century;3
+inventar;2
+Sucursal;4
+Cocamar;1
+pela manha;2
+referencia;1
+frontal;1
+ao redor de;1
+levemente;1
+proibicao;1
+caixao;1
+rural;1
+eleicao;2
+decomposicao;1
+Marco Greco;1
+fenomeno;6
+ostentar;1
+rustico;1
+Pianco;3
+aco;1
+balneario;1
+Equador;1
+Mesbla;1
+rei;2
+controle;3
+cambio;6
+chines;2
+excesso;3
+patrimonio;2
+Kadett;1
+Indy;6
+neofascista;1
+hoteleira;1
+independente;3
+amador;1
+pecuarista;10
+assustar;3
+estrela;1
+pasto;1
+povo;2
+Antonio Penteado Mendonca;1
+Jacques Villeneuve;1
+Dis Dog;1
+enviar;5
+durante;17
+atordoar;1
+pasta;1
+molecular;1
+alegrete;2
+enxaguar;1
+apartamento;2
+limpador;1
+concha;1
+cinto;6
+advertencia;1
+trocar;5
+San Francisco;9
+micro;6
+distar;1
+Suingue;1
+por enquanto;1
+publicidade;1
+IDTR;1
+indicar;7
+monitoramento;1
+filtro;3
+Jose Maria;1
+memoria;1
+cirurgia;2
+Souza Silva;1
+chateau;1
+number;2
+caca;1
+conceder;1
+Baby Seguro;1
+reclamar;1
+Kelvin;1
+Stefan Johansson;2
+Agencia;1
+entrevista;1
+rio;19
+avaliar;3
+Paulo Eduardo;1
+inventario;1
+semelhante;1
+Silva;1
+encaminhar;3
+ambiental;1
+municipio;3
+historico;1
+impacto;1
+Transito;1
+abrigar;2
+Espirito Santo;2
+Jimi Hendrix;1
+cobertor;1
+Finlandia;4
+funcao;3
+Stefano F;1
+epoca;4
+nada;1
+Justica;2
+city;1
+extraoficial;2
+por exemplo;9
+sonhar;2
+suspensao;9
+querer;10
+local;12
+arvorar;1
+marinho;2
+Clara Allain;1
+locar;1
+imponente;1
+incrivel;1
+classificacao;2
+passageiro;1
+partido;2
+agravante;1
+metro quadrado;1
+tender;3
+Golf GTI;4
+escrita;1
+cadeirinha;4
+milho;8
+iluminacao;2
+Fadinha;1
+reversao;1
+abastecimento;1
+partida;5
+informacao;1
+lento;5
+segmento;1
+bobo;1
+milha;1
+futuro;3
+jogar;11
+estrear;2
+feijao;13
+superar;2
+cortina;1
+acesso;5
+adiantar;1
+meteorologista;2
+escuna;1
+centena;3
+sindicato;3
+ala;1
+Kehaha;1
+Escort XR;1
+atriz;3
+modo;2
+ali;2
+bancar;1
+Joao Pessoa;1
+oferecer;11
+deterioracao;1
+Rocha;2
+shishi;1
+imbativel;1
+real;1
+sensato;1
+moda;2
+de um lado;1
+carrao;1
+diamantino;1
+paulistano;1
+jornalista;1
+cafe;14
+unir;1
+emanacao;1
+postal;1
+completar;3
+adaptar;1
+gear;1
+ao sabor de;1
+Lapland Travel;1
+entusiasmo;1
+rede;3
+adequadamente;1
+cidade;27
+queixa;1
+concentrar;2
+escritorio;2
+O Primeiro Homem;2
+recalibrar;1
+Aguri Suzuki;3
+em funcao de;1
+simples;3
+Estado;18
+acompanhante;3
+Capivari;1
+baleia;4
+Alagoas;3
+Haltiantuturi;1
+demais;3
+Universidade;5
+pichar;1
+contar;5
+beleza;3
+desviar;1
+ano;76
+Valeixo;6
+radical;3
+minuto;5
+chibata;2
+supermercado;2
+pacote;4
+reflexo;1
+Codesal;1
+tunel;1
+Bianco Savino;1
+Maracana;1
+Costa;2
+alarmante;1
+Udinese;3
+derradeiro;1
+Limeira;2
+Mexico;2
+armar;1
+diferenciar;1
+Turim;1
+diferencial;1
+Seitapirtti;1
+Michael Schumacher;3
+Rodolfo Konder;1
+piscoso;1
+frequencia;1
+acender;1
+confundir;1
+descascar;1
+substancia;2
+propano;1
+Livro;1
+terremoto;10
+fortemente;1
+resort;5
+cruzeiro;4
+Banco do Brasil;1
+shopping;1
+pernoite;1
+Camara Municipal;2
+Bethania;1
+capao;1
+lanchonete;2
+criar;7
+convocacao;1
+cais;1
+atum;3
+feria;5
+epicentro;1
+cair;10
+capaz;3
+curtissimo;1
+queima;1
+centimetro;2
+ferir;7
+Ayrton;2
+Unidade Fiscal de Referencia do Estado;1
+motivar;1
+turistico;4
+de volta;1
+Educacao;1
+apontar;1
+nivel;3
+alem;1
+cometer;1
+compra;2
+volatil;1
+completamente;1
+vida;13
+parcialmente;2
+mecanismo;1
+Dauai;1
+devir;2
+armador;4
+guinchar;3
+reabastecimento;1
+graca;1
+Industria;1
+mesclar;1
+emissor;1
+limpar;2
+disponivel;5
+consumir;3
+cama;1
+plantio;5
+aro;1
+excecao;1
+Kauai;8
+distribuidor;1
+ousar;1
+asa;1
+exnamorar;1
+sociedade;3
+certificar;1
+certeza;2
+os demais;1
+plastico;1
+Lola;19
+malha;1
+semestre;2
+algo;1
+rua;8
+Detroit;1
+situacao;3
+holandes;10
+Mansell;1
+exportador;1
+tematico;1
+de ponta a ponta;1
+Woodstock;3
+ate;40
+Curitiba;2
+protesto;1
+mercado;23
+descer;2
+ouro;1
+Erica;1
+Bethel;1
+ato;3
+crescimento;2
+pesquisador;2
+duro;3
+comprovar;1
+deslocamento;1
+Associacao;2
+negocio;2
+bola;8
+estadio;1
+derrubar;1
+indenizar;3
+gripe;1
+Willy T;1
+Rio Negro;1
+oceanografico;1
+intensidade;1
+subida;1
+finalista;2
+cros;3
+margem;1
+emergir;1
+torneio;3
+prospecto;1
+acentuar;1
+New York Times;1
+Ribbs;2
+show;4
+silencio;1
+bonito;1
+plantacao;1
+responsabilizar;1
+assunto;2
+ave;2
+pizza;1
+negativa;1
+admirar;1
+RioNiteroi;1
+Scott Sharp;1
+Gianluca Vialli;1
+avo;1
+repertorio;1
+maribondo;1
+capa;2
+desfrutar;1
+Gustav Kunst;1
+Carlos KAUFFMANN;1
+foliao;1
+tribal;1
+hectare;6
+atualmente;2
+pastagem;2
+comecar;26
+perdas e danos;1
+grafico;1
+tricampeao;3
+claudicar;1
+relembrar;1
+Torino;2
+grilo;1
+Escort Hobby;1
+frota;2
+casa;15
+vestiario;1
+agrotoxico;1
+regulamentar;2
+manter;13
+por que;4
+nomear;1
+axe;2
+Cidade;1
+circuito;14
+Joe Verstappen;1
+comemorar;2
+rena;3
+caso;22
+relacao;1
+Magia do Cinema;1
+saida;2
+item;2
+cara;5
+obter;3
+imagem;5
+Richter;2
+queimada;1
+embarcar;2
+habitante;4
+saque;1
+Penske;4
+nervoso;1
+caro;4
+tracar;1
+comportamento;2
+empurrar;1
+localizar;5
+dezembro;8
+Vancouver;1
+machucar;1
+capotar;2
+proprio;3
+guard;2
+favoravel;2
+leitor;1
+Meu Guri;1
+nitrogenio;1
+discutir;3
+recusar;2
+proprietario;1
+San Cristobal;1
+fechar;7
+medicamento;1
+reencontrar;2
+vila;2
+Maua;1
+cerrar;1
+reexibir;3
+articulacao;1
+Michael Peter Fay;1
+trupe;1
+insuficiente;1
+quinteto;1
+Irvine;1
+complementar;1
+entre  e ;1
+Ligier;1
+habito;2
+leilao;3
+substituicao;1
+Campeonato;2
+alarme;1
+autoridade;2
+consideravel;1
+Monaco;4
+cientifico;2
+Anunciacao;1
+Paquistao;1
+Uferms;1
+separar;2
+ar condicionado;1
+bronquiolo;1
+recibo;1
+crianca;5
+chamada;1
+utilizar;1
+Horizonte;5
+cientista;7
+adquirir;6
+chamado;3
+Escalone;1
+quadrar;1
+revelar;2
+comercio;1
+comprador;3
+ninar;2
+desovar;1
+Comercio;2
+Silvia MacFarlend;1
+direito;2
+Lagoinha;1
+alto;20
+outubro;12
+boxe;1
+moleque;1
+reta;2
+America;1
+encarar;1
+Lacerda;3
+Internazionale;1
+cesta;9
+sudoeste;3
+sal;3
+roubar;1
+sao;7
+original;2
+Vidainvest;1
+desspachante;1
+composicao;1
+corrupcao;4
+cismico;1
+noticia;5
+sonegar;1
+possuir;1
+precisar;8
+alta;9
+fertil;2
+degolar;1
+IPC;1
+organizador;2
+opcao;3
+Gerhard Berger;1
+Monica Highway;1
+confiar;1
+pescado;1
+Silvia Mosca;1
+camada;3
+potente;2
+participar;2
+Maria Ester Martinho;1
+Policia;3
+frango;4
+qualidade;5
+destinar;1
+em vida;2
+globo;1
+trimestre;2
+aprovar;5
+publicacao;1
+camisa;1
+em cadeia;1
+plano;7
+confortavel;1
+anonimo;1
+adotar;1
+desfile;1
+maracuja;1
+goleiro;3
+dead;1
+terceiro;4
+parente;2
+competencia;1
+exotico;1
+confinar;4
+coluna;5
+civil;4
+Dener Augusto;1
+inadequado;2
+denominar;1
+sofrer;9
+palavra;4
+tremor;5
+patrocinio;1
+arremessar;1
+oval;3
+aderencia;2
+medicina;1
+categoria;4
+transgressao;1
+desculpa;1
+concretizacao;1
+calcanhar;1
+suficiente;5
+expulsar;2
+optar;1
+comemoracao;1
+incorporar;1
+invalidez;1
+igual;2
+silencioso;1
+Israel;1
+vaca;1
+onibus;5
+Ampezzo;1
+cancelar;1
+mais nada;1
+omissao;1
+parte;11
+liquidacao;1
+impossivel;2
+bem;12
+autuar;1
+macio;4
+confianca;1
+Unesco;1
+vivo;4
+funcionario publico;1
+frentista;2
+adocao;1
+indigena;2
+procedente;1
+livrar;3
+energia;2
+violao;1
+desertificacao;9
+atividade;5
+buscar;2
+Monica Barki;1
+sentir;6
+provar;1
+reacao;2
+Trilho;1
+direcao;9
+fazendario;1
+quadrissemana;1
+Fusca;1
+sim;2
+hipocrisia;1
+Buddy Lazier;1
+resgatar;1
+jogo;6
+eficaz;1
+balde;1
+Apas;1
+fechamento;2
+AGF;2
+historia;8
+Gibb;1
+vago;1
+legalmente;1
+intermediario;4
+falso;1
+mundo;6
+Escola;3
+convencao;1
+periodico;1
+vaga;2
+Papa Milho;1
+Lehto;2
+representante;3
+falta;6
+mistura;1
+cheque;1
+sintetizar;1
+regulavel;1
+velhinho;1
+Proprietario;1
+escorrer;2
+retornar;2
+Genoa;2
+sobreviver;2
+sentenca;1
+devido a;7
+monopolizar;1
+necessario;3
+drink;1
+autor;3
+levar;12
+India;1
+carnaval;4
+votacao;2
+declividade;1
+poeira;2
+Escort;1
+Terra;1
+vermelho;3
+selecao;8
+acusar;1
+escolher;1
+aliviar;3
+a partir de;9
+atracao;3
+Alemanha;3
+namorada;1
+hospedar;1
+acirrar;1
+vale;2
+planejar;1
+figurar;1
+Biblia;2
+salsicha;1
+penal;2
+Companhia;3
+Borges;1
+em casa;4
+Bradesco;1
+declinio;1
+bojudo;1
+faltar;5
+ilha;19
+principalmente;4
+exfutebolista;1
+patrocinar;2
+manipular;1
+Bernardo;2
+escalada;1
+silvestre;2
+especialmente;1
+Jose Antonio;2
+luta;1
+vespera;2
+aproveitar;3
+iniciante;2
+bacia;2
+posto;1
+sol;4
+Bamerindus;1
+Terma;1
+poste;1
+predinho;1
+eucalipto;1
+helio;1
+Vasco;12
+borboleta;1
+cPI;1
+lucro;7
+posta;1
+artista;2
+rodada;3
+articulista;2
+cusparada;1
+ressecamento;1
+vizinho;2
+em pe;1
+Clinton;2
+interpretar;1
+boa;1
+GraBretanha;1
+seguradora;8
+avancado;1
+Apia;3
+garateia;1
+pagamento;5
+boi;11
+carreira;5
+angico;1
+bom;51
+Reginaldo;1
+deixar;17
+resistir;1
+mensagem;1
+RPG;2
+tento;1
+friamente;1
+dentedeleite;3
+total;7
+olhar;1
+com relacao a;1
+Alberto Cupido;1
+Europa;5
+sessao;4
+frequentar;6
+subir;13
+chance;7
+cabana;3
+sugestao;1
+Scipione;3
+pobre;1
+tocar;3
+contrabandear;1
+Planalto;1
+audiencia;1
+condenar;4
+entressafra;3
+irlandes;1
+luto;2
+exportacao;4
+quilometragem;1
+publicamente;1
+muito tempo;5
+ficar;55
+integrante;2
+Erundina;1
+Frase;2
+enterro;2
+padrao;1
+proximo a;2
+aumentar;9
+Camila Franco;1
+bancada;1
+Eneas;1
+cabide;1
+Reeve;2
+excessao;1
+freelance;1
+aparthotel;1
+improdutivo;1
+coordenada;1
+exemplo;6
+kart;3
+vara;1
+misturar;1
+provinciano;1
+jovem;5
+passado;1
+alimentar;2
+sancao;1
+lamentar;3
+semente;1
+surto;1
+motor;13
+ativo;2
+autentico;2
+sul;18
+Nova York;4
+em relacao a;2
+porto;2
+primitivo;1
+porte;1
+burocrata;2
+respeito;1
+porta;6
+Earthwatch;1
+simpatico;2
+maravilhar;2
+Everaldo de Melo Colombi;1
+silo;1
+oportunidade;1
+irmao;1
+prefeitura;1
+fluxo;2
+reunir;6
+moderar;1
+Mauricio;2
+extremo;1
+instrucao;1
+sequestrador;2
+atacar;1
+intermediar;1
+onde;23
+gravadora;1
+libra esterlina;1
+embalagem;1
+carecer;1
+atras;5
+contato;3
+psicologico;1
+viver;9
+legenda;1
+obstaculo;1
+Iea;2
+Souza;2
+fragmento;1
+onda;3
+facilitar;2
+possivel;6
+antipatico;2
+esquecer;1
+folhar;1
+Perda;1
+tradicao;1
+filme;2
+coracao;1
+achar;6
+recorde;1
+dedicar;1
+quadro;1
+Ribeirao Preto;1
+escutar;1
+General;1
+garagem;1
+interromper;1
+Sandy Point;1
+secao;2
+chibatar;1
+secar;2
+UBIRATAN Brasil;1
+entender;4
+oeste;5
+etapa;7
+basico;15
+Miniaturas Pirotecnicas;1
+provocar;12
+parar;6
+adulto;1
+satisfacao;1
+Honda;2
+oficina;7
+formacao;2
+cogitar;1
+abocanhar;1
+cuidado;3
+forrar;1
+restante;1
+missionario;1
+finalmente;1
+mortal;1
+rasteiro;1
+normal;4
+afinal;1
+gradual;1
+inteiro;1
+lavoura;1
+Embaixador;1
+Travel;1
+geladeira;1
+especializar;2
+Hugo;1
+hospede;1
+Vera Rodrigues;1
+pescador;1
+parati;1
+Urbino;1
+amplificar;1
+resumir;2
+Derek Warwick;1
+Chamonix;1
+saco;1
+verdade;3
+Vailima;4
+lanterna;4
+saca;7
+inundacao;1
+tirar;5
+nordeste;1
+Arizona;2
+filho;6
+Folhinha;1
+ostro;1
+inclusive;4
+Tobago;1
+natural;10
+freio de mao;1
+emocao;2
+todo o;29
+interno;2
+crosta;2
+enviado;1
+colaborar;2
+siri;1
+percorrer;2
+Sudeste;1
+lembrar;4
+adaptacao;1
+setor;5
+por parte de;1
+Havai;6
+Conselho;2
+kmh;5
+especulacao;1
+toda vez que;1
+atras de;3
+descomplicar;1
+reaberto;2
+guiar;4
+salvar;1
+roda;2
+artefato;1
+lutar;2
+leao;1
+em verdade;1
+zagueiro;4
+Maria Ines Fornazaro;1
+movimento;4
+consumidor;4
+regular;1
+placa;2
+dinheiro;3
+ajuda;1
+Kenny Anderson;1
+Andes;1
+barracao;1
+desistir;1
+disputa;1
+alguem;3
+certo;2
+fofoca;1
+Koloa;1
+redacao;1
+violento;1
+chocante;1
+sob o signo de;1
+elemento;3
+judiciario;1
+recepcao;1
+entremear;1
+hospedagem;4
+instabilidade;1
+estimar;3
+Jardim;1
+Numero;2
+estavel;2
+Allegro;1
+vistoria;3
+influenciar;2
+de surpresa;1
+fauna;2
+por distracao;1
+pulverizacao;1
+poleposition;1
+garantia;3
+garantir;5
+melancia;3
+ingles;5
+ausencia;1
+Maria Ines;1
+reconstrucao;1
+abordar;2
+brasiliense;1
+tal;4
+Pinheiro;1
+Scott Goodyear;1
+amarelar;1
+continente;3
+pacifico;11
+tao;6
+largura;1
+molho;1
+suave;2
+criador;2
+SULAMERICA;2
+por pessoa;2
+Tijuca;4
+inviavel;1
+Guaiba;1
+Carbel;1
+contraculturar;1
+Emerson Fittipaldi;4
+Dias;3
+empresa;12
+matar;6
+contracultural;1
+pressionar;2
+recomendar;6
+sair;16
+Stuttgart;3
+de acordo;6
+nacional;18
+provir;1
+infancia;1
+diminuir;2
+cao;3
+aniversario;4
+drama;1
+ROSANGELA;1
+praticamente;4
+reclinar;1
+quadricolo;1
+retirada;1
+mortis;1
+copa do mundo;1
+criada;1
+SBT;3
+Raiz;1
+Terry Knight;1
+infantil;3
+cabine;1
+guerra;3
+patriarcalmente;1
+informar;9
+programar;1
+departamento;2
+passivo;1
+Fittipaldi;1
+rival;1
+argumento;1
+permanentemente;1

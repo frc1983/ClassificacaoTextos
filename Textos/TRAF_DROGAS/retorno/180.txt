@@ -1,0 +1,75 @@
+professor
+formar
+equipe
+Marcos Jose Santana
+mestre
+ciencia
+computacao
+Universidade
+Sao Paulo
+instituto
+ciencia
+matematico
+sao
+Carlos
+ICMSC
+PhD
+eletronica
+computacao
+Universidade
+Southampton
+Inglaterra
+Nivaldi Calonego Jr
+mestre
+ciencia
+computacao
+matematica
+computacional
+Universidade
+Sao Paulo
+ICMSC
+doutorar
+computacao
+Universidade
+Sao Paulo
+ICMSC
+Regina Helena Carlucci Santana
+mestre
+ciencia
+computacao
+Universidade
+Sao Paulo
+ICMSC
+PhD
+eletronica
+computacao
+Universidade
+Southampton
+Inglaterra
+Walter Gomes Pedroso Jr
+bacharel
+ciencia
+computacao
+Universidade
+Sao Paulo
+ICMSC
+Ana Luisa Pena
+Andrade
+bacharel
+ciencia
+computacao
+Universidade
+Sao Paulo
+ICMSC
+Joao Carlos
+Moraes Morselli Jr
+bacharel
+ciencia
+computacao
+Universidade
+estadual
+paulista
+Ibilce
+sao
+Jose
+Rio Preto
