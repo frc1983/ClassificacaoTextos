@@ -14,19 +14,20 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class BagOfWords {
-    private static Properties prop;
-    private static InputStream input = null;
 
-    private static ArrayList<String> bagOfWords;
-    private static File dirFiles;
-    private static List<File> files = new ArrayList<>();
-    private static List<File> textFolders = new ArrayList<>();
-    private static List<ArrayList<String>> listao = new ArrayList<>();
-    private static List<String> subjects = new ArrayList<>();
-    private static ArrayList<String> linhasTreino = new ArrayList<>();
-    private static ArrayList<String> linhasTeste = new ArrayList<>();
+    private Properties prop;
+    private InputStream input = null;
 
-    public static void main(String[] args) throws IOException {
+    private ArrayList<String> bagOfWords;
+    private File dirFiles;
+    private List<File> files = new ArrayList<>();
+    private List<File> textFolders = new ArrayList<>();
+    private List<ArrayList<String>> listao = new ArrayList<>();
+    private List<String> subjects = new ArrayList<>();
+    private ArrayList<String> linhasTreino = new ArrayList<>();
+    private ArrayList<String> linhasTeste = new ArrayList<>();
+
+    public void Process() throws IOException {
         prop = new Properties();
         input = new FileInputStream(System.getProperty("user.dir") + "\\src\\config.properties");
         prop.load(input);
@@ -55,7 +56,7 @@ public class BagOfWords {
         writeARFF(linhasTeste, "teste");
     }
 
-    private static void readBagOfWords() {
+    private void readBagOfWords() {
         //Cria list com as stopWords do arquivo
         bagOfWords = new ArrayList<>();
         try {
@@ -73,7 +74,7 @@ public class BagOfWords {
         }
     }
 
-    private static void readTextFiles() {
+    private void readTextFiles() {
         dirFiles = new File(prop.getProperty("pathSubjects"));
         for (final File fileEntry : dirFiles.listFiles()) {
             if (fileEntry.isDirectory()) {
@@ -82,7 +83,7 @@ public class BagOfWords {
         }
     }
 
-    private static void listOriginalWord(File file) {
+    private void listOriginalWord(File file) {
         ArrayList<String> arqFiles = new ArrayList<>();
         try {
             BufferedReader bufferedReader;
@@ -102,7 +103,7 @@ public class BagOfWords {
         listao.add(arqFiles);
     }
 
-    private static void writeBinaryLine(String assunto) {
+    private void writeBinaryLine(String assunto) {
         int sizeTreino = (int) Math.round(listao.size() - (listao.size() * 0.2));
         int cont = 1;
 
@@ -110,7 +111,8 @@ public class BagOfWords {
             String bin = "";
 
             int limit = getBagOfWordsLimit();
-            for (String wordInBag : bagOfWords.subList(0, limit)) {
+            //for (String wordInBag : bagOfWords.subList(0, limit)) {
+            for (String wordInBag : bagOfWords) {
                 if (wordsInText.contains(wordInBag)) {
                     bin += 1 + ",";
                 } else {
@@ -129,7 +131,7 @@ public class BagOfWords {
         }
     }
 
-    private static void writeARFF(ArrayList<String> binario, String type) {
+    private void writeARFF(ArrayList<String> binario, String type) {
         try {
             FileWriter fw = new FileWriter(dirFiles + "\\" + type + ".arff", false);
 
@@ -148,19 +150,20 @@ public class BagOfWords {
         }
     }
 
-    private static String getSubject(File fileEntry) {
+    private String getSubject(File fileEntry) {
         String[] pathSplit = fileEntry.getPath().split("\\\\"); //buf.readLine();
         return pathSplit[pathSplit.length - 1];
     }
 
-    private static void setFileHeaders(BufferedWriter bw, String type) {
+    private void setFileHeaders(BufferedWriter bw, String type) {
         try {
             bw.write("@relation <tfIA2" + type + ">");
             bw.newLine();
             bw.newLine();
-            
+
             int limit = getBagOfWordsLimit();
-            for (String attr : bagOfWords.subList(0, limit)) {
+            //for (String attr : bagOfWords.subList(0, limit)) {
+            for (String attr : bagOfWords) {
                 bw.write("@attribute <" + attr + "> integer");
                 bw.newLine();
             }
@@ -185,7 +188,7 @@ public class BagOfWords {
 
     }
 
-    private static int getBagOfWordsLimit() {
+    private int getBagOfWordsLimit() {
         int size = Integer.parseInt(prop.getProperty("BAG_OF_WORDS_SIZE"));
         if (size == 0) {
             size = bagOfWords.size();
