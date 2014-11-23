@@ -10,7 +10,7 @@ gestao
 avancar
 Insead
 the
-European Institute
+EuropeanInstitute
 of
 business
 Administration
@@ -29,23 +29,23 @@ Brasil
 palestrante
 convidar
 estar
-Peter Schereer
+PeterSchereer
 presidente
-Philip Morris
-America Latina
-Michael Brimm
+PhilipMorris
+AmericaLatina
+MichaelBrimm
 professor
 comportamento
 organizacional
 Insead
 coordenacao
-Luiz Carlos
-Queiroz Cabrera
+LuizCarlos
+QueirozCabrera
 professor
 Fundacao
 Dom
 Cabral
-Belo Horizonte
+BeloHorizonte
 representante
 instituto
 europeu

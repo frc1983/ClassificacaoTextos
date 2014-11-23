@@ -1,18 +1,18 @@
 retrato
 covarde
-Gilberto Dimenstein
+GilbertoDimenstein
 Brasilia
 receber
 ontem
 telefonema
 angustiar
 padre
-Julio Lancelotti
+JulioLancelotti
 Pastoral
 responsavel
 gravissimo
 denuncia
-Sao Paulo
+SaoPaulo
 traficante
 usar
 crianca
@@ -24,7 +24,7 @@ policia
 compreensivel
 receio
 padre
-Julio Lancelotti
+JulioLancelotti
 denuncia
 alvo
 facil
@@ -46,7 +46,7 @@ lider
 PFL
 Assembleia
 legislativo
-Sao Paulo
+SaoPaulo
 Afanasio
 escrever
 artigo
@@ -71,7 +71,7 @@ sim
 verdadeiro
 responsavel
 estado
-na medida em que
+namedidaemque
 impedir
 principio
 autoridade
@@ -108,9 +108,9 @@ trabalho
 tao
 elevar
 ajudar
-crianca abandonada
+criancaabandonada
 vitima
-todo o
+todoo
 tipo
 violencia
 evidente
@@ -124,9 +124,9 @@ PFL
 nao
 perder
 comicio
-Sao Paulo
+SaoPaulo
 palanque
 Afanasio
-Jose Serra
-Fernando Henrique Cardoso
-Mario Covas
+JoseSerra
+FernandoHenriqueCardoso
+MarioCovas

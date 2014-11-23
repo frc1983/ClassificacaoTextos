@@ -7,7 +7,7 @@ favela
 intelectual
 Lacerda
 autor
-Favela High Tech
+FavelaHighTech
 cometer
 erro
 preconceituoso
@@ -16,7 +16,7 @@ retratar
 cultura
 japones
 x
-Lucia NAGIBDa Equipe
+LuciaNAGIBDaEquipe
 articulista
 livro
 mes
@@ -39,10 +39,10 @@ fator
 surpreendente
 desempenho
 venda
-Favela HighTech
+FavelaHighTech
 jornalista
-Marco Lacerda
-de um lado
+MarcoLacerda
+deumlado
 livro
 receita
 basico
@@ -68,7 +68,7 @@ raramente
 tendencia
 predominante
 mercado
-de tal modo que
+detalmodoque
 assunto
 livro
 resumido
@@ -87,17 +87,17 @@ sobretudo
 diretamente
 levantado
 maravilhoso
-liberdade de expressao
+liberdadedeexpressao
 acesso
 sorte
 opiniao
 mais
 louvavel
-ainda que
+aindaque
 livro
 momento
 Japao
-Favela HighTech
+FavelaHighTech
 reportagem
 cronico
 fato
@@ -117,7 +117,7 @@ trafico
 droga
 aventura
 sexual
-o qual
+oqual
 tomar
 partir
 nikkar
@@ -126,7 +126,7 @@ pretensao
 verdade
 fato
 expor
-em forma de
+emformade
 documentario
 apenas
 nome
@@ -176,7 +176,7 @@ referir
 supremacia
 raca
 ariano
-a partir de
+apartirde
 acusacao
 racismo
 japones
@@ -190,7 +190,7 @@ mau
 estereotipo
 racista
 Japao
-ao contrario
+aocontrario
 protagonista
 americano
 Chris
@@ -243,7 +243,7 @@ niponico
 repetir
 refrao
 obsessivo
-ao longo de
+aolongode
 livro
 apenas
 ataque
@@ -265,7 +265,7 @@ comentario
 referente
 extremo
 falta
-de graca
+degraca
 homem
 japones
 jeito
@@ -297,7 +297,7 @@ surpreender
 encantar
 ocidental
 desde
-Francisco Xavier
+FranciscoXavier
 seculo
 escapar
 Lacerda
@@ -306,7 +306,7 @@ preferir
 juntar
 coro
 criticar
-Japan bashing
+Japanbashing
 praticar
 americano
 estrangeiro
@@ -335,13 +335,13 @@ martir
 marchar
 diariamente
 trabalho
-em troca
+emtroca
 condicao
 vida
 tao
 precario
 descartar
-de uma penada
+deumapenada
 batalhao
 sociologo
 antropologo
@@ -355,10 +355,10 @@ social
 japonesa
 desde
 classico
-Ruth Benedict
+RuthBenedict
 ate
-Sugiyama Lebra
-e que
+SugiyamaLebra
+eque
 Lacerda
 nao
 estar
@@ -405,7 +405,7 @@ termo
 seppuku
 mais
 elevar
-em lugar de
+emlugarde
 harakirer
 popular
 apenas
@@ -421,7 +421,7 @@ flauta
 tradicional
 japonesa
 giria
-quer dizer
+querdizer
 sexo
 oral
 descuidar
@@ -450,7 +450,7 @@ comum
 tempo
 conquista
 economico
-alem de
+alemde
 carro
 buginganga
 sic
@@ -461,17 +461,17 @@ oferecer
 contribuicao
 cultura
 universal
-em forma de
+emformade
 literatura
 musica
 teatro
-o que
+oque
 lamentar
 antropologo
 frances
 Japao
-por enquanto
-buraco negro
+porenquanto
+buraconegro
 espaco
 apenas
 sugar
@@ -492,7 +492,7 @@ inestimavel
 oferecer
 mundo
 Japao
-todo o
+todoo
 tempo
 especial
 posguerra
@@ -511,7 +511,7 @@ encontrar
 conivente
 policia
 governo
-todo o
+todoo
 implicar
 morte
 jovem
@@ -523,7 +523,7 @@ evidentemente
 descobrir
 punir
 condenar
-por causa de
+porcausade
 povo
 inteiro
 preconceito

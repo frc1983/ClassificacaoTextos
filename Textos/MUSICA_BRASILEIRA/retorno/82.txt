@@ -15,7 +15,7 @@ area
 reservar
 desova
 tartaruga
-TravelThe New York Times
+TravelTheNewYorkTimes
 St
 Croix
 Ilha
@@ -47,7 +47,7 @@ indio
 caraiba
 parte
 novo
-parque nacional
+parquenacional
 desembocar
 floresta
 mangue
@@ -62,7 +62,7 @@ ja
 regenerar
 passagem
 mar
-dentro de
+dentrode
 baia
 rio
 Salt
@@ -73,7 +73,7 @@ gruta
 chegar
 Parque
 nacional
-Rio Salt
+RioSalt
 estrada
 sair
 Christiansted
@@ -100,7 +100,7 @@ terminar
 sudoeste
 ilha
 area
-Sandy Point
+SandyPoint
 criadouro
 tartaruga
 marinho
@@ -114,7 +114,7 @@ Servico
 pesca
 Vida
 silvestre
-Estados Unidos
+EstadosUnidos
 visitar
 apenas
 sabado
@@ -129,7 +129,7 @@ estrada
 tambem
 conhecer
 autoestrada
-Melvin Evans
+MelvinEvans
 projeto
 pesquisa
 tartaruga
@@ -174,8 +174,8 @@ fevereiro
 inicio
 junho
 especie
-um pouco
+umpouco
 mais
 tarde
 traducao
-Clara Allain
+ClaraAllain

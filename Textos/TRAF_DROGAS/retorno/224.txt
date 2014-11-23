@@ -18,7 +18,7 @@ numero
 compreender
 dossie
 dedicar
-Adivinhacao no Mundo Antigo
+AdivinhacaonoMundoAntigo
 cujo
 artigo
 realcar
@@ -61,11 +61,11 @@ situacao
 estudar
 estar
 julgar
-em relacao a
+emrelacaoa
 cumprir
 preceito
 Bottero
-em vez de
+emvezde
 cindir
 campo
 adivinhacao
@@ -100,13 +100,13 @@ atento
 processo
 historico
 perder
-de vista
+devista
 implicacao
 universal
 abordagem
 bastante
 difundir
-a partir de
+apartirde
 teoria
 prestigioso
 pretender
@@ -120,13 +120,13 @@ respeito
 diferenca
 alteridade
 dissolver
-a forca de
+aforcade
 distinguir
 erigir
 modelo
 notar
 tambem
-ao longo de
+aolongode
 artigo
 linha
 comum
@@ -155,7 +155,7 @@ atual
 reunir
 M
 Detienne
-Les Savoirs de lecriture em Grece Ancienne
+LesSavoirsdelecritureemGreceAncienne
 Lille
 suplementar
 visao
@@ -163,7 +163,7 @@ privilegiar
 oralidade
 mundo
 grego
-alem de
+alemde
 painel
 adivinhacao
 novo
@@ -171,7 +171,7 @@ revista
 apresentar
 conjunto
 trabalho
-Estudos classicos e modernidade
+Estudosclassicosemodernidade
 entrada
 importante
 retirar
@@ -236,34 +236,34 @@ noticia
 obrigatorio
 periodico
 cientifico
-Instrumentos de pesquisa
+Instrumentosdepesquisa
 numero
 descrever
-banco de dados
+bancodedados
 informatizar
 centro
 receptor
 divulgador
 informacao
-Thesaurus Linguae Latinae
+ThesaurusLinguaeLatinae
 Munique
-Thesaurus Linguae Graecae
+ThesaurusLinguaeGraecae
 Universidade
 California
-Epigrafia Grega e Latina
+EpigrafiaGregaeLatina
 organizar
 Lausanne
-banco de dados
+bancodedados
 arte
 grego
-Beazley Archive
+BeazleyArchive
 Oxford
-Maria SYLVIA Carvalho Franco
+MariaSYLVIACarvalhoFranco
 professora
 filosofia
 USP
 autora
-Homens Livres na Ordem Escravocrata
+HomensLivresnaOrdemEscravocrata
 Kairos
 Obra
 classico
@@ -279,7 +279,6 @@ Paz
 Terra
 r
 Triunfo
-Sao Paulo
+SaoPaulo
 cep
 tel
- 

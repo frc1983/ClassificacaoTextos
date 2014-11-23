@@ -1,13 +1,13 @@
 manual
 empresario
 ensinar
-a como
+acomo
 criar
 estrategia
 motivar
 empregado
 autor
-Vencendo a Crise
+VencendoaCrise
 droga
 Cidadania
 organizacao
@@ -17,10 +17,9 @@ editora
 brasiliense
 avenida
 Marques
-Sao Vicente
-Sao Paulo
+SaoVicente
+SaoPaulo
 telefonar
- 
 cep
 debater
 criminalizacao

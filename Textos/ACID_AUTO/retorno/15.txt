@@ -18,7 +18,7 @@ problema
 disciplinar
 companheiro
 quarto
-Ricardo Rocha
+RicardoRocha
 concentracao
 vascaino
 hotel
@@ -36,14 +36,14 @@ Vasco
 saber
 noticia
 radio
-Porto Alegre
+PortoAlegre
 RS
 jogador
 dirigente
 Gremio
 unico
 clube
-o qual
+oqual
 Dener
 obter
 titulo
@@ -56,7 +56,7 @@ contrato
 Gremio
 maio
 agosto
-Sao Paulo
+SaoPaulo
 jogador
 Portuguesa
 clube

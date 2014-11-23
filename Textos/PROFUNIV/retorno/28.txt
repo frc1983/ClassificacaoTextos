@@ -1,16 +1,16 @@
 carreira
-Golden Boys
+GoldenBoys
 lance
 Copa
 cultura
 reexibir
 tosco
-Elba Ramalho
-Beth Carvalho
-ao vivo
+ElbaRamalho
+BethCarvalho
+aovivo
 kart
 cros
-MTV Sports
+MTVSports
 baiano
 reencontrar
 Mangueira
@@ -19,14 +19,14 @@ axe
 cara
 caro
 carreira
-Golden Boys
+GoldenBoys
 grupo
 vocal
-Golden Boys
+GoldenBoys
 formar
 roberto
 Ronaldo
-Renato Correia
+RenatoCorreia
 Valdir
 Anunciacao
 cantar
@@ -37,7 +37,7 @@ lance
 Copa
 programa
 mostrar
-todo o
+todoo
 lance
 tricampeonato
 brasileiro
@@ -50,11 +50,11 @@ Tchecoslovaquia
 ate
 imagem
 capitao
-Carlos Alberto
+CarlosAlberto
 beijar
 levantar
 taca
-Jules Rimet
+JulesRimet
 tribuna
 honra
 especial
@@ -66,7 +66,7 @@ reexibir
 tosco
 opera
 tosco
-Giacomo Puccini
+GiacomoPuccini
 ganhar
 montagem
 italobrasileiro
@@ -76,17 +76,17 @@ reexibir
 papel
 principal
 estar
-Silvia Mosca
-Alberto Cupido
-Alberto Noli
+SilviaMosca
+AlbertoCupido
+AlbertoNoli
 especial
 tosco
 Cultura
 serie
-Magia do Cinema
+MagiadoCinema
 exibir
 episodio
-Miniaturas Pirotecnicas
+MiniaturasPirotecnicas
 mostrar
 uso
 maquete
@@ -109,14 +109,14 @@ magia
 Cinema
 Multishow
 SABADO
-Elba Ramalho
-Beth Carvalho
-ao vivo
+ElbaRamalho
+BethCarvalho
+aovivo
 show
-Elba Ramalho
+ElbaRamalho
 Recife
 apresentacao
-Beth Carvalho
+BethCarvalho
 Guaruja
 destaque
 programa
@@ -124,18 +124,18 @@ verao
 bandeirante
 repertorio
 show
-Beth Carvalho
+BethCarvalho
 incluir
-Meu Guri
-As Rosas Nao Falam
-Trem das 
+MeuGuri
+AsRosasNaoFalam
+Tremdas
 Andanca
 verao
 vivo
 bandeirante
 kart
 cros
-MTV Sports
+MTVSports
 kart
 cros
 mais
@@ -144,7 +144,7 @@ esporte
 radical
 destaque
 programa
-MTV SPORTS MTV
+MTVSPORTSMTV
 domingo
 baiano
 reencontrar
@@ -168,16 +168,16 @@ morro
 Mangueira
 especial
 doce
-BARBAROS Bandeirantes
+BARBAROSBandeirantes
 Timbalada
 axe
 cara
 caro
-Margareth Menezes
-Carlinhos Brown
+MargarethMenezes
+CarlinhosBrown
 estar
 juntar
-Cara Cara
+CaraCara
 cara
 caro
 bandeirante

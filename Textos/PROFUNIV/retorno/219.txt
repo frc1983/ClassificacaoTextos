@@ -13,8 +13,8 @@ doutrina
 certo
 leitura
 Foucault
-Dizem que Sou Louco
-Miriam Schnaiderman
+DizemqueSouLouco
+MiriamSchnaiderman
 elogio
 genero
 juridico
@@ -36,7 +36,7 @@ operacao
 olhar
 linguagem
 deixar
-Marilena Chaui
+MarilenaChaui
 aula
 inaugural
 Faculdade
@@ -62,7 +62,7 @@ urbano
 oracular
 profetico
 falar
-por vezes
+porvezes
 incompreensivel
 revelar
 esconder
@@ -113,9 +113,9 @@ tambem
 exigencia
 anonimo
 buscar
-em si
-fora de si
-ao redor de
+emsi
+foradesi
+aoredorde
 objeto
 dizer
 maluco
@@ -159,10 +159,10 @@ so
 pecar
 colocar
 las
-fora de
+forade
 lugar
 errar
-por assim dizer
+porassimdizer
 calculo
 espaco
 tempo
@@ -187,21 +187,21 @@ sentenca
 dizer
 louco
 direcao
-Miriam Schnaiderman
+MiriamSchnaiderman
 realizacao
-Miriam Schnaiderman
-Video Track
-Estacao Cooperativa
+MiriamSchnaiderman
+VideoTrack
+EstacaoCooperativa
 acompanhamento
 terapeutico
 edicao
-Cassio Maradei
-Adelson Munhoz
-Miriam Schnaiderman
-OLGARIA Matos
+CassioMaradei
+AdelsonMunhoz
+MiriamSchnaiderman
+OLGARIAMatos
 professora
 filosofia
 USP
 autora
-Os Arcanos do Inteiramente Outro
+OsArcanosdoInteiramenteOutro
 brasiliense

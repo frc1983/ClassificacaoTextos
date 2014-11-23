@@ -3,7 +3,7 @@ recusar
 apelo
 manter
 chibata
-agencia internacional
+agenciainternacional
 alto
 Corte
 Cingapura
@@ -14,7 +14,7 @@ ontem
 recurso
 adolescente
 norteamericano
-Michael Peter Fay
+MichaelPeterFay
 manter
 punicao
 chibatar
@@ -33,7 +33,7 @@ gerar
 reacao
 presidente
 EUA
-Bill Clinton
+BillClinton
 considerar
 extremo
 defesa
@@ -42,17 +42,17 @@ pedir
 clemencia
 presidente
 Cingapura
-Ong Teng Cheong
+OngTengCheong
 juiz
-Yong Pung How
+YongPungHow
 dizer
 Fay
 cometer
 conscientemente
-pelo menos
+pelomenos
 ato
 vandalismo
-ao longo de
+aolongode
 dia
 Fay
 receber
@@ -60,7 +60,7 @@ golpe
 vara
 bambu
 m
-de comprimento
+decomprimento
 cm
 espessura
 aplicar
@@ -74,7 +74,7 @@ romper
 pele
 cicatriz
 ficar
-toda a vida
+todaavida
 dor
 golpear
 desmaiar
@@ -108,7 +108,7 @@ judicial
 Cingapura
 senador
 republicano
-William Cohen
+WilliamCohen
 visita
 pais
 promover
@@ -133,14 +133,14 @@ inicio
 marco
 Fay
 condenar
-alem de
+alemde
 chibatar
 mes
 prisao
 multa
-cerca de
+cercade
 US
-Saint Louis
+SaintLouis
 Missouri
 sul
 EUA

@@ -33,7 +33,7 @@ salvar
 dia
 matine
 danceteria
-Sao Paulo
+SaoPaulo
 ja
 virar
 opcao
@@ -44,7 +44,7 @@ adolescente
 programa
 quase
 obrigatorio
-de acordo
+deacordo
 tamanho
 localizacao
 som
@@ -57,22 +57,22 @@ dancar
 quase
 noite
 so
-e que
+eque
 comecar
 frequentar
 matine
 contar
-Carlos Eduardo Moreira
+CarlosEduardoMoreira
 ultimo
 domingo
 cair
 embalo
-dance music
+dancemusic
 reggae
 danceteria
 Vektra
 amiga
-Camila Ribeiro
+CamilaRibeiro
 Val
 virar
 promotora
@@ -98,13 +98,13 @@ belo
 Vista
 regiao
 central
-Sao Paulo
+SaoPaulo
 danceteria
-Sao Paulo
+SaoPaulo
 estar
 pronto
 atender
-todo o
+todoo
 exigencia
 mocar
 equipar
@@ -133,28 +133,28 @@ publico
 ir
 ate
 ano
-e que
+eque
 pai
 ficar
 mais
 tranquilo
 contar
 estudante
-Ana Carolina Donatello
-Carlos Eduardo
+AnaCarolinaDonatello
+CarlosEduardo
 concordar
 noite
 sair
 briga
 amiga
-Andreza Ferriello
+AndrezaFerriello
 tambem
 preferir
 encontrar
 pessoal
 mais
 parecer
-as vezes
+asvezes
 voce
 sair
 noite
@@ -169,7 +169,7 @@ aceitar
 paquerar
 gente
 idade
-pelo menos
+pelomenos
 menina
 segundo
 frequentadora

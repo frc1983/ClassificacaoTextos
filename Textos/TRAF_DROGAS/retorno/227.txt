@@ -18,9 +18,9 @@ pedir
 liberacao
 venda
 droga
-Reino Unido
+ReinoUnido
 elaborar
-Richard Stevenson
+RichardStevenson
 professor
 economia
 sanitario
@@ -57,7 +57,7 @@ beneficio
 reducao
 preco
 droga
-o que
+oque
 diminuir
 numero
 crime

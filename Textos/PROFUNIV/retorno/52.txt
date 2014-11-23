@@ -26,7 +26,7 @@ apos
 segundo
 meteorologista
 Francisco
-Assis Diniz
+AssisDiniz
 Instituto
 nacional
 meteorologia
@@ -37,7 +37,7 @@ posicao
 sol
 altitude
 atingir
-nevoa seca
+nevoaseca
 formar
 Brasilia
 resultar
@@ -45,7 +45,7 @@ baixo
 umidade
 ar
 ontem
-nevoa seca
+nevoaseca
 formar
 particula
 poeira
@@ -64,7 +64,7 @@ particula
 refletir
 raio
 solar
-em forma de
+emformade
 circulo
 explicar
 meteorologista
@@ -72,7 +72,7 @@ sol
 estar
 mais
 baixo
-o maximo
+omaximo
 reflexo
 particula
 provocar
@@ -81,7 +81,7 @@ faixa
 amarelar
 horizonte
 informar
-Francisco Diniz
+FranciscoDiniz
 dizer
 nao
 condicao

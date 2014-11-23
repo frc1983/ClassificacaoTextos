@@ -3,14 +3,14 @@ Jazz
 Rap
 rapper
 apresentar
-Free Jazz
+FreeJazz
 dizer
 estar
 missao
 melhorar
 vida
 negro
-acid jazz
+acidjazz
 hiphop
 jazz
 jazz
@@ -28,16 +28,16 @@ apresentacao
 trompete
 doutor
 jazz
-Donald Byrd
+DonaldByrd
 artista
 noite
-acid jazz
+acidjazz
 preferir
 apresentar
 banda
 jazz
 rapper
-Nova York
+NovaYork
 manter
 fiel
 ideia
@@ -58,7 +58,7 @@ comecar
 estar
 usar
 sample
-James Brown
+JamesBrown
 jazz
 adotar
 DJs
@@ -70,7 +70,7 @@ folha
 Gang
 Starr
 contato
-Branford Marsalis
+BranfordMarsalis
 originar
 musica
 responsavel
@@ -82,7 +82,7 @@ artista
 jazz
 guru
 creditar
-Spike Lee
+SpikeLee
 iniciador
 onda
 convidar
@@ -105,7 +105,7 @@ ouvir
 musica
 usar
 sample
-Dizzy Gillespie
+DizzyGillespie
 achar
 colaboracao
 natural
@@ -212,13 +212,13 @@ respeito
 gente
 icar
 cubar
-Snoop Doggy Dogg
+SnoopDoggyDogg
 rua
 nao
 parte
 algo
 chamado
-gangsta rap
+gangstarap
 termo
 inventar
 midia

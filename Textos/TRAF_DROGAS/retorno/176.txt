@@ -22,15 +22,15 @@ cheio
 afirmar
 candidata
 filosofia
-Scyla Pereira Gouveia
+ScylaPereiraGouveia
 prova
 biologia
 quimica
 ontem
 colegio
-Pueri Domus
+PueriDomus
 namorado
-Guilherme Schneider
+GuilhermeSchneider
 prestar
 engenharia
 exame
@@ -40,7 +40,7 @@ juntar
 acabar
 cair
 local
-pelo menos
+pelomenos
 convocar
 segundo
 fase
@@ -51,13 +51,13 @@ nao
 concluir
 hoje
 prova
-Ana Paula Mroz Reismann
+AnaPaulaMrozReismann
 gravido
 mes
 concorrer
 vaga
 curso
-de direito
+dedireito
 sala
 Hospital
 universitario
@@ -73,22 +73,22 @@ ja
 formar
 administracao
 Fundacao
-Getulio Vargas
+GetulioVargas
 dizer
 tensao
 filho
-do que
+doque
 vestibular
 vestibular
 gente
-de novo
+denovo
 filho
 bem
 mais
 complicar
 justificar
 local
-alem de
+alemde
 atendimento
 medico
 marido

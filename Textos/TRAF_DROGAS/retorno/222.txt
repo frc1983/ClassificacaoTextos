@@ -3,16 +3,16 @@ nao
 crescer
 cultivo
 semente
-Paulo Coelho
+PauloCoelho
 colunista
 Folha
 mulher
 caminhar
-shopping center
+shoppingcenter
 loja
 novo
 pedir
-o que
+oque
 querer
 dizer
 Deus
@@ -39,7 +39,7 @@ resolver
 incluir
 pedido
 querer
-tudo isto
+tudoisto
 tambem
 conceder
 amigo
@@ -48,7 +48,7 @@ abrir
 pote
 estar
 prateleira
-atras de
+atrasde
 tirar
 varios
 grao

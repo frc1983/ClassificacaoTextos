@@ -11,7 +11,7 @@ tona
 presenca
 agente
 DEA
-Drug Enforcement Agency
+DrugEnforcementAgency
 EUA
 Brasil
 DEA
@@ -21,15 +21,15 @@ controle
 repressao
 trafico
 entorpecente
-no entanto
+noentanto
 sociedade
 querer
 compreender
 tambem
-em nome de
+emnomede
 transparencia
 soberania
-o que
+oque
 pais
 agente
 DEA
@@ -54,18 +54,18 @@ exemplo
 Interpol
 nao
 permitir
-no entanto
+noentanto
 presenca
 escamotear
 ilegal
 policial
 nao
 responder
-poder publico
+poderpublico
 pais
 presenca
 agente
-tanto mais
+tantomais
 alarmante
 recordar
 decisao

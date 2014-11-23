@@ -1,7 +1,7 @@
 poluicao
 embacar
 olho
-JAIRO BOUER
+JAIROBOUER
 voce
 reparar
 ultimo
@@ -38,7 +38,7 @@ ambiente
 arcondicionado
 fumaca
 cigarro
-horas seguidas
+horasseguidas
 sistema
 respiratorio
 tambem
@@ -80,5 +80,5 @@ umidificante
 aliviar
 incomodo
 olho
-JAIRO BOUER
+JAIROBOUER
 medico

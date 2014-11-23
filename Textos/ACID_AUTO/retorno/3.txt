@@ -1,5 +1,5 @@
-Vern Fleming
-Pooh Richardson
+VernFleming
+PoohRichardson
 ambos
 assumir
 posicao
@@ -17,23 +17,23 @@ saude
 sorte
 time
 tecnico
-Chuck Daly
+ChuckDaly
 passar
 segundo
 rodada
 playoff
-Derrick Coleman
+DerrickColeman
 liderar
 forte
 linha
 atacante
-Kenny Anderson
+KennyAnderson
 armador
 point
 guard
 jogador
 dar
-New Jersey
+NewJersey
 fio
 esperanca
 esperar
@@ -42,7 +42,7 @@ nao
 conseguir
 substituto
 armador
-Drazen Petrovic
+DrazenPetrovic
 morto
 acidente
 carro

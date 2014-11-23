@@ -4,17 +4,17 @@ aprovar
 pista
 japones
 contato
-Ayrton Senna
+AyrtonSenna
 circuito
 Aida
 nao
 desanimador
 piloto
-por um lado
+porumlado
 constatar
 pista
 lento
-o que
+oque
 praticamente
 anular
 forca
@@ -86,9 +86,9 @@ enfim
 novidade
 brasileiro
 F
-Rubens Barrichello
+RubensBarrichello
 Jordan
-Christian Fittipaldi
+ChristianFittipaldi
 Arrows
 tambem
 conhecer
@@ -103,7 +103,7 @@ piloto
 determinar
 circuito
 entrar
-pela primeira vez
+pelaprimeiravez
 calendario
 dar
 volta
@@ -121,9 +121,9 @@ companheiro
 equipe
 Aida
 japones
-Aguri Suzuki
+AguriSuzuki
 substituir
-Eddie Irvine
+EddieIrvine
 estar
 suspender
 ate

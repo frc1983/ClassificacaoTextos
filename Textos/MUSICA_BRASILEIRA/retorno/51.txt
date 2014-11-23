@@ -15,7 +15,7 @@ segundo
 editorial
 resultado
 sinal
-de forca
+deforca
 real
 texto
 analisar
@@ -23,9 +23,9 @@ tambem
 perspectiva
 outubro
 temer
-por exemplo
+porexemplo
 aumento
-salario minimo
+salariominimo
 dissidio
 posreal
 constituir
@@ -47,7 +47,7 @@ ajudar
 tambem
 empurrar
 inflacao
-cerca de
+cercade
 mes
 quase
 inflacao

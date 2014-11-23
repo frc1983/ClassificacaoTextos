@@ -7,31 +7,31 @@ promover
 proximo
 terca
 debate
-Novas Estrategias para Conquistar o Leitor
+NovasEstrategiasparaConquistaroLeitor
 participacao
 representante
 editora
 brasileiro
 estar
 presente
-Sergio Machado
+SergioMachado
 editora
 Record
-Paulo Rocco
+PauloRocco
 Rocco
-Pedro Paulo Sena Madureira
+PedroPauloSenaMadureira
 siciliano
-Luiz Schwarcz
+LuizSchwarcz
 companhia
 Letra
-Sergio Miceli
+SergioMiceli
 Edusp
 editora
 Universidade
-Sao Paulo
+SaoPaulo
 mediacao
 encontro
-Augusto Massi
+AugustoMassi
 professor
 literatura
 brasileiro
@@ -60,13 +60,13 @@ inauguracao
 Bienal
 Internacional
 Livro
-Sao Paulo
+SaoPaulo
 abrir
 publico
 dia
 encerrar
 agosto
-alem de
+alemde
 outubro
 Brasil
 tema
@@ -83,7 +83,7 @@ externo
 producao
 editorial
 debate
-Novas Estrategias para Conquistar o Leitor
+NovasEstrategiasparaConquistaroLeitor
 abrir
 publico
 ocorrer

@@ -17,7 +17,7 @@ levar
 direto
 haver
 dia
-o povo
+opovo
 brasileiro
 ir
 rua
@@ -26,7 +26,7 @@ eleicao
 direto
 presidente
 Republica
-em nome de
+emnomede
 conciliacao
 promessa
 Assembleia
@@ -42,7 +42,7 @@ lider
 mobilizacao
 popular
 retirar
-o povo
+opovo
 rua
 segredo
 negociar
@@ -69,7 +69,7 @@ povo
 brasileiro
 Constituicao
 vigente
-a partir de
+apartirde
 decretar
 chefe
 militar
@@ -104,7 +104,7 @@ qualquer
 possibilidade
 eleicao
 popular
-a par de
+aparde
 haver
 conviccao
 maioria
@@ -113,7 +113,7 @@ interesse
 preservar
 proprio
 mandato
-do que
+doque
 sustentar
 principio
 democratico
@@ -130,7 +130,7 @@ deputado
 Dante
 Oliveira
 propor
-emenda constitucional
+emendaconstitucional
 estabelecer
 proximo
 presidente
@@ -143,11 +143,11 @@ passar
 identificar
 emenda
 direto
-em torno de
+emtornode
 desenvolver
 mobilizacao
 popular
-o povo
+opovo
 ir
 rua
 cheio
@@ -173,7 +173,7 @@ permanecer
 portanto
 eleicao
 indireto
-a favor de
+afavorde
 emenda
 votar
 deputado
@@ -217,15 +217,15 @@ camara
 entretanto
 ocorrer
 diverso
-o povo
+opovo
 voltar
-para casa
+paracasa
 abater
 desanimar
 espera
 alguem
 explicar
-o que
+oque
 ocorrer
 dizer
 continuar
@@ -237,10 +237,10 @@ conciliacao
 culminar
 janeiro
 eleicao
-Tancredo Neves
-Ulysses Guimaraes
+TancredoNeves
+UlyssesGuimaraes
 PMDB
-Tancredo Neves
+TancredoNeves
 PFL
 firmar
 agosto
@@ -254,7 +254,7 @@ presidencia
 Colegio
 eleitoral
 juntar
-Jose Sarney
+JoseSarney
 ate
 dia
 delegado
@@ -262,7 +262,7 @@ militar
 junto
 politico
 morte
-Tancredo Neves
+TancredoNeves
 tornar
 presidente
 conciliador
@@ -271,13 +271,13 @@ Sarney
 presidencia
 Brasil
 DALMO
-Abreu DALLARI
+AbreuDALLARI
 advogado
 professor
 titular
-Faculdade de Direito
+FaculdadedeDireito
 Universidade
-Sao Paulo
+SaoPaulo
 uSP
 membro
 Comissao

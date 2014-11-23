@@ -1,15 +1,15 @@
 saque
 duplo
 vitoria
-Aguri Suzuki
+AguriSuzuki
 companheiro
 Barrichello
 GP
 pacifico
-agencia internacional
+agenciainternacional
 piloto
 japones
-Aguri Suzuki
+AguriSuzuki
 piloto
 carro
 n
@@ -23,10 +23,10 @@ proximo
 domingo
 companheiro
 brasileiro
-Rubens Barrichello
+RubensBarrichello
 lugar
 irlandes
-Eddie Irvine
+EddieIrvine
 suspender
 fiar
 federacao
@@ -34,7 +34,7 @@ Internacional
 automobilismo
 GPs
 pacifico
-San Marino
+SanMarino
 Monaco
 segundo
 informacao
@@ -63,15 +63,15 @@ culpar
 acidente
 envolver
 holandes
-Jos Verstappen
+JosVerstappen
 Benetton
 frances
-Eric Bernard
+EricBernard
 Ligier
 ingles
-Martin Brundle
+MartinBrundle
 McLaren
-GP Brasil
+GPBrasil
 Jordan
 tambem
 anunciar

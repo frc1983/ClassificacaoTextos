@@ -46,9 +46,9 @@ estipular
 manual
 preparador
 motor
-Vinicius Losacco
+ViniciusLosacco
 aconselhar
-no caso de
+nocasode
 substituicao
 lona
 freio
@@ -69,7 +69,7 @@ dizer
 Losacco
 nao
 esquecer
-cinto de seguranca
+cintodeseguranca
 estar
 bom
 condicao
@@ -99,7 +99,7 @@ ponto
 importante
 verificar
 nivel
-todo o
+todoo
 liquido
 levar
 fusivel

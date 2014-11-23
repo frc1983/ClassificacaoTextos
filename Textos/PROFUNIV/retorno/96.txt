@@ -1,6 +1,5 @@
 maldito
 perguntar
-por que
 Dener
 amigo
 inimigo
@@ -12,7 +11,6 @@ Rimbauds
 perguntar
 rua
 Paris
-por que
 Dener
 Edmundo
 Bebeto
@@ -22,7 +20,6 @@ orfao
 estrela
 ponta
 perguntar
-por que
 Dener
 heroi
 voce
@@ -34,49 +31,44 @@ aventureiro
 voce
 querer
 perguntar
-por que
 Dener
 zumbi
 saci
 moleque
 rua
 perguntar
-por que
 Dener
-Almires Pernambuquinhos
-Toninhos Guerreiros
+AlmiresPernambuquinhos
+ToninhosGuerreiros
 Maradonas
 enfim
 saber
 bola
 enigma
-do que
+doque
 vida
 questionar
-por que
 Dener
-James Deans
-Rivers Phoenixes
-Kurts Cobains
+JamesDeans
+RiversPhoenixes
+KurtsCobains
 sequito
 desistir
 paraiso
 cedo
 indagar
-por que
 Dener
-Pedro Gil
+PedroGil
 filho
 admirador
-Gilberto Gil
+GilbertoGil
 lugar
 tragico
 sussurrar
 voce
-por que
 Dener
 poeta
-Manuel Bandeira
+ManuelBandeira
 verso
 abrir
 texto
@@ -91,7 +83,6 @@ Rodrigo
 Freitas
 iniludivel
 perguntar
-por que
 Dener
 alegria
 chance
@@ -103,7 +94,6 @@ sim
 pais
 nao
 perguntar
-por que
 Dener
 erotismo
 bola
@@ -112,7 +102,6 @@ driblar
 sexualidade
 gol
 cismar
-por que
 Dener
 nau
 insensato
@@ -121,9 +110,8 @@ preciso
 segurar
 ir
 dar
-um troco
+umtroco
 divagar
-por que
 Dener
 vida
 convocar
@@ -137,7 +125,6 @@ varias
 tentar
 decifrar
 enigma
-por que
 Dener
 adversario
 marcador
@@ -146,7 +133,6 @@ cumplice
 soberania
 estar
 atonito
-por que
 Dener
 caravela
 portugues
@@ -157,19 +143,18 @@ filho
 filho
 escravo
 defender
-Sao Paulo
+SaoPaulo
 Rio
 singrar
 mar
 soprar
-por que
 Dener
 bom
 swing
-Tim Maia
+TimMaia
 funk
 banda
-Ze Pretinho
+ZePretinho
 morro
 sao
 Carlos
@@ -191,24 +176,19 @@ Bixiga
 Barra
 fundo
 especular
-por que
 Dener
 trigemea
 Playboy
 perguntar
-por que
 Dener
 ultimo
 esperanca
 ilusao
 demandar
-por que
 Dener
 impossivel
 estranhar
-por que
 Dener
-por que
 monologo
 consolador
 dialogo
@@ -216,11 +196,9 @@ ininteligivel
 mudez
 revelador
 perguntar
-por que
 Dener
 querer
 voce
 murmurar
-por que
 nao
 Dener

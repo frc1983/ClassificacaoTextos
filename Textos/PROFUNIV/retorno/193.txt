@@ -2,7 +2,7 @@ musica
 tambem
 ideia
 sair
-Contemplating Music
+ContemplatingMusic
 antologiar
 estetica
 musical
@@ -19,13 +19,13 @@ fonte
 estetica
 musical
 organizar
-Carl Dahlhaus
-Ruth Katz
+CarlDahlhaus
+RuthKatz
 historia
 estetica
 filosofia
 musica
-Contemplating Music
+ContemplatingMusic
 proposito
 mais
 original
@@ -98,38 +98,38 @@ riqueza
 livro
 confronto
 mais
-do que
+doque
 unidade
 varias
 tendencia
 chocar
-entre si
+entresi
 conferir
 conjunto
 tom
 quase
 dramatico
 dizer
-por exemplo
+porexemplo
 ensaio
 adorno
-lado a lado
+ladoalado
 palavra
 ideologo
 stalinista
-Andrei Zhdanov
+AndreiZhdanov
 palestra
 encerramento
 Conferencia
-Trabalhadores Musicais Sovieticos
+TrabalhadoresMusicaisSovieticos
 contrastar
 discussao
 liberal
-John Mueller
+JohnMueller
 filosofia
 humanista
 musica
-Edward Lippman
+EdwardLippman
 pensar
 dialogo
 sobrepor
@@ -155,7 +155,7 @@ trazer
 breve
 introducao
 texto
-ao contrario de
+aocontrariode
 demais
 coletanea
 caso
@@ -174,8 +174,8 @@ sociologico
 musica
 fragmento
 inacabado
-Max Weber
-Fundacoes Racionais e Sociais da Musica
+MaxWeber
+FundacoesRacionaiseSociaisdaMusica
 publicar
 postumamente
 weber
@@ -205,14 +205,14 @@ paralelo
 musica
 mais
 importante
-do que
+doque
 Weber
 retrospecto
 escrito
-Theodor Adorno
+TheodorAdorno
 representar
 excerto
-Filosofia da Nova Musica
+FilosofiadaNovaMusica
 comentario
 relacao
 inovacao
@@ -272,7 +272,7 @@ rico
 tradicao
 comentario
 arte
-Contemplating Music
+ContemplatingMusic
 jus
 palavra
 Wittgenstein
@@ -288,7 +288,7 @@ musica
 encantamento
 inteligencia
 linguagem
-ARTHUR NESTROVSKI
+ARTHURNESTROVSKI
 doutor
 musica
 professor
@@ -296,8 +296,8 @@ posgraduacao
 comunicacao
 PUCSP
 Obra
-Contemplating Music
-Source Readings
+ContemplatingMusic
+SourceReadings
 in
 the
 Aesthetis
@@ -305,11 +305,11 @@ of
 Music
 vol
 organizacao
-Carl Dahlhaus
-Ruth Katz
-Pendragon Press
+CarlDahlhaus
+RuthKatz
+PendragonPress
 Stuyvesant
-Nova York
+NovaYork
 onde
 encomendar
 livraria

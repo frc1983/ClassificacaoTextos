@@ -11,7 +11,7 @@ Manchete
 Sucursal
 Rio
 cantor
-Jerry Adriani
+JerryAdriani
 estar
 ha
 varios
@@ -33,11 +33,11 @@ inicial
 curiosidade
 pessoa
 cobranca
-em relacao a
+emrelacaoa
 desempenho
 dizer
 Jerry
-ao contrario de
+aocontrariode
 personagem
 continuar
 firme
@@ -47,18 +47,18 @@ chamar
 atuar
 diretor
 novela
-Cecil Thire
+CecilThire
 Jerry
 dizer
 ja
 interpretar
 oportunidade
 Tupi
-Sao Paulo
+SaoPaulo
 ano
 parte
 elenco
-A Republica
+ARepublica
 especie
 caso
 especial
@@ -66,8 +66,8 @@ semanal
 cinema
 filme
 Gatinha
-A Grande Parada
-Jerry em Busca do Tesouro
+AGrandeParada
+JerryemBuscadoTesouro
 consequencia
 lutador
 pais
@@ -113,7 +113,7 @@ Veneno
 propriedade
 personagem
 interpretar
-Daniel Dantas
+DanielDantas
 onde
 reunir
 turma
@@ -139,7 +139,7 @@ trilha
 novela
 unico
 empecilho
-e que
+eque
 contrato
 TV
 Plus

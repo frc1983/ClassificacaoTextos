@@ -9,7 +9,7 @@ mG
 abril
 morrer
 setembro
-Sao Paulo
+SaoPaulo
 formar
 direito
 professor
@@ -21,7 +21,7 @@ tambem
 diretor
 Instrucao
 publico
-Distrito Federal
+DistritoFederal
 fundador
 diretor
 ciar
@@ -36,7 +36,7 @@ geral
 Instrucao
 publico
 Estado
-Sao Paulo
+SaoPaulo
 fundador
 diretor
 Instituto
@@ -45,7 +45,7 @@ Fernando
 Azevedo
 fundador
 Universidade
-Sao Paulo
+SaoPaulo
 onde
 ir
 diretor
@@ -56,7 +56,7 @@ Centro
 regional
 pesquisa
 educacional
-Sao Paulo
+SaoPaulo
 membro
 Academia
 brasileiro
@@ -66,8 +66,8 @@ paulista
 letra
 obra
 destacar
-A Cultura Brasileira
-Sociologia Educacional
+ACulturaBrasileira
+SociologiaEducacional
 receber
 Cruz
 oficial

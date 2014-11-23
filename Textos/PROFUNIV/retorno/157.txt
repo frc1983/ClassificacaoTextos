@@ -6,7 +6,7 @@ professor
 Instituto
 quimica
 Unicamp
-Fernando Galembeck
+FernandoGalembeck
 afirmar
 ontem
 ir
@@ -26,7 +26,7 @@ nao
 intencao
 assumir
 governador
-Luiz Antonio Fleury Filho
+LuizAntonioFleuryFilho
 PMDB
 optar
 nome

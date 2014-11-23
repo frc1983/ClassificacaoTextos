@@ -2,7 +2,7 @@ dono
 voz
 rei
 charme
-Mauricio Black Mad
+MauricioBlackMad
 dono
 voz
 mais
@@ -11,12 +11,12 @@ balanco
 charme
 geracao
 apresentar
-Charme Dance
+CharmeDance
 Metro
 FM
 ha
 ano
-todo mundo
+todomundo
 dancar
 bom
 sentido
@@ -69,11 +69,11 @@ parar
 ai
 domingo
 baile
-Santana Samba
+SantanaSamba
 fechar
 fimdesemana
 descontracao
-Sonia Fabiano
+SoniaFabiano
 charme
 dancar
 metro

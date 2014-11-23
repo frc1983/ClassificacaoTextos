@@ -5,7 +5,7 @@ mi
 Junqueiropolis
 cidade
 interior
-Sao Paulo
+SaoPaulo
 ir
 colher
 mil
@@ -23,7 +23,7 @@ rural
 Junqueiropolis
 km
 noroeste
-Sao Paulo
+SaoPaulo
 declinio
 cafe
 abrir
@@ -51,7 +51,7 @@ hectare
 hoje
 municipio
 produzir
-um pouco
+umpouco
 acerola
 fruta
 rico
@@ -62,7 +62,7 @@ redencao
 experiencia
 acerola
 produtor
-Angelo Kawano
+AngeloKawano
 tomar
 conhecimento
 sucesso
@@ -75,7 +75,7 @@ tipico
 produtor
 nao
 saber
-o que
+oque
 apos
 erradicacao
 mil
@@ -98,7 +98,7 @@ seringueira
 sacrificar
 centena
 precisar
-de espaco
+deespaco
 sitio
 hectare
 cultura
@@ -123,7 +123,7 @@ ocupar
 area
 ha
 agronomo
-Oscar Kanno
+OscarKanno
 dizer
 producao
 baixo
@@ -134,7 +134,7 @@ agronomo
 Junqueiropolis
 produzir
 safra
-cerca de
+cercade
 mil
 tonelada
 acerola
@@ -165,7 +165,7 @@ suco
 producao
 Junqueiropolis
 vender
-Industria Fruteza
+IndustriaFruteza
 Dracena
 SP
 Ceagesp

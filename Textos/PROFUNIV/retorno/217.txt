@@ -7,14 +7,14 @@ atestar
 inescrupuloso
 uso
 privar
-poder publico
+poderpublico
 refletir
-acerca de
+acercade
 re
 construir
 democracia
 mais
-do que
+doque
 cidadao
 responsavel
 Circuito
@@ -25,7 +25,7 @@ secretario
 educacao
 estadual
 paulista
-Carlos Estevam Martins
+CarlosEstevamMartins
 trazer
 importante
 contribuicao
@@ -40,7 +40,7 @@ docencia
 livro
 instigante
 reflexao
-a respeito de
+arespeitode
 tema
 fundamental
 politica
@@ -54,7 +54,7 @@ haver
 correspondencia
 teoria
 adotar
-a respeito de
+arespeitode
 democracia
 juizo
 homem
@@ -63,16 +63,16 @@ viabilidade
 alcance
 democracia
 cetico
-quanto a
+quantoa
 capacidade
-ser humano
+serhumano
 tese
 central
 embasar
-Hannah Arendt
-Ernest Barker
-John Dewel
-e que
+HannahArendt
+ErnestBarker
+JohnDewel
+eque
 ideal
 democratico
 genuino
@@ -88,15 +88,15 @@ coresponsavel
 governo
 sociedade
 parte
-por outro lado
+poroutrolado
 ideal
 democratico
 abastardar
 defender
 Schumpeter
 Michels
-Gabriel Almond
-em nome de
+GabrielAlmond
+emnomede
 supor
 realismo
 afirmar
@@ -111,7 +111,7 @@ implicar
 substituicao
 democracia
 representativo
-muitas vezes
+muitasvezes
 pretender
 esquerda
 rejeicao
@@ -130,7 +130,7 @@ Estado
 intervencao
 governamental
 requerer
-de um lado
+deumlado
 complementaridade
 participacao
 representacao
@@ -146,7 +146,7 @@ duplamente
 participativo
 politica
 partido
-CLOVIS BUENO
+CLOVISBUENO
 Azevedo
 doutorar
 ciencia
@@ -154,4 +154,4 @@ politico
 USP
 professor
 Fundacao
-Getulio Vargas
+GetulioVargas

@@ -1,4 +1,4 @@
-qualquer um
+qualquerum
 associar
 alberguista
 interessado
@@ -13,12 +13,12 @@ relativo
 idade
 segundo
 Apaj
-todo o
+todoo
 pessoa
 independente
 credo
 profissao
-estado civil
+estadocivil
 desfrutar
 alternativa
 economico
@@ -55,18 +55,18 @@ conduta
 sair
 correr
 devorar
-cafe da manha
+cafedamanha
 alberguista
 deixar
 cama
 pertencer
-em ordem
+emordem
 nao
 conseguir
 subir
 tijolo
 discurso
-Hostelling International
+HostellingInternational
 lembrar
 proibir
 qualquer
@@ -97,7 +97,7 @@ pagar
 associado
 Apaj
 criar
-agencia de turismo
+agenciadeturismo
 pacote
 oferecer
 Apaj
@@ -116,7 +116,7 @@ dia
 Nordeste
 EF
 onde
-SE Inscrever
+SEInscrever
 APAJ
 r
 jandaia
@@ -125,10 +125,10 @@ belo
 Vista
 regiao
 central
-Sao Paulo
+SaoPaulo
 ALBERJ
 associacao
 albergue
 Juventude
-Rio de Janeiro
+RiodeJaneiro
 r

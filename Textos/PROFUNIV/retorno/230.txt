@@ -1,9 +1,9 @@
 tucano
-fora de
+forade
 muro
 lembrar
 trecho
-Elias Canetti
+EliasCanetti
 Consciencia
 Palavra
 ensaio
@@ -14,7 +14,7 @@ ajudar
 compreender
 pensar
 estilo
-Ciro Gomes
+CiroGomes
 fenomeno
 mais
 inquietante
@@ -30,13 +30,13 @@ lancar
 longinquo
 ir
 constantemente
-de encontro a
+deencontroa
 estar
 imediatamente
 frente
 deixar
 ministro
-Ciro Gomes
+CiroGomes
 concreto
 aspero
 cheio
@@ -70,7 +70,7 @@ lembrar
 vida
 diferente
 nome
-Kleber Soares
+KleberSoares
 ler
 entrevista
 querer
@@ -79,7 +79,7 @@ lembrar
 fato
 marcar
 vida
-para sempre
+parasempre
 tambem
 servir
 nao
@@ -123,7 +123,7 @@ personalidade
 misturar
 palanque
 sentir
-em casa
+emcasa
 TV
 sentir
 bem
@@ -146,7 +146,7 @@ comunidade
 notar
 mudanca
 importante
-em si
+emsi
 ultimo
 ano
 aprender
@@ -174,7 +174,7 @@ hoje
 pessoa
 achar
 proximo
-as vezes
+asvezes
 temer
 confundir
 inquieto
@@ -220,7 +220,7 @@ nascer
 ninho
 tucano
 queimar
-pano de fundo
+panodefundo
 industria
 nacional
 nascer
@@ -255,7 +255,7 @@ mundo
 inteiro
 perversao
 ate
-dentro de
+dentrode
 partido
 ai
 relevo
@@ -269,7 +269,7 @@ suficiente
 estar
 roda
 empresario
-Sao Paulo
+SaoPaulo
 falar
 honestamente
 problema
@@ -314,6 +314,6 @@ deixar
 Ministerio
 resolver
 interromper
-um pouco
+umpouco
 vida
 publico

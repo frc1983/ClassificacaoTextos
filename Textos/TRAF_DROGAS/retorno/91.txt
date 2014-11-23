@@ -8,7 +8,7 @@ sabado
 passar
 Londrina
 PR
-Exposicao Agropecuaria
+ExposicaoAgropecuaria
 Industrial
 mostra
 Londrina
@@ -20,7 +20,7 @@ Brasil
 alqueire
 parque
 exposicao
-Ney Braga
+NeyBraga
 local
 feira
 receber
@@ -37,7 +37,7 @@ internacional
 estar
 Londrina
 segundo
-Sociedade Rural
+SociedadeRural
 promotora
 evento
 criador
@@ -47,7 +47,7 @@ agricola
 pais
 EUA
 Franca
-Nova Zelandia
+NovaZelandia
 Italia
 Argentina
 Paraguai
@@ -73,10 +73,10 @@ tambem
 zebuino
 entrar
 Brasil
-pela primeira vez
+pelaprimeiravez
 ha
 mes
-Sociedade Rural do Parana
+SociedadeRuraldoParana
 investir
 US
 milhao
@@ -90,11 +90,11 @@ movimento
 US
 milhao
 afirmar
-Jose Carlos Tiburcio
+JoseCarlosTiburcio
 presidente
 mostrar
 secretario
-Agricultura do Parana
+AgriculturadoParana
 somar
 US
 milhao
@@ -110,10 +110,10 @@ musical
 ate
 cantora
 baiano
-Daniela Mercury
+DanielaMercury
 grupo
 rock
-Barao Vermelho
+BaraoVermelho
 descobrir
 filao
 exposicao
@@ -133,14 +133,14 @@ reflexo
 feira
 Londrina
 sentir
-todo o
+todoo
 cidade
 parte
 hoteleira
 haver
 incremento
 hospede
-em torno de
+emtornode
 dia
 duracao
 mostrar
@@ -149,11 +149,11 @@ parque
 linha
 exclusivo
 telefone
-Exposicao Agropecuaria E Industrial De Londrina
+ExposicaoAgropecuariaEIndustrialDeLondrina
 abril
 parque
 exposicao
-Ney Braga
+NeyBraga
 Londrina
 PR
 ingresso

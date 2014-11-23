@@ -1,7 +1,7 @@
 Unplugged
 inovar
 arranjo
-Gilberto Gil
+GilbertoGil
 conseguir
 criar
 bom
@@ -17,16 +17,16 @@ executar
 Gil
 sexteto
 formar
-Arthur Maia
+ArthurMaia
 baixo
-Jorge Gomes
+JorgeGomes
 bateria
 bandolim
-Celso Fonseca
+CelsoFonseca
 violao
-Marcos Suzano
+MarcosSuzano
 percussao
-Lucas Santana
+LucasSantana
 flauta
 avancar
 padrao
@@ -65,12 +65,12 @@ violao
 harmonizacao
 violao
 Gil
-Celso Fonseca
+CelsoFonseca
 dispensar
 recurso
 facil
 piano
-Marcos Suzano
+MarcosSuzano
 capaz
 tocar
 percussao
@@ -93,7 +93,7 @@ afinidade
 eletivo
 cancao
 comecar
-A Novidade
+ANovidade
 gravar
 paralama
 versao
@@ -105,7 +105,7 @@ renovar
 estrutura
 cancao
 Realce
-Toda Menina Baiana
+TodaMeninaBaiana
 desplugagem
 abrir
 melodia
@@ -134,20 +134,20 @@ reducionismo
 vale
 pena
 tentar
-obra de arte
+obradearte
 titulo
 Unplugged
 musico
-Gilberto Gil
-Arthur Maia
-Marcos Suzano
-Jorge Gomes
-Celso Fonseca
-Lucas Santana
+GilbertoGil
+ArthurMaia
+MarcosSuzano
+JorgeGomes
+CelsoFonseca
+LucasSantana
 producao
-Gilberto Gil
+GilbertoGil
 lancamento
-Warner Music
+WarnerMusic
 CR
 mil
 CD

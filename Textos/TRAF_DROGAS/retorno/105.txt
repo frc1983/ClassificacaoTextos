@@ -1,7 +1,7 @@
 preco
 CR
 mil
-Koko Taylor
+KokoTaylor
 Warner
 dama
 blues
@@ -13,9 +13,9 @@ onde
 contar
 colaboracao
 guitarrista
-Buddy Guy
+BuddyGuy
 gaitista
-Carey Bell
+CareyBell
 acervo
 varios
 BMGAriola
@@ -31,22 +31,22 @@ musica
 brasileiro
 titulo
 estar
-Carmen Miranda
+CarmenMiranda
 Jacob
 Bandolim
 orlar
 Silva
-Silvio Caldas
+SilvioCaldas
 Maysa
 CONEHEADS
 trilha
 sonoro
 Warner
 filme
-Lorne Michaels
+LorneMichaels
 estrelar
-Dan Aykroyd
-Jane Curtin
+DanAykroyd
+JaneCurtin
 nao
 chegar
 Brasil
@@ -56,14 +56,14 @@ ja
 estar
 disponivel
 loja
-Red Hot Chili Peppers
-Paul Simon
+RedHotChiliPeppers
+PaulSimon
 R
 E
 M
 k
 d
-John Mayall
+JohnMayall
 BMGAriola
 ultimo
 disco
@@ -72,7 +72,7 @@ britanico
 chegar
 loja
 passagem
-Sao Paulo
+SaoPaulo
 onde
 tocar
 inicio
@@ -96,13 +96,13 @@ rock
 paulistano
 voltar
 disco
-com vigor
+comvigor
 redobrar
 LP
 cassete
 trazer
 faixa
-a menos
+amenos
 versao
 cD
 comer
@@ -125,4 +125,4 @@ brincadeira
 sucesso
 banda
 periodo
-Come Dancing
+ComeDancing

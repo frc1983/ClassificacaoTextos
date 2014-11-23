@@ -24,7 +24,7 @@ km
 noroeste
 Vancouver
 estacao
-Mont Tremblant
+MontTremblant
 carecer
 infraestrutura
 hoteleira
@@ -92,7 +92,7 @@ cortina
 D
 Ampezzo
 famoso
-todo o mundo
+todoomundo
 pista
 St
 Moritz

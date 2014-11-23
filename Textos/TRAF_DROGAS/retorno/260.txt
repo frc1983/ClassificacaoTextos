@@ -3,7 +3,7 @@ bicho
 chamado
 lista
 bicho
-livro de caixa
+livrodecaixa
 contravencao
 carioca
 registrar
@@ -14,10 +14,10 @@ politico
 promotor
 jornalista
 mostrar
-uma vez por todas
+umavezportodas
 jogodobicho
 mais
-do que
+doque
 ilegalidade
 cotidiano
 lista
@@ -46,10 +46,10 @@ apenas
 crime
 formacao
 quadrilha
-o qual
+oqual
 condenar
 bicheiro
-no entanto
+noentanto
 numero
 ligacao
 pantanoso
@@ -58,12 +58,12 @@ lista
 exigir
 apuracao
 ja
-do que
+doque
 cliche
 apontar
 hipocrisia
 nacional
-em relacao a
+emrelacaoa
 temer
 loteria
 numero
@@ -97,7 +97,7 @@ aposta
 ate
 prisao
 bicheiro
-no maximo
+nomaximo
 efeito
 semelhante
 exterminio
@@ -125,7 +125,7 @@ controlador
 dinheiro
 circulacao
 mais
-do que
+doque
 duvidoso
 precisar
 rastreo

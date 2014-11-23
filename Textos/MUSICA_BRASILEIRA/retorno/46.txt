@@ -31,10 +31,10 @@ ate
 R
 interior
 paulista
-a mais de
+amaisde
 inicio
 julho
-ao contrario de
+aocontrariode
 ocorrer
 inverno
 passar
@@ -42,7 +42,7 @@ oferta
 gado
 hoje
 reduzir
-todo o
+todoo
 estado
 estar
 trabalhar
@@ -57,7 +57,7 @@ Sindicato
 Industria
 Frio
 Estado
-Sao Paulo
+SaoPaulo
 Sindifrio
 frigorifico
 paulista
@@ -77,13 +77,13 @@ pecuarista
 gado
 corte
 Sindipec
-Antonio Luiz Cadorin
+AntonioLuizCadorin
 empresa
-Suporte Assessoria
+SuporteAssessoria
 Comercio
 comercializar
 gado
-todo o
+todoo
 Sudeste
 Centrooeste
 espera
@@ -103,7 +103,7 @@ antecipar
 venda
 animal
 confinar
-devido a
+devidoa
 bom
 preco
 arroba
@@ -113,7 +113,7 @@ ate
 final
 mes
 pecuarista
-Sylvio Lazzarini Neto
+SylvioLazzariniNeto
 R
 ja
 preco
@@ -148,14 +148,14 @@ haver
 concorrencia
 produto
 importar
-o que
+oque
 nao
 interessante
 setor
 dizer
 pecuarista
 mineiro
-Antonio Alberto Canabrava
+AntonioAlbertoCanabrava
 Toledo
 Sindifrio
 entender

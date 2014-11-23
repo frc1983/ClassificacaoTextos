@@ -1,7 +1,7 @@
 Cardeal
 Revisao
 calo
-EDUARDO M
+EDUARDOM
 toro
 recente
 impressionante
@@ -106,7 +106,7 @@ acao
 area
 acima
 indicar
-o povo
+opovo
 chamar
 exigir
 revisao
@@ -136,9 +136,9 @@ filho
 nao
 ficar
 inerte
-frente a
+frentea
 horror
-Carlos EDUARDO Monte Alegre
+CarlosEDUARDOMonteAlegre
 Toro
 advogado
 professor
@@ -149,4 +149,4 @@ membro
 Grupo
 Empresa
 brasileiro
-Capital Estrangeiro
+CapitalEstrangeiro

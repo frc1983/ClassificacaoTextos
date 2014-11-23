@@ -1,12 +1,12 @@
 professor
 formar
 equipe
-Marcos Jose Santana
+MarcosJoseSantana
 mestre
 ciencia
 computacao
 Universidade
-Sao Paulo
+SaoPaulo
 instituto
 ciencia
 matematico
@@ -19,26 +19,26 @@ computacao
 Universidade
 Southampton
 Inglaterra
-Nivaldi Calonego Jr
+NivaldiCalonegoJr
 mestre
 ciencia
 computacao
 matematica
 computacional
 Universidade
-Sao Paulo
+SaoPaulo
 ICMSC
 doutorar
 computacao
 Universidade
-Sao Paulo
+SaoPaulo
 ICMSC
-Regina Helena Carlucci Santana
+ReginaHelenaCarlucciSantana
 mestre
 ciencia
 computacao
 Universidade
-Sao Paulo
+SaoPaulo
 ICMSC
 PhD
 eletronica
@@ -46,23 +46,23 @@ computacao
 Universidade
 Southampton
 Inglaterra
-Walter Gomes Pedroso Jr
+WalterGomesPedrosoJr
 bacharel
 ciencia
 computacao
 Universidade
-Sao Paulo
+SaoPaulo
 ICMSC
-Ana Luisa Pena
+AnaLuisaPena
 Andrade
 bacharel
 ciencia
 computacao
 Universidade
-Sao Paulo
+SaoPaulo
 ICMSC
-Joao Carlos
-Moraes Morselli Jr
+JoaoCarlos
+MoraesMorselliJr
 bacharel
 ciencia
 computacao
@@ -72,4 +72,4 @@ paulista
 Ibilce
 sao
 Jose
-Rio Preto
+RioPreto

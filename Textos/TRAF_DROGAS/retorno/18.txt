@@ -23,7 +23,7 @@ ontem
 haver
 pedir
 zagueiro
-Ricardo Rocha
+RicardoRocha
 comprar
 perfume
 Paris
@@ -83,10 +83,10 @@ Cafu
 dizer
 arrasar
 amigo
-fora de
+forade
 campo
 nao
-o que
+oque
 falar
 Rocha
 dizer
@@ -95,7 +95,7 @@ desistir
 viajar
 semana
 filho
-Sao Paulo
+SaoPaulo
 deixar
 proximo
 Dener
@@ -131,7 +131,7 @@ semana
 apresentar
 amigo
 comum
-Oto Gomes
+OtoGomes
 dirigir
 carro
 acidentar
@@ -151,7 +151,7 @@ saber
 desfrutar
 praia
 tecnico
-Carlos Alberto Parreira
+CarlosAlbertoParreira
 afirmar
 Dener
 atacante

@@ -1,8 +1,8 @@
 reaberto
 via
-Los Angeles
+LosAngeles
 santo
-Monica Highway
+MonicaHighway
 mais
 movimentar
 via
@@ -10,7 +10,7 @@ esprimir
 mundo
 reabrir
 ontem
-Los Angeles
+LosAngeles
 costa
 oeste
 EUA
@@ -23,5 +23,5 @@ desde
 terremoto
 janeiro
 deixar
-mais de
+maisde
 pessoa

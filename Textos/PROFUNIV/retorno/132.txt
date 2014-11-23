@@ -19,7 +19,7 @@ contraste
 cidade
 ano
 avenida
-Rio Branco
+RioBranco
 inspirar
 desfile
 caprichoso
@@ -52,17 +52,17 @@ africa
 rainha
 artista
 nome
-Ilvamar Antonio Tostes Magalhaes
+IlvamarAntonioTostesMagalhaes
 local
 nascimento
 engenho
 dentro
-Rio de Janeiro
+RiodeJaneiro
 aniversario
 signo
 solar
 escorpiao
-estado civil
+estadocivil
 solteiro
 altura
 m
@@ -110,7 +110,6 @@ hoje
 verde
 rosar
 amanha
-por que
 nao
 branco
 verde
@@ -170,14 +169,14 @@ desbunde
 carnavalesco
 escola
 pessoa
-San Martin
+SanMartin
 Caribe
 ir
 Carnaval
 ir
-Nova York
+NovaYork
 sobrinho
-Romero Lubambo
+RomeroLubambo
 gravar
 CD
 musica
@@ -193,7 +192,7 @@ ganhar
 dinheiro
 nao
 ganhar
-o que
+oque
 ganhar
 criador
 figurinista

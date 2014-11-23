@@ -15,7 +15,7 @@ tornar
 intragavel
 cerco
 fechar
-cada vez mais
+cadavezmais
 ir
 provar
 industria
@@ -39,7 +39,7 @@ proposta
 Congresso
 banir
 cigarro
-todo o
+todoo
 local
 trabalho
 proposta
@@ -53,14 +53,14 @@ golpe
 direto
 bolso
 fumante
-cerca de
+cercade
 US
 bilhao
 ano
 arrecadar
 mais
 medida
-alem de
+alemde
 proposta
 senador
 deputado
@@ -71,7 +71,7 @@ lei
 ir
 proibir
 cigarro
-todo o
+todoo
 escola
 receber
 qualquer
@@ -88,13 +88,13 @@ sustentar
 fumante
 passivo
 morrer
-todo o
+todoo
 ano
 pais
-por causa de
+porcausade
 fumaca
 alheio
-cerca de
+cercade
 mil
 pessoa
 segundo
@@ -111,7 +111,7 @@ golpe
 final
 semana
 passar
-Philip Morris
+PhilipMorris
 industria
 setor
 EUA
@@ -129,27 +129,27 @@ comissario
 FDA
 Food
 and
-Drugs Administration
+DrugsAdministration
 orgao
 federal
 regular
 remedio
 alimento
-David Kessler
+DavidKessler
 afirmar
 milhao
 americano
 tentar
 parar
 fumar
-todo o
+todoo
 ano
-menos de
+menosde
 conseguir
 ultimo
 quartafeira
 juiz
-Frederick Hebbe
+FrederickHebbe
 novo
 Orleans
 proibir

@@ -26,20 +26,20 @@ GP
 pacifico
 estar
 deixar
-Ayrton Senna
+AyrtonSenna
 Williams
 cabelo
-em pe
+empe
 time
 comecar
 ano
 favorito
 despencar
-todo o
+todoo
 prognostico
 especialista
 vitoria
-Michael Schumacher
+MichaelSchumacher
 Brasil
 analise
 Aida
@@ -71,7 +71,7 @@ volta
 carro
 F
 ficar
-em torno de
+emtornode
 kmh
 ideia
 Interlagos
@@ -123,7 +123,7 @@ esperanca
 time
 piloto
 brasileiro
-pelo menos
+pelomenos
 asfalto
 nao
 ondular
@@ -151,7 +151,7 @@ horario
 Brasilia
 volta
 mais
-do que
+doque
 qualquer
 provar
 calendario

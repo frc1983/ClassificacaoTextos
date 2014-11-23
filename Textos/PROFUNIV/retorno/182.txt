@@ -38,12 +38,12 @@ moda
 paulistano
 Anhembi
 Morumbi
-Santa Marcelina
+SantaMarcelina
 jovem
 criador
 escolher
 direcao
-corpo docente
+corpodocente
 faculdade
 sexto
 ano
@@ -54,14 +54,14 @@ apoiar
 novo
 geracao
 contar
-Yuko Suzuki
+YukoSuzuki
 diretora
 coordenadora
 geral
 evento
 ano
 esquema
-de criacao
+decriacao
 modelose
 relampago
 apenas
@@ -103,7 +103,7 @@ unidade
 produtor
 diretor
 desfile
-Paulo Borges
+PauloBorges
 montar
 lona
 circo

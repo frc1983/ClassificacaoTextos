@@ -2,7 +2,7 @@ balanco
 peso
 novo
 MPB
-Rodrigo Leao
+RodrigoLeao
 teoria
 mundo
 caotico
@@ -52,10 +52,10 @@ riff
 guitarra
 levada
 trombone
-ao fundo
+aofundo
 trombonista
 Tiquinho
-todo o
+todoo
 diferenca
 passagem
 MTV
@@ -76,10 +76,10 @@ incluir
 versao
 reggae
 divertidissimo
-Boys Dont Cry
+BoysDontCry
 curar
 divertir
-por sinal
+porsinal
 unico
 diretriz
 grupo
@@ -93,11 +93,11 @@ parte
 novo
 geracao
 MPB
-ao lado de
-Chico Science
+aoladode
+ChicoScience
 Raimundos
 Skank
 Nomad
 dizer
 Rodrigo
-Marisa Adan Gil
+MarisaAdanGil

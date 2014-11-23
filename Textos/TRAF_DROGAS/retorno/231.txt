@@ -1,5 +1,5 @@
 primavera
-Ze Celso
+ZeCelso
 estar
 mais
 apaziguar
@@ -23,7 +23,7 @@ atras
 germinar
 casa
 alugar
-a preco de banana
+aprecodebanana
 Bexiga
 hoje
 nascer
@@ -36,11 +36,11 @@ mensal
 praca
 Republica
 onde
-Ze Celso
+ZeCelso
 passar
 morar
 amante
-Marcelo Drummond
+MarceloDrummond
 ator
 principal
 HamLet
@@ -48,13 +48,13 @@ ano
 morte
 irmao
 poeta
-Luiz Antonio
+LuizAntonio
 assassinar
 dezembro
 facada
 garoto
 programa
-Ze Celso
+ZeCelso
 conhecer
 Drummond
 carinhoso
@@ -67,13 +67,13 @@ vitorioso
 aventura
 HamLet
 ator
-Marcelo Drummond
+MarceloDrummond
 revelar
-As Boas
-Jean Genet
+AsBoas
+JeanGenet
 peca
 polemico
-Ze Celso
+ZeCelso
 apos
 descida
 radical
@@ -97,10 +97,10 @@ teatro
 morrer
 apartamento
 onde
-Ze Celso
+ZeCelso
 viver
 abrigar
-alem de
+alemde
 namorado
 ator
 trupe
@@ -113,19 +113,19 @@ ano
 epoca
 morar
 comunidade
-o maximo
+omaximo
 vida
 ali
 espartano
 despesa
 dividir
 irma
-Ze Celso
-Ana Maria
+ZeCelso
+AnaMaria
 professora
 universitario
 historia
-as vezes
+asvezes
 ir
 socorro
 pagar
@@ -167,7 +167,7 @@ dizer
 costumar
 maltratar
 grana
-por exemplo
+porexemplo
 vender
 terreno
 pai
@@ -185,7 +185,7 @@ Unicamp
 arquivo
 ano
 Oficina
-Ze Celso
+ZeCelso
 levar
 cano
 projeto
@@ -210,7 +210,7 @@ segundo
 autor
 texto
 vida
-Cacilda Becker
+CacildaBecker
 confundir
 historia
 teatro
@@ -219,7 +219,7 @@ comer
 durar
 ate
 hoje
-como se
+comose
 proprio
 teatro
 coma
@@ -232,10 +232,10 @@ gigantismo
 peca
 nao
 sentir
-Joana D
+JoanaD
 Arc
 estar
-atras de
+atrasde
 Cacildas
 dizer
 impulso
@@ -245,7 +245,7 @@ morte
 atriz
 proximo
 dia
-Ze Celso
+ZeCelso
 discutir
 prefeitura
 projeto
@@ -256,7 +256,7 @@ grego
 ja
 desenhar
 arquiteto
-Paulo Mendes
+PauloMendes
 Rocha
 obra
 pedir

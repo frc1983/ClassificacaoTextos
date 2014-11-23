@@ -1,11 +1,11 @@
-Lancamentoa Folha
+LancamentoaFolha
 realizar
 terca
 noite
 autografo
 novo
 livro
-Jose Sarney
+JoseSarney
 sextafeira
 folha
 auditorio
@@ -21,11 +21,11 @@ politica
 social
 polis
 r
-Joaquim Floriano
+JoaquimFloriano
 cep
 tel
 fax
-Sao Paulo
+SaoPaulo
 revista
 publicar
 dossie
@@ -48,9 +48,7 @@ Unicamp
 Cx
 postal
 tel
- 
 fax
- 
 campina
 publicacao
 trazer
@@ -61,22 +59,21 @@ apoio
 candidato
 presidencia
 espanhol
-MINIDICIONARIO EspanholPORTUGUES
+MINIDICIONARIOEspanholPORTUGUES
 Portugues
 ESPANHOL
-Eugenia Flavian
-Gretel Eres Fernandez
+EugeniaFlavian
+GretelEresFernandez
 atico
 r
 barao
 Iguape
-Sao Paulo
+SaoPaulo
 tel
 fax
- 
 cep
 dicionario
-de bolso
+debolso
 incluir
 regionalismo
 quadro
@@ -87,22 +84,21 @@ patrio
 falso
 cognato
 guia
-Conversacao PortuguesESPANHOL
-Antonio R
+ConversacaoPortuguesESPANHOL
+AntonioR
 Esteves
-Bertrand Brasil
-Rio Branco
+BertrandBrasil
+RioBranco
 andar
-Rio de Janeiro
+RiodeJaneiro
 cep
 tel
- 
 fax
 guia
 incluir
 pronuncia
 figurar
-todo o
+todoo
 palavra
 mencionar
 varias
@@ -116,17 +112,16 @@ saude
 Sociedade
 Brasil
 org
-Reinaldo Guimaraes
-Ricardo Tavares
-Relume Dumara
+ReinaldoGuimaraes
+RicardoTavares
+RelumeDumara
 r
 barato
 Ribeiro
 sala
-Rio de Janeiro
+RiodeJaneiro
 cep
 tel
- 
 fax
 ag
 texto
@@ -142,19 +137,18 @@ Brasil
 Historia
 Saude
 publico
-George Rosen
+GeorgeRosen
 ilustracao
 capa
-Floriano Teixeira
+FlorianoTeixeira
 coedicao
 editorar
 Unesp
-Rio Branco
-Sao Paulo
+RioBranco
+SaoPaulo
 cep
 tel
 fax
- 
 Hucitec
 Abrasco
 historia
@@ -172,48 +166,46 @@ hoje
 economia
 Capitalismo
 Seculo
-Robert Heilbroner
+RobertHeilbroner
 traducao
-Sergio Gomes
+SergioGomes
 Paula
-Jorge Zahar Editor
+JorgeZaharEditor
 r
 Mexico
 sobreloja
-Rio de Janeiro
+RiodeJaneiro
 cep
 tel
- 
 fax
 economista
 professor
-London School
+LondonSchool
 of
 Economics
 montar
 cenario
 futuro
-proximo de
+proximode
 capitalismo
 privado
 porem
 Publico
 terceiro
 Setor
-America Latina
-Rubem Cesar Fernandes
+AmericaLatina
+RubemCesarFernandes
 capa
-Visiva Comunicacao
+VisivaComunicacao
 Design
-Relume Dumara
+RelumeDumara
 r
 barato
 Ribeiro
 sala
-Rio de Janeiro
+RiodeJaneiro
 cep
 tel
- 
 fax
 autor
 analisar
@@ -224,32 +216,31 @@ naolucrativo
 influir
 cena
 publico
-ao lado de
+aoladode
 Estado
 mercado
 critica
-Guimaraes R
+GuimaraesR
 S
 Alquimista
 Coracao
-Jose Maria Martins
+JoseMariaMartins
 edicao
 arte
-Omar Santos
+OmarSantos
 voz
 r
 Paulo
 tel
- 
 fax
 pag
 pag
 R
 analise
-de vies
+devies
 psicologico
 obra
-Guimaraes Rosa
+GuimaraesRosa
 identidade
 Representacao
 publicacao
@@ -258,9 +249,9 @@ federal
 Sta
 Catarina
 Org
-Raul Antelo
+RaulAntelo
 capa
-Ane Girondi
+AneGirondi
 UFSC
 posgraduacao
 letra
@@ -269,7 +260,6 @@ universitario
 trindade
 cep
 tel
- 
 compilacao
 texto
 apresentar
@@ -283,7 +273,7 @@ estudo
 Imposto
 renda
 coordenacao
-Ives Gandra da Silva
+IvesGandradaSilva
 Martins
 editora
 Resenha
@@ -291,32 +281,31 @@ tributario
 r
 Quatinga
 cep
-Sao Paulo
+SaoPaulo
 coletanea
 texto
-direito tributario
+direitotributario
 edicao
-em homenagem a
+emhomenagema
 advogado
-Henry Tilbery
+HenryTilbery
 morto
 presidenciavel
 varios
 autor
 Coord
 editorial
-Marcos Roque
-Francisco Alves
+MarcosRoque
+FranciscoAlves
 r
 setembro
-Rio de Janeiro
+RiodeJaneiro
 cep
 tel
- 
 fax
 biografia
 presidenciavel
 assinar
 varios
 jornalista
-Joao Baptista Natali
+JoaoBaptistaNatali

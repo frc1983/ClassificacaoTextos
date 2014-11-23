@@ -2,7 +2,7 @@ louco
 manso
 caminhar
 rua
-Civic Center
+CivicCenter
 complexo
 edificacao
 concentrar
@@ -10,9 +10,9 @@ bom
 parte
 vida
 cultural
-San Francisco
+SanFrancisco
 passear
-San Francisco
+SanFrancisco
 conviver
 multiplo
 etnia
@@ -41,52 +41,52 @@ sensivel
 antiquario
 refinar
 belo
-Castro Theatre
+CastroTheatre
 encontrar
 reduto
 gay
-alem de
+alemde
 museu
 tradicional
 ligar
 arte
 California
-Estados Unidos
+EstadosUnidos
 haver
 varios
 guardar
 belo
 tradicao
 povo
-Asian Art Museum
-Chinese Cultural Center
-Jewish Museum
-Mexican Museum
+AsianArtMuseum
+ChineseCulturalCenter
+JewishMuseum
+MexicanMuseum
 paraiso
 arte
-Civic Center
+CivicCenter
 complexo
 edificacao
 onde
 estar
 local
 famoso
-City Hall
-Davies Symp
+CityHall
+DaviesSymp
 ony
 Hall
-War Memorial Opera House
+WarMemorialOperaHouse
 Museum
 of
-Modern Art
+ModernArt
 atmosfera
 cidade
 inspiradora
-alem de
+alemde
 filme
-San Francisco
+SanFrancisco
 voz
-Jeanette Mac Donald
+JeanetteMacDonald
 superar
 diva
 atuar
@@ -96,14 +96,14 @@ extensao
 nao
 apenas
 consagrar
-I Left my Heart in San Francisco
+ILeftmyHeartinSanFrancisco
 louvar
 cidade
-LEA VINOCUR FREITAG
+LEAVINOCURFREITAG
 professora
 titular
 USP
 cantora
 camara
 autora
-Momentos de Musica Brasileira
+MomentosdeMusicaBrasileira

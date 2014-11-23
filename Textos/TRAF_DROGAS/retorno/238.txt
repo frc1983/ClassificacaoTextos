@@ -2,7 +2,7 @@ Palo
 alto
 esporte
 cultura
-de sobra
+desobra
 selecao
 brasileiro
 jogar
@@ -10,7 +10,7 @@ cidade
 tipico
 suburbio
 renda
-per capita
+percapita
 EUA
 equipe
 articulista
@@ -30,7 +30,7 @@ exclusivamente
 morar
 populacao
 girar
-em torno de
+emtornode
 mil
 mil
 habitante
@@ -46,11 +46,11 @@ cidadezinha
 basicamente
 plano
 arvore
-do que
+doque
 pessoa
 quarteirao
 cachorro
-ao menos
+aomenos
 casar
 Palo
 alto
@@ -62,7 +62,7 @@ juventude
 Palo
 alto
 esporte
-ao ar livre
+aoarlivre
 cidadezinha
 ostentar
 infinidade
@@ -85,7 +85,7 @@ semaforo
 parada
 obrigatorio
 quase
-todo o
+todoo
 cruzamento
 chegar
 xis
@@ -99,7 +99,7 @@ situacao
 tambem
 compulsorio
 parada
-diante de
+diantede
 travessia
 pedestre
 cidadao
@@ -113,7 +113,7 @@ Palo
 alto
 ficar
 perto
-no entanto
+noentanto
 instalacao
 lazer
 shopping
@@ -122,7 +122,7 @@ restaurante
 raio
 quilometro
 existir
-meia duzia
+meiaduzia
 clube
 golfe
 dobro
@@ -174,7 +174,7 @@ emprestar
 dizer
 nome
 professor
-Bill Shockley
+BillShockley
 nobel
 apenas
 inventor

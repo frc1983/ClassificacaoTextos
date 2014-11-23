@@ -9,7 +9,7 @@ mulher
 escrever
 mal
 ultimamente
-toda vez que
+todavezque
 pegar
 livro
 mulher
@@ -40,14 +40,14 @@ absolutamente
 identificavel
 defeito
 grave
-por exemplo
+porexemplo
 escrever
 modo
 senao
 mulher
 presenca
 Angel
-de repente
+derepente
 quase
 diario
 verao
@@ -81,7 +81,7 @@ Angel
 trazer
 dificil
 levar
-a serio
+aserio
 literatura
 mulher
 parar
@@ -99,11 +99,11 @@ editorial
 ano
 trazer
 tona
-dezenas de
+dezenasde
 escritora
 supor
 escritora
-Soninha Coutinho
+SoninhaCoutinho
 sobrevivente
 inflacao
 escritora
@@ -113,16 +113,16 @@ manter
 mercado
 publicar
 romance
-Atire em Sofia
-O Caso Alice
+AtireemSofia
+OCasoAlice
 ultimo
 lancamento
-Uma Certa Felicidade
+UmaCertaFelicidade
 contar
 dar
 titulo
 coletanea
-eis que
+eisque
 tematica
 bem
 feminino
@@ -144,7 +144,7 @@ historia
 cometer
 omissao
 partir
-todo o
+todoo
 abordagem
 possivel
 principal
@@ -160,7 +160,7 @@ sinuoso
 espatifar
 desenvolver
 vida
-ponto de vista
+pontodevista
 formal
 escritora
 tentar

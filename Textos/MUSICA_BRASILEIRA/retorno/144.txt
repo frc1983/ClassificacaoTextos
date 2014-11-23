@@ -2,7 +2,7 @@ ensaio
 dar
 bis
 Erasmo
-Groucho Marx
+GrouchoMarx
 especial
 trilha
 cinema
@@ -11,7 +11,7 @@ dar
 bis
 Erasmo
 tremendao
-Erasmo Carlos
+ErasmoCarlos
 convidado
 Ensaio
 relembrar
@@ -31,9 +31,9 @@ Wanderleia
 ensaio
 Cultura
 sexta
-Groucho Marx
+GrouchoMarx
 especial
-O Grande e Unico Groucho Marx
+OGrandeeUnicoGrouchoMarx
 perfil
 ator
 escritor
@@ -41,21 +41,21 @@ comediante
 exibir
 trecho
 quase
-todo o
+todoo
 filme
-alem de
+alemde
 cena
 epoca
 apresentar
 programa
 radio
 NBC
-MULTIMIX Multishow
+MULTIMIXMultishow
 sabado
 trilha
 cinema
 serie
-Magia do Cinema
+MagiadoCinema
 abordar
 episodio
 efeito

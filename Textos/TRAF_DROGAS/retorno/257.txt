@@ -12,7 +12,7 @@ segundo
 jornal
 Cingapura
 executivo
-Pang Kim Seng
+PangKimSeng
 multar
 US
 mandar
@@ -28,7 +28,7 @@ possivel
 vinculacao
 presidente
 boliviano
-Jaime Paz Zamora
+JaimePazZamora
 narcotrafico
 dar
 novo

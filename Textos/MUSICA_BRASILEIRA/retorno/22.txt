@@ -1,7 +1,7 @@
 zoom
 passagem
 chanceler
-Celso Amorim
+CelsoAmorim
 China
 direito
 atencao
@@ -9,31 +9,31 @@ especial
 tratamento
 vip
 presidente
-Jiang Zening
+JiangZening
 estar
 novembro
 Brasil
 sera
-em torno de
+emtornode
 embaixador
-Marcilio Marques Moreira
+MarcilioMarquesMoreira
 recepcao
-Winthrop H
-Smith Jr
-John G
+WinthropH
+SmithJr
+JohnG
 Heimann
-Merrill Lynch
+MerrillLynch
 reger
 hoje
-Sao Paulo Clube
-em homenagem a
-Monica Barki
-Luiz Aquila Rocha Miranda
+SaoPauloClube
+emhomenagema
+MonicaBarki
+LuizAquilaRochaMiranda
 sessao
 drink
 hoje
 dominio
-Marcia Marcondes
+MarciaMarcondes
 bando
 modernette
 baixar
@@ -43,15 +43,15 @@ quarto
 edicao
 revista
 General
-Cha Cha Cha
-Silvia MacFarlend
+ChaChaCha
+SilviaMacFarlend
 ja
 colocar
 colecao
 outonoinverno
 cabide
 Pandemonium
-Jose Maria
+JoseMaria
 Rafael
 rio
 Escalone
@@ -59,15 +59,15 @@ acabar
 estrear
 cardapio
 light
-Don Curro
-Tete Smith
+DonCurro
+TeteSmith
 Vasconcellos
 comandar
 hoje
 jantar
 chateau
 irma
-Marta Suplicy
+MartaSuplicy
 artulio
 rei
 levar
@@ -75,10 +75,10 @@ trofeu
 Caymmi
 bom
 musica
-Tambores de Cores
+TamboresdeCores
 acidente
 carro
-Antonio Bivar
+AntonioBivar
 temporada
 estaleiro
 ribeirao

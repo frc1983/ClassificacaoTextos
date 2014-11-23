@@ -1,5 +1,5 @@
 rapper
-Tupac Shakur
+TupacShakur
 salvar
 filme
 basquete
@@ -26,7 +26,7 @@ gangster
 viver
 astro
 rapper
-Tupac Shakur
+TupacShakur
 querer
 ganhar
 dinheiro
@@ -39,7 +39,7 @@ formula
 bater
 utilizar
 diretor
-Jeff Pollack
+JeffPollack
 filme
 Lance
 Crime
@@ -66,7 +66,7 @@ Brasil
 rap
 basquete
 diferenca
-e que
+eque
 lance
 Crime
 nao
@@ -75,9 +75,9 @@ abobora
 carruagem
 tiro
 sangue
-Kyle Watson
+KyleWatson
 viver
-Duane Martin
+DuaneMartin
 astro
 mimar
 time

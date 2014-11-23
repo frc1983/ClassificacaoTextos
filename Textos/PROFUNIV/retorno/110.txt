@@ -17,11 +17,11 @@ abril
 Rock
 hoje
 amanha
-a partir de
+apartirde
 banda
 Weapon
-Jorge Cabeleira
-Paulo Francis
+JorgeCabeleira
+PauloFrancis
 ir
 Ceu
 Gabriel
@@ -70,11 +70,11 @@ tocar
 banda
 pernambucano
 Weapon
-Jorge Cabeleira
-Paulo Francis
+JorgeCabeleira
+PauloFrancis
 ir
 Ceu
-alem de
+alemde
 rapper
 carioca
 Gabriel
@@ -90,9 +90,9 @@ Odio
 cavalo
 Cao
 Edd
-Lara Hanouska
-Dreadful Boys
-Chico Science
+LaraHanouska
+DreadfulBoys
+ChicoScience
 Nacao
 Zumbi
 mostrar
@@ -102,7 +102,7 @@ passar
 Abril
 Rock
 reunir
-cerca de
+cercade
 pessoa
 Circo
 maluco
@@ -117,7 +117,7 @@ atualmente
 gravar
 disco
 estreia
-Sao Paulo
+SaoPaulo
 selo
 banguela
 cobaia

@@ -10,11 +10,11 @@ lazer
 interessado
 arte
 arquitetura
-MAURICIO STYCER
+MAURICIOSTYCER
 interessar
 arte
 arquitetura
-ainda que
+aindaque
 naocatolico
 ateu
 dispor
@@ -27,7 +27,7 @@ variar
 patrimonio
 eclesiastico
 cidade
-Sao Paulo
+SaoPaulo
 voce
 encontrar
 quantidade
@@ -42,7 +42,7 @@ ultimo
 seculo
 dizer
 arquiteto
-Antonio Luiz Dias
+AntonioLuizDias
 Andrade
 coordenadorregional
 IBPC
@@ -59,12 +59,12 @@ visita
 sugerir
 Andrade
 igreja
-Nossa Senhora
+NossaSenhora
 bom
 Morte
 santo
 Antonio
-Sao Francisco
+SaoFrancisco
 Assis
 quadro
 igreja
@@ -72,12 +72,12 @@ retratar
 periodo
 mais
 antigo
-ao redor de
+aoredorde
 seculo
 arquitetura
 eclesiastico
 cidade
-Nossa Senhora
+NossaSenhora
 bom
 Morte
 nome
@@ -89,7 +89,7 @@ morte
 cidade
 escravo
 levar
-a pe
+ape
 Baixada
 Glicerio
 ate
@@ -101,10 +101,10 @@ rezar
 pedir
 bom
 morte
-Nossa Senhora
+NossaSenhora
 igreja
 periodo
-Nossa Senhora
+NossaSenhora
 bom
 Morte
 estar
@@ -115,7 +115,7 @@ mosteiro
 sao
 Bento
 Catedral
-Sao Paulo
+SaoPaulo
 representar
 segundo
 grupo
@@ -130,7 +130,7 @@ quarto
 seculo
 passar
 prevalecer
-todo o mundo
+todoomundo
 arquitetura
 ecletico
 historicista
@@ -176,7 +176,7 @@ Igreja
 Vila
 Madalena
 Igreja
-Nossa Senhora Mae
+NossaSenhoraMae
 Salvador
 igreja
 representativo
@@ -186,25 +186,25 @@ paulista
 cidade
 resultar
 projeto
-Joaquim Guedes
+JoaquimGuedes
 segundo
 nascer
 associacao
-Francisco Segnini Jr
-Joaquim Barreto
+FranciscoSegniniJr
+JoaquimBarreto
 ja
 matar
 Segnini
 dizer
-Igreja da Cruz Torta
+IgrejadaCruzTorta
 apelido
-o qual
+oqual
 construcao
 conhecer
 pagar
 tributo
 ideia
-em vigor
+emvigor
 ano
 utilizacao
 telha
@@ -221,7 +221,7 @@ imagem
 segundo
 arquiteto
 conservadorismo
-Sao Paulo
+SaoPaulo
 nao
 exibir
 bom

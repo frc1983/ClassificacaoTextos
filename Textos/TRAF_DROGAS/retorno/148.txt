@@ -13,7 +13,7 @@ infestar
 cidade
 pais
 desenvolvimento
-por exemplo
+porexemplo
 aparato
 criar
 cidade
@@ -24,7 +24,7 @@ Constituicao
 obrigar
 tambem
 cidade
-mais de
+maisde
 mil
 habitante
 planejar
@@ -37,7 +37,7 @@ atraves
 plano
 diretor
 porem
-apesar de
+apesarde
 problema
 plano
 diretor
@@ -107,7 +107,7 @@ flexibilidade
 adaptar
 mudanca
 surpresa
-Edmundo Werna
+EdmundoWerna
 arquiteto
 urbanista
 professor

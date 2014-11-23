@@ -15,7 +15,7 @@ sul
 Sucursal
 Rio
 atacante
-Dener Augusto
+DenerAugusto
 Souza
 morrer
 ontem
@@ -48,10 +48,10 @@ convocacao
 Copa
 Mundo
 voltar
-Sao Paulo
+SaoPaulo
 amigo
 vizinho
-Oto Gomes Miranda
+OtoGomesMiranda
 dirigir
 carro
 fraturar
@@ -61,7 +61,7 @@ segundo
 policial
 levar
 hospital
-Miguel Couto
+MiguelCouto
 Leblon
 zona
 sul
@@ -76,7 +76,7 @@ banco
 reclinar
 pescoco
 comprimir
-cinto de seguranca
+cintodeseguranca
 fraturar
 coluna
 cervical
@@ -85,7 +85,7 @@ nuca
 perito
 Policia
 civil
-Walter Gomes
+WalterGomes
 afirmar
 carro
 bater
@@ -93,13 +93,13 @@ arvore
 velocidade
 estimar
 quilometro
-por hora
+porhora
 motorista
 nao
 frear
 medico
 Vasco
-Alexandre Campelo
+AlexandreCampelo
 tambem
 estar
 local
@@ -119,7 +119,7 @@ emissario
 Stuttgart
 logo
 viajar
-Sao Paulo
+SaoPaulo
 onde
 jogador
 querer
@@ -150,10 +150,10 @@ Lagoa
 corpo
 Dener
 permanecer
-dentro de
+dentrode
 Mitsubishi
 placa
-Sao Paulo DNR
+SaoPauloDNR
 alusao
 nome
 numero
@@ -237,7 +237,7 @@ Tijuca
 zona
 sul
 localizar
-em frente
+emfrente
 praia
 ler
 morte

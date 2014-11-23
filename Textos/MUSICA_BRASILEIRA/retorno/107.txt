@@ -15,7 +15,7 @@ media
 faltar
 colecao
 relancamento
-Gilberto Gil
+GilbertoGil
 ficar
 completo
 Refazenda
@@ -24,7 +24,7 @@ reunir
 quantidade
 bom
 cancao
-todo o
+todoo
 trajetoria
 Gil
 Refazenda
@@ -54,7 +54,7 @@ anoitecer
 mamao
 reservar
 delicadeza
-Retiros Espirituais
+RetirosEspirituais
 alegria
 E
 povo

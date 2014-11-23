@@ -32,7 +32,7 @@ Associacao
 Roda
 vivo
 estar
-Sao Paulo
+SaoPaulo
 semana
 passar
 objetivo
@@ -45,7 +45,7 @@ crianca
 adolescente
 dizer
 professora
-Maria Stela Graciani
+MariaStelaGraciani
 coordenadora
 NTC
 professora
@@ -60,7 +60,7 @@ vista
 alegre
 zona
 oeste
-Sao Paulo
+SaoPaulo
 ideia
 levar
 experiencia

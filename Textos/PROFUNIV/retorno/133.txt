@@ -2,7 +2,7 @@ SuperDemo
 trazer
 banda
 alternativo
-Sao Paulo
+SaoPaulo
 festival
 carioca
 SuperDemo
@@ -11,7 +11,7 @@ banda
 rock
 alternativo
 parada
-Sao Paulo
+SaoPaulo
 sabado
 Aeroanta
 SuperDemo
@@ -26,7 +26,7 @@ banda
 hoje
 sucesso
 Raimundos
-Chico Science
+ChicoScience
 Skank
 Gabriel
 Pensador
@@ -37,10 +37,10 @@ voador
 casa
 show
 centro
-Rio de Janeiro
+RiodeJaneiro
 ja
 estar
-Sao Paulo
+SaoPaulo
 belo
 Horizonte
 edicao
@@ -48,17 +48,17 @@ paulista
 SuperDemo
 apresentar
 banda
-Jorge Cabeleira
+JorgeCabeleira
 Dia
 inutil
 mais
 legal
-mangue beat
+manguebeat
 paulista
-Party Up
+PartyUp
 Aftazardem
 carioca
-Planet Hemp
+PlanetHemp
 Akbal
 Coma
 seguir
@@ -76,12 +76,12 @@ underground
 segundo
 produtor
 SuperDemo
-Elza Cohen
+ElzaCohen
 objetivo
 divulgar
 trabalho
 banda
-nao ainda
+naoainda
 nao
 conseguir
 espaco
@@ -93,7 +93,7 @@ fitasdemo
 chegar
 mao
 produtor
-alem de
+alemde
 show
 producao
 SuperDemo
@@ -111,16 +111,16 @@ parte
 agitacao
 mandar
 material
-Elza Cohen
+ElzaCohen
 rua
 Marques
 Parana
 apto
-Fetival SuperDemo
+FetivalSuperDemo
 Aeroanta
 rua
-Miguel Isasa
+MiguelIsasa
 pinheiro
 tel
 horario
-a partir de
+apartirde

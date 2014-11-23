@@ -38,7 +38,7 @@ Escola
 samba
 Beijaflor
 show
-Lucia Verissimo
+LuciaVerissimo
 rodear
 classificacao
 final
@@ -108,16 +108,16 @@ montaria
 touro
 cavalo
 show
-Marcelo Aguiar
+MarceloAguiar
 baile
 banda
 Energia
 dia
 sexta
 eliminatorio
-Barretos Ind
+BarretosInd
 show
-Joao Paulo
+JoaoPaulo
 Daniel
 dia
 sabado
@@ -159,7 +159,7 @@ final
 baliza
 tambor
 semifinal
-Barretos Int
+BarretosInt
 show
 artistico
 folclorico

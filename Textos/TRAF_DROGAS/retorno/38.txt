@@ -14,15 +14,15 @@ producao
 milhao
 t
 grao
-a mais de
+amaisde
 segundo
 Conab
-Companhia Nacional de Abastecimento
+CompanhiaNacionaldeAbastecimento
 Pianco
 cidade
 km
 sudoeste
-Joao Pessoa
+JoaoPessoa
 regiao
 mais
 beneficiar
@@ -30,8 +30,8 @@ chuva
 sertao
 Paraiba
 agricultor
-Antonio de Caldas Lacerda
-por exemplo
+AntoniodeCaldasLacerda
+porexemplo
 plantar
 quilo
 feijao
@@ -39,7 +39,7 @@ quilo
 milho
 quilo
 arroz
-alem de
+alemde
 semente
 abobora
 melancia
@@ -61,11 +61,11 @@ Lacerda
 arrendar
 hectare
 mil
-metro quadrado
+metroquadrado
 terra
 sitio
-Papa Milho
-proximo a
+PapaMilho
+proximoa
 rio
 Pianco
 parte
@@ -86,7 +86,7 @@ leite
 vender
 CR
 litro
-alem de
+alemde
 leite
 unico
 produto
@@ -97,7 +97,7 @@ dizer
 producao
 melancia
 ficar
-em torno de
+emtornode
 t
 fruta
 doar
@@ -112,7 +112,7 @@ agricultor
 nao
 ultimo
 ano
-por causa de
+porcausade
 seca
 segundo
 so
@@ -144,7 +144,7 @@ ate
 hoje
 saco
 arroz
-alem de
+alemde
 quilo
 arroz
 doar

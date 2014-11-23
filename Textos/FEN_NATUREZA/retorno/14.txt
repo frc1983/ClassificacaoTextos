@@ -2,18 +2,18 @@ anel
 SYDNEY
 enquete
 inexperiencia
-Mika Hakkinen
+MikaHakkinen
 causa
 acidente
-Ayrton Senna
+AyrtonSenna
 GP
 pacifico
-Damon Hill
+DamonHill
 piloto
 ingles
 Williams
 comportamento
-um pouco
+umpouco
 selvagem
 encontrar
 grid
@@ -24,7 +24,7 @@ so
 entrar
 carro
 transformar
-Ayrton Senna
+AyrtonSenna
 piloto
 brasileiro
 Williams

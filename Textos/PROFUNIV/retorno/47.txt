@@ -15,9 +15,9 @@ periodo
 seca
 atingir
 pastagem
-Sao Paulo
-Minas Gerais
-Mato Grosso
+SaoPaulo
+MinasGerais
+MatoGrosso
 Parana
 confinador
 gado
@@ -64,7 +64,7 @@ cabeca
 gado
 estar
 confinamento
-todo o
+todoo
 pais
 projecao
 sindicato
@@ -79,13 +79,13 @@ ir
 faltar
 boi
 abate
-a partir de
+apartirde
 agosto
 prever
-Victor Abou Nehmi Filho
+VictorAbouNehmiFilho
 vicepresidente
 Sindipec
-Louis Pascal
+LouisPascal
 Geer
 comemorar
 projecao
@@ -115,7 +115,7 @@ evitar
 projecao
 ganho
 ano
-devido a
+devidoa
 alto
 custo
 atividade
@@ -134,7 +134,7 @@ ficar
 inviabilizar
 afirmar
 pecuarista
-Sylvio Lazzarini Neto
+SylvioLazzariniNeto
 custo
 producao
 confinamento

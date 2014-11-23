@@ -12,10 +12,10 @@ oval
 temporada
 f
 Indy
-Emerson Fittipaldi
+EmersonFittipaldi
 roubar
 favoritismo
-Nigel Mansell
+NigelMansell
 segundo
 etapa
 mundial
@@ -65,7 +65,7 @@ fechamento
 edicao
 Mansell
 bom
-todo o
+todoo
 treino
 realizar
 circuito
@@ -104,16 +104,16 @@ metro
 brasileiro
 participar
 corrida
-Raul Boesel
-Dick Simon
+RaulBoesel
+DickSimon
 bom
 classificar
-em segundo lugar
+emsegundolugar
 Gugelmin
-assim como
+assimcomo
 lider
 mundial
-Michael Andretti
+MichaelAndretti
 usar
 estreante
 chassi
@@ -122,7 +122,7 @@ chassi
 estrutura
 basico
 carro
-de corrida
+decorrida
 fixar
 componente
 motor
@@ -131,107 +131,107 @@ asa
 suspensao
 exceto
 colocacao
-Teo Fabi
+TeoFabi
 terceiro
 anteontem
 Reynard
 fracassar
 tempo
 sextafeira
-Emerson Fittipaldi
+EmersonFittipaldi
 Penske
 Ilmor
 s
-Raul Boesel
+RaulBoesel
 Lola
 Ford
 s
-Teo Fabi
+TeoFabi
 Reynard
 Ilmor
 s
-Nigel Mansell
+NigelMansell
 Lola
 Ford
 s
-Paul Tracy
+PaulTracy
 Penske
 Ilmor
 s
-Jimmy Vasser
+JimmyVasser
 Reynard
 Ford
 s
-Mario Andretti
+MarioAndretti
 Lola
 Ford
 s
-Robby Gordon
+RobbyGordon
 Lola
 Ford
 s
-Scott Sharp
+ScottSharp
 Lola
 Ford
 s
-Scott Goodyear
+ScottGoodyear
 Lola
 Ford
 s
 al
-Unser Jr
+UnserJr
 Penske
 Ilmor
 s
-Jacques Villeneuve
+JacquesVilleneuve
 Reynard
 Ford
 s
-Dominic Dobson
+DominicDobson
 Lola
 Ford
 s
-Michael Andretti
+MichaelAndretti
 Reynard
 Ford
 s
-Stefan Johansson
+StefanJohansson
 Penske
 Ilmor
 s
-Mike Groff
+MikeGroff
 Lola
 Honda
 s
-Arie Luyendyk
+ArieLuyendyk
 Lola
 Ilmor
 s
-Marco Greco
+MarcoGreco
 Lola
 Ford
 s
-Bobby Rahal
+BobbyRahal
 Lola
 Honda
 s
-Adrian Fernandez
+AdrianFernandez
 Reynard
 Ilmor
 s
-Mark Smith
+MarkSmith
 Lola
 Ford
 s
-John Paul Jr
+JohnPaulJr
 Lola
 Ilmor
 s
-Davy Jones
+DavyJones
 Lola
 Ford
 s
-Buddy Lazier
+BuddyLazier
 Lola
 Ford
 s
@@ -240,7 +240,7 @@ Gugelmin
 Reynard
 Ford
 s
-Willy T
+WillyT
 Ribbs
 Lola
 Ford
@@ -251,5 +251,5 @@ colocar
 TV
 manchete
 CNT
-ao vivo
-a partir de
+aovivo
+apartirde

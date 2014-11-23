@@ -31,11 +31,11 @@ jogador
 futebol
 holandes
 britanico
-de acordo
+deacordo
 levantamento
 jogador
 aniversario
-perto de
+pertode
 iniciar
 temporada
 esportivo
@@ -69,7 +69,7 @@ Folha
 entrevista
 telefone
 trocar
-em miudos
+emmiudos
 aniversario
 final
 temporada
@@ -168,7 +168,7 @@ jogador
 atacante
 brasileiro
 jogar
-copa do mundo
+copadomundo
 nascer
 iniciar
 ano
@@ -220,7 +220,7 @@ influencia
 aspecto
 fisico
 dizer
-Turibio Leite
+TuribioLeite
 barro
 Escola
 paulista
@@ -235,8 +235,8 @@ dizer
 fisiologista
 barro
 trabalhar
-Sao Paulo
-todo o
+SaoPaulo
+todoo
 categoria
 dentedeleite
 profissional
@@ -246,7 +246,7 @@ cansar
 jogador
 franzino
 passar
-por cima de
+porcimade
 mais
 forte
 dizer
@@ -259,14 +259,14 @@ mostrar
 qualidade
 dentedeleite
 jogar
-menos de
+menosde
 ano
 infantil
-menos de
+menosde
 juvenil
-menos de
+menosde
 junior
-menos de
+menosde
 nascer
 dezembro
 mais
@@ -307,7 +307,7 @@ bom
 resposta
 dizer
 holandes
-por enquanto
+porenquanto
 Dudink
 so
 garantir

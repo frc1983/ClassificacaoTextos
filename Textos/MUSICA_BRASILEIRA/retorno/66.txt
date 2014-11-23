@@ -1,5 +1,5 @@
 filme
-O Magico de Oz
+OMagicodeOz
 foto
 contar
 aventura
@@ -23,7 +23,7 @@ Sandman
 oficina
 RPG
 rolar
-Playing Games
+PlayingGames
 personagem
 Andersen
 coordenar
@@ -83,29 +83,29 @@ ed
 brasiliense
 abril
 horario
-a partir de
+apartirde
 encontro
 autor
 ligar
 desligar
 livro
-Camila Franco
-Jarbas Agnelli
-Marcelo Pires
+CamilaFranco
+JarbasAgnelli
+MarceloPires
 Companhia
 Letrinha
 abril
 horario
-Magos Fadas e Bruxas
+MagosFadaseBruxas
 livro
-Heloisa Prieto
-May Shuravel
+HeloisaPrieto
+MayShuravel
 ciar
 abril
 horario
-Flauta Doce
+FlautaDoce
 livro
-Nereide Schilaro Santa Rosa
+NereideSchilaroSantaRosa
 ed
 Scipione
 apresentacao
@@ -135,9 +135,9 @@ musica
 horario
 dia
 dia
-Vovo Regina
+VovoRegina
 livro
-Regina Drummond
+ReginaDrummond
 ed
 Scipione
 abril
@@ -145,7 +145,7 @@ horario
 vupt
 Fadinha
 livro
-Lucia Tulchinski
+LuciaTulchinski
 ed
 Scipione
 abril

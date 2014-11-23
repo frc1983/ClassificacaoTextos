@@ -1,4 +1,4 @@
-papai Noel
+papaiNoel
 morar
 aqui
 Laponia
@@ -22,7 +22,7 @@ desde
 ano
 espalhar
 noticia
-papai Noel
+papaiNoel
 rena
 viver
 Laponia
@@ -33,10 +33,10 @@ hoje
 estabelecer
 parque
 tematico
-perto de
+pertode
 Rovaniemi
 Finlandia
-papai Noel
+papaiNoel
 endereco
 Napapiiri
 Rovaniemi
@@ -68,15 +68,15 @@ cao
 rena
 ler
 mito
-papai Noel
+papaiNoel
 Finlandia
 festa
 Natal
 pag
-Carlos KAUFFMANN
+CarlosKAUFFMANN
 viajar
 convite
 Lufthansa
 rede
 hotel
-Best Western
+BestWestern

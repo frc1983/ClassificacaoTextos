@@ -6,7 +6,7 @@ brasileiro
 dar
 sinal
 vitalidade
-mercado de trabalho
+mercadodetrabalho
 franco
 expansao
 criar
@@ -55,7 +55,7 @@ profissional
 assumir
 cargo
 estrategico
-mercado de trabalho
+mercadodetrabalho
 agribusines
 segundo
 professor
@@ -76,7 +76,7 @@ recurso
 humano
 suprir
 quadro
-fora de
+forade
 Brasil
 mandar
 funcionario
@@ -92,7 +92,7 @@ momento
 questionador
 avaliar
 Zylbersztajn
-no caso de
+nocasode
 cooperativa
 agricola
 chegar
@@ -157,9 +157,9 @@ referente
 setor
 ALR
 onde
-SE INFORMARPensa
+SEINFORMARPensa
 inscricao
-a partir de
+apartirde
 setembro
 Coordenacao
 posgraduacao
@@ -167,5 +167,5 @@ Faculdade
 economia
 Administracao
 Universidade
-Sao Paulo
+SaoPaulo
 tel

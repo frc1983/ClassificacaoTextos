@@ -17,7 +17,7 @@ Brasil
 OAB
 protocolar
 ontem
-Camara Municipal
+CamaraMunicipal
 SP
 pedir
 audiencia
@@ -25,7 +25,7 @@ publico
 secretario
 municipal
 Cultura
-Rodolfo Konder
+RodolfoKonder
 foto
 esclarecer
 politica
@@ -56,13 +56,13 @@ Tribunal
 alcada
 civil
 Estado
-Sao Paulo
+SaoPaulo
 juiz
-Antonio Jose Silveira Paulilo
-Antonio Marson
-Everaldo de Melo Colombi
-Paulo Eduardo Razuk
-Roberto Mendes
+AntonioJoseSilveiraPaulilo
+AntonioMarson
+EveraldodeMeloColombi
+PauloEduardoRazuk
+RobertoMendes
 Freitas
 recentemente
 nomear
@@ -77,7 +77,7 @@ Alagoas
 terra
 tremer
 ontem
-pela manha
+pelamanha
 cidade
 Junqueiro
 km
@@ -86,12 +86,12 @@ tremor
 durar
 segundo
 comecar
-por volta de
+porvoltade
 segundo
 secretario
 municipal
 saude
-Paulo Temoteo dos Santos
+PauloTemoteodosSantos
 nao
 haver
 ferir

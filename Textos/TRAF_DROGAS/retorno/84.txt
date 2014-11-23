@@ -96,7 +96,7 @@ proximo
 safari
 snowmobile
 especie
-jet ski
+jetski
 neve
 cobrir
 distancia
@@ -107,13 +107,13 @@ dia
 parte
 Rovaniemi
 chegar
-perto de
+pertode
 Kemi
 beira
 golfo
 Botnia
 chamar
-Rota dos Contrabandistas de Bebida
+RotadosContrabandistasdeBebida
 referencia
 tempo
 vigorar
@@ -125,13 +125,13 @@ custar
 US
 incluir
 veiculo
-por pessoa
+porpessoa
 curso
 basico
 direcao
 alimentacao
 hospedagem
-Lapland Travel
+LaplandTravel
 tel
 operadora
 dispor
@@ -160,7 +160,7 @@ Rantasipi
 tel
 resort
 Yllas
-perto de
+pertode
 Kittila
 km
 norte
@@ -189,4 +189,4 @@ saida
 noturno
 iluminacao
 artificial
-Carlos Kauffmann
+CarlosKauffmann

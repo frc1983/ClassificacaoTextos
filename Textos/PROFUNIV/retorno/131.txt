@@ -4,11 +4,11 @@ s
 portela
 Samba
 Samba
-Wilson Cruz
-Claudio Russo
-Ze Luiz
+WilsonCruz
+ClaudioRusso
+ZeLuiz
 presidente
-Carlos Teixeira Martins
+CarlosTeixeiraMartins
 Interpetre
 Dede
 Portela
@@ -20,7 +20,7 @@ participacao
 ritmista
 Escola
 carnavalesco
-Jose Felix
+JoseFelix
 Africa
 encantar
 magia
@@ -30,12 +30,12 @@ razao
 cantar
 nascer
 liberdade
-a ferro e fogo
+aferroefogo
 mae
 negro
 abrir
 jogo
-o povo
+opovo
 delirar
 deixar
 falar
@@ -84,6 +84,6 @@ ir
 levantar
 poeira
 zoeira
-Oswaldo Cruz
+OswaldoCruz
 Madureira
 bis

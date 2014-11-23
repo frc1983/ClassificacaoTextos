@@ -1,10 +1,10 @@
-SCARLET MARTON
+SCARLETMARTON
 professora
 departamento
 filosofia
 USP
 autora
-Nietzsche uma filosofia a marteladas
+Nietzscheumafilosofiaamarteladas
 brasiliense
 Nietzsche
 transvaloracao
@@ -12,18 +12,17 @@ valor
 moderno
 nao
 nietzscheano
-Luc Ferry
-Alain Renault
-Alain Boyer
-Andre ComteSponville
-Vincent Descombes
-Robert Legros
-Philippe Raynaud
-PierreAndre Taguieff
+LucFerry
+AlainRenault
+AlainBoyer
+AndreComteSponville
+VincentDescombes
+RobertLegros
+PhilippeRaynaud
+PierreAndreTaguieff
 ensaio
 r
 tupi
-Sao Paulo
+SaoPaulo
 cep
 tel
- 

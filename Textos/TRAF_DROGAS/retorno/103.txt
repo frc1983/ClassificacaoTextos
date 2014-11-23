@@ -1,21 +1,21 @@
 coreografo
 fundador
-Dzi Croquettes
-Lennie Dale
+DziCroquettes
+LennieDale
 chegar
 Brasil
 convidar
-Carlos Machado
+CarlosMachado
 coreografia
 peca
-Elas Atacam Pelo Telefone
+ElasAtacamPeloTelefone
 boate
 Fred
 s
 Rio
 segundo
-Ruy Castro
-Lennie Dale
+RuyCastro
+LennieDale
 introduzir
 nocao
 ensaio
@@ -23,7 +23,7 @@ show
 musica
 popular
 brasileira
-ate entao
+ateentao
 artista
 simplesmente
 chegar
@@ -37,7 +37,7 @@ producao
 preocupacao
 expressao
 corporal
-Elis Regina
+ElisRegina
 dizer
 ideia
 famoso
@@ -52,7 +52,7 @@ Festival
 MPB
 TV
 Excelsior
-Lennie Dale
+LennieDale
 Lennie
 gravar
 disco
@@ -66,11 +66,11 @@ voz
 alegoria
 ritmico
 compasso
-como se
+comose
 estar
 brincar
 voz
-Lennie Dale
+LennieDale
 responsavel
 tambem
 coreografia
@@ -81,7 +81,7 @@ musica
 dancavel
 Lennie
 montar
-Dzi Croquettes
+DziCroquettes
 grupo
 sucesso
 show
@@ -90,8 +90,8 @@ apresentar
 homossexualismo
 debochar
 gozador
-Estados Unidos
-Lennie Dale
+EstadosUnidos
+LennieDale
 dirigir
 numero
 incontavel
@@ -100,6 +100,6 @@ assinar
 serie
 coreografia
 cantora
-Liza Minelli
+LizaMinelli
 orientacao
 palco

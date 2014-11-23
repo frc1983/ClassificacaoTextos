@@ -2,7 +2,7 @@ idoso
 preocupacao
 profissional
 EUA
-USA Today
+USAToday
 parente
 idoso
 tender
@@ -12,14 +12,14 @@ principal
 preocupacao
 profissional
 norteamericano
-a medida que
+amedidaque
 geracao
 posguerra
 aproximar
 ano
 estimar
 trabalhador
-Estados Unidos
+EstadosUnidos
 debater
 diariamente
 conciliar
@@ -29,7 +29,7 @@ membro
 idoso
 familia
 segundo
-Andrew Scharlach
+AndrewScharlach
 especialista
 envelhecimento
 Universidade
@@ -71,7 +71,7 @@ haver
 profissional
 responsavel
 idoso
-do que
+doque
 crianca
 dado
 constar
@@ -84,11 +84,11 @@ norteamericana
 Instituto
 Familia
 Trabalho
-Nova York
+NovaYork
 responsabilidade
 idoso
 consumir
-cerca de
+cercade
 hora
 semana
 profissional
@@ -108,12 +108,12 @@ EUA
 segundo
 estimativa
 professor
-Andrew Scharlach
+AndrewScharlach
 NationsBank
-por exemplo
+porexemplo
 falta
 relacionar
-ao cuidado de
+aocuidadode
 idoso
 gerar
 perda
@@ -124,4 +124,4 @@ passar
 funcionario
 mulher
 traducao
-Ana Astiz
+AnaAstiz

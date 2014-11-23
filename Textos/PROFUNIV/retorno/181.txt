@@ -15,7 +15,7 @@ renascentista
 professor
 literatura
 USP
-Alfredo Bosi
+AlfredoBosi
 terminar
 palestra
 Leonardo
@@ -65,7 +65,7 @@ criacao
 pensamento
 propriamente
 artistico
-pouco a pouco
+poucoapouco
 artista
 ir
 afastar
@@ -144,14 +144,14 @@ onde
 expressividade
 subjetividade
 sobretudo
-a partir de
+apartirde
 romantismo
 seculo
 tambem
 passar
 ocupar
 lugar
-de destaque
+dedestaque
 pintura
 mental
 Leonardo

@@ -28,7 +28,7 @@ Rio
 deixar
 morto
 idade
-entre  e 
+entree
 ano
 policial
 invadir
@@ -44,4 +44,4 @@ morador
 assassinar
 casa
 executar
-em seguida
+emseguida

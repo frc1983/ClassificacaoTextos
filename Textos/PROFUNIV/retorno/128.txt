@@ -6,12 +6,12 @@ Ponte
 marron
 Cor
 Samba
-Nilson Chamego
-Charles Santana
+NilsonChamego
+CharlesSantana
 Chiquinho
 Banjo
 presidente
-Edson Tessier
+EdsonTessier
 Interpetre
 Serginho
 Porto
@@ -23,7 +23,7 @@ participacao
 ritmista
 Escola
 carnavalesco
-Washington Luiz
+WashingtonLuiz
 explodir
 Ponte
 jorra
@@ -34,7 +34,7 @@ estrela
 iluminar
 abrilhantar
 show
-de fantasia
+defantasia
 magia
 cancao
 oh

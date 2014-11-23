@@ -6,7 +6,7 @@ Unicamp
 medico
 vicereitor
 Unicamp
-Jose Martins Filho
+JoseMartinsFilho
 vencer
 eleicao
 reitor
@@ -17,7 +17,7 @@ indicar
 novo
 reitor
 governador
-Luiz Antonio Fleury Filho
+LuizAntonioFleuryFilho
 PMDB
 nomear
 vencedor
@@ -29,7 +29,7 @@ Instituto
 quimica
 candidato
 oposicao
-Fernando Galembeck
+FernandoGalembeck
 obter
 voto
 resultado
@@ -45,7 +45,7 @@ apuracao
 comecar
 anteontem
 terminar
-por volta de
+porvoltade
 meianoite
 vicereitor
 conseguir
@@ -76,7 +76,7 @@ eleicao
 paritario
 peso
 igual
-todo o
+todoo
 faixa
 eleitorado
 Galembeck
@@ -89,7 +89,7 @@ votar
 abstencao
 estudante
 diminuir
-em relacao a
+emrelacaoa
 ultimo
 eleicao
 Consu
@@ -139,6 +139,6 @@ diferenca
 segundo
 turno
 colaborar
-LUIS FERNANDO BOVO
+LUISFERNANDOBOVO
 Folha
 Sudeste

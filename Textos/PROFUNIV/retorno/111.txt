@@ -1,5 +1,5 @@
 dizer
-Nair Belo
+NairBelo
 nao
 Equipe
 articulista
@@ -11,7 +11,7 @@ amassar
 envelhecer
 estar
 rua
-Constanza Pascolatto
+ConstanzaPascolatto
 dizer
 passar
 nao
@@ -31,19 +31,19 @@ lista
 Schindler
 lista
 Castor
-e que
+eque
 salvar
 mil
 ir
 foder
-mais de
+maisde
 mil
 macaco
 Simao
 Pais
 Lista
 saber
-o que
+oque
 FHC
 ACM
 acaraje
@@ -61,9 +61,9 @@ espirito
 sociedade
 brasileiro
 recado
-Nair Belo
+NairBelo
 deixar
-secretaria eletronica
+secretariaeletronica
 nao
 desligar
 pronto
@@ -76,7 +76,7 @@ humorista
 so
 xerocar
 pagina
-todo mundo
+todomundo
 ja
 rachar
 bico
@@ -169,7 +169,7 @@ Carnaval
 transmissao
 Carnaval
 turismo
-e por ai
+eporai
 ir
 nao
 macaco

@@ -2,16 +2,16 @@ volta
 abuso
 cientifico
 autor
-The Bell Curve
+TheBellCurve
 incorrer
 vicio
 pensamento
 semelhante
 ciencia
 seculo
-LILIA K
-MORITZ SCHWARCZ
-Nina Rodrigues
+LILIAK
+MORITZSCHWARCZ
+NinaRodrigues
 defender
 Gazeta
 medico
@@ -31,9 +31,9 @@ funcao
 physiologico
 Murray
 Herrnstein
-The Bell Curve
+TheBellCurve
 afirmar
-apesar de
+apesarde
 atmosfera
 proibitivo
 envolver
@@ -57,24 +57,24 @@ contexto
 politico
 texto
 variar
-no caso de
-Nina Rodrigues
+nocasode
+NinaRodrigues
 tratar
 defender
 papel
-medicina legal
+medicinalegal
 elaboracao
 Codigo
 civil
-ja que
+jaque
 cientista
 partir
-suposto que
+supostoque
 igualdade
-livre arbitrio
+livrearbitrio
 utopia
 absurdo
-frente a
+frentea
 diferenca
 raca
 homem
@@ -87,17 +87,17 @@ desqualificar
 igualdade
 juridico
 recemobter
-por meio de
+pormeiode
 abolicao
 objetivo
 the
-Bell Curve
+BellCurve
 provar
 inteligencia
 humano
 diverso
 mensurar
-por meio de
+pormeiode
 teste
 mental
 contrapor
@@ -120,13 +120,13 @@ America
 termo
 discurso
 diferir
-Nina Rodrigues
+NinaRodrigues
 apoiar
 teoria
 socialdarwinisto
 frenologia
 comprovar
-a partir de
+apartirde
 medicao
 cranio
 raca
@@ -146,7 +146,7 @@ conclusao
 tambem
 nao
 coincidir
-de fato
+defato
 diferenca
 semelhanca
 nao
@@ -167,7 +167,7 @@ abuso
 discurso
 cientifico
 critica
-mais uma vez
+maisumavez
 verdade
 tratar
 reconhecer
@@ -177,7 +177,7 @@ historia
 ocidental
 impossibilidade
 levar
-a serio
+aserio
 diferenca
 humano
 preferir
@@ -186,7 +186,7 @@ las
 desigualdade
 porem
 pior
-do que
+doque
 estranhar
 diferenca
 qualificar
@@ -213,7 +213,7 @@ perfeicao
 saber
 tambem
 the
-Bell Curve
+BellCurve
 nao
 preciso
 ficar
@@ -226,7 +226,7 @@ nao
 cientifico
 pressuposto
 livro
-em si
+emsi
 equivocar
 possivel
 ir
@@ -237,7 +237,7 @@ conceito
 raca
 enganoso
 introduzir
-Georges Cuvier
+GeorgesCuvier
 inicio
 seculo
 termo
@@ -260,16 +260,16 @@ apos
 segundo
 Guerra
 mundial
-devido a
+devidoa
 visao
 preconceituoso
 carregar
-ou seja
+ouseja
 nao
 existir
 raca
 puro
-na medida em que
+namedidaemque
 nao
 falar
 grupo
@@ -279,7 +279,7 @@ preciso
 concluir
 atributo
 mudar
-assim como
+assimcomo
 indice
 afericao
 sugerir
@@ -288,28 +288,28 @@ testar
 inteligencia
 Murray
 Herrnstein
-assim como
+assimcomo
 cranio
 famoso
 frenologista
-Paul Broca
+PaulBroca
 cujo
 dimensao
 considerar
 diminuto
-no entanto
+noentanto
 nao
 bastar
 advogar
 ingenuo
 homogeneidade
 cultural
-ja que
-de fato
+jaque
+defato
 humanidade
 diverso
 riqueza
-por outro lado
+poroutrolado
 mundo
 tao
 marcar
@@ -319,9 +319,9 @@ dificil
 defender
 diferenca
 cultural
-a todo preco
-LILIA K
-MORITZ SCHWARCZ
+atodopreco
+LILIAK
+MORITZSCHWARCZ
 professora
 antropologia
 USP

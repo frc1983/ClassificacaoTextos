@@ -10,7 +10,7 @@ Almir
 Ilha
 Franco
 presidente
-Jorge Toufie Gazele
+JorgeToufieGazele
 Interpetre
 quinho
 diretor
@@ -21,7 +21,7 @@ participacao
 ritmista
 Escola
 carnavalesco
-Chico Spinoza
+ChicoSpinoza
 ir
 Zuar
 Avenida
@@ -70,11 +70,11 @@ abrir
 amanha
 paz
 amor
-Nova Era
+NovaEra
 sonhador
 ilusao
 estar
-dentro de
+dentrode
 coracao
 amor
 amor

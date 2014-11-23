@@ -4,7 +4,7 @@ encantar
 terra
 jazz
 querer
-Luciana Souza
+LucianaSouza
 facilmente
 virar
 cantora
@@ -23,12 +23,12 @@ cantar
 bem
 filha
 compositor
-Walter Silva
-Teresa Santos
+WalterSilva
+TeresaSantos
 dono
 estudio
 gravacao
-Sao Paulo
+SaoPaulo
 Nossoestudio
 crescer
 aquario
@@ -84,12 +84,12 @@ voltar
 Brasil
 ficar
 maio
-ano que vem
+anoquevem
 nao
 ilusao
 so
 dar
-o que
+oque
 querer
 EUA
 ficar
@@ -109,11 +109,11 @@ acabar
 render
 voz
 circuito
-BostonNova York
+BostonNovaYork
 onde
 cantar
 agosto
-Lincoln Center
+LincolnCenter
 render
 critico
 revista
@@ -126,13 +126,13 @@ lingua
 ingles
 definir
 faixa
-Deusa do Amor
+DeusadoAmor
 gravar
 Luciana
 novo
 disco
 baterista
-Bob Moses
+BobMoses
 gorgeou
 equivalente
 melhorar

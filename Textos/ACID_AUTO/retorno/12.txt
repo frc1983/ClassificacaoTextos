@@ -27,11 +27,11 @@ nao
 basto
 justificar
 vitoria
-Michael Schumacher
+MichaelSchumacher
 Benetton
 derrubar
 favoritismo
-Ayrton Senna
+AyrtonSenna
 Williams
 regra
 novo
@@ -49,7 +49,7 @@ novo
 time
 Senna
 pegar
-de surpresa
+desurpresa
 modelo
 Williams
 batizar
@@ -58,7 +58,7 @@ problema
 projeto
 nao
 funcionar
-fora de
+forade
 condicao
 criar
 artificialmente
@@ -80,7 +80,7 @@ condicao
 motor
 mais
 potente
-os demais
+osdemais
 Williams
 depender
 desenvolvimento
@@ -106,7 +106,7 @@ perder
 rendimento
 circuito
 ondular
-por isso que
+porissoque
 Schumacher
 vencer
 GPs
@@ -145,10 +145,10 @@ condicao
 corrida
 continuar
 veterano
-Riccardo Patrese
-Derek Warwick
-Alain Prost
-Thierry Boutsen
+RiccardoPatrese
+DerekWarwick
+AlainProst
+ThierryBoutsen
 cara
 novo
 surgir

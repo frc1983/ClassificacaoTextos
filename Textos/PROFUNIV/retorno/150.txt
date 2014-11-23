@@ -7,7 +7,7 @@ prefeito
 Cidade
 universitario
 professor
-Antonio Rodrigues Martins
+AntonioRodriguesMartins
 dizer
 ontem
 acidente
@@ -16,10 +16,10 @@ estudante
 filosofia
 USP
 universidade
-Sao Paulo
-Moises da Silva Santos
+SaoPaulo
+MoisesdaSilvaSantos
 ocorrer
-em funcao de
+emfuncaode
 imprudencia
 aluno
 Santos
@@ -35,7 +35,7 @@ Cidade
 universitario
 bloco
 D
-alem de
+alemde
 elevador
 defeituoso
 nao
@@ -63,7 +63,7 @@ Cepeusp
 centro
 esportivo
 USP
-a partir de
+apartirde
 segundafeira
 Coseas
 Coordenadoria
@@ -96,12 +96,12 @@ anteontem
 Santos
 perfurar
 pulmao
-traumatismo craniano
+traumatismocraniano
 vizinho
 estudante
-Duilio Bortolutti
+DuilioBortolutti
 afirmar
-pelo menos
+pelomenos
 morador
 bloco
 ja

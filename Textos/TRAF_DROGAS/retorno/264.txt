@@ -2,7 +2,7 @@ cigarro
 tambem
 dinheiro
 sujo
-Gilberto Dimenstein
+GilbertoDimenstein
 Brasilia
 saber
 hoje
@@ -24,7 +24,7 @@ varias
 faceta
 dinheiro
 sujo
-por tras
+portras
 escandalo
 levar
 impeachment
@@ -35,21 +35,21 @@ Orcamento
 ate
 crime
 organizar
-jogo do bicho
+jogodobicho
 referir
 verba
 publicitario
 industria
 fumo
 argumentar
-com razao
+comrazao
 fabrica
 cigarro
 legal
 verdade
 falar
 dinheiro
-jogo do bicho
+jogodobicho
 sujo
 especial
 estar
@@ -58,21 +58,21 @@ trafico
 droga
 corretissimo
 justamente
-apesar de
+apesarde
 estar
-ao lado de
+aoladode
 causa
 humanitario
 Herbert
 Souza
 errar
 desculpa
-opiniao publica
+opiniaopublica
 segundo
 estatistica
-Organizacao Mundial de Saude
+OrganizacaoMundialdeSaude
 matar
-do que
+doque
 cocaina
 heroina
 milhao
@@ -80,7 +80,7 @@ pessoa
 ano
 segundo
 calculo
-Banco Mundial
+BancoMundial
 ir
 pular
 milhao
@@ -103,12 +103,11 @@ espaco
 varios
 tipo
 roubalheira
-por que
 corrupcao
 atentado
 interesse
 publico
-assim como
+assimcomo
 narcotrafico
 ninguem
 achar
@@ -119,11 +118,10 @@ excelencia
 crack
 cocaina
 heroina
-por que
 entao
 cigarro
 usar
-todo o
+todoo
 sofisticacao
 publicidade
 induzir

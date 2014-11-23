@@ -7,7 +7,7 @@ pedir
 entrada
 Russia
 G
-chefe de policia
+chefedepolicia
 chileno
 afastar
 Paquistao
@@ -30,10 +30,10 @@ Colombia
 lider
 nacionalista
 russo
-Vladimir Jirinovski
+VladimirJirinovski
 agredir
 fisicamente
-Vladimir Borzyuk
+VladimirBorzyuk
 deixar
 Partido
 democratico
@@ -47,7 +47,7 @@ Russia
 G
 portavoz
 presidente
-Boris Ieltsin
+BorisIeltsin
 dizer
 ontem
 Russia
@@ -61,10 +61,10 @@ Grupo
 reunir
 pais
 industrializar
-chefe de policia
+chefedepolicia
 chileno
 afastar
-Rodolfo Stange
+RodolfoStange
 diretor
 policia
 uniformizar
@@ -74,7 +74,7 @@ temporariamente
 cargo
 recusar
 renunciar
-apesar de
+apesarde
 pedido
 presidente
 Eduardo
@@ -91,7 +91,7 @@ acabar
 programa
 arma
 nuclear
-em troca
+emtroca
 EUA
 ofecer
 suprimento
@@ -102,7 +102,7 @@ McDougal
 vender
 copia
 Whitewater
-James McDougal
+JamesMcDougal
 socio
 casal
 Clinton

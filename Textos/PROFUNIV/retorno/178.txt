@@ -18,7 +18,7 @@ referencia
 rapido
 texto
 media
-uma a cinco
+umaacinco
 pagina
 foto
 musica
@@ -74,7 +74,7 @@ cDROM
 comprar
 enciclopedia
 papel
-alem de
+alemde
 micro
 processar
 texto
@@ -96,8 +96,8 @@ PUCSP
 pontificio
 Universidade
 catolico
-Sao Paulo
-Arlindo Machado
+SaoPaulo
+ArlindoMachado
 vantagem
 CDROM
 estar
@@ -108,7 +108,7 @@ EUA
 producao
 CDROM
 custar
-a partir de
+apartirde
 US
 preco
 consumidor

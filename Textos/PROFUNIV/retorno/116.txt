@@ -6,12 +6,12 @@ turista
 Sucusal
 Rio
 querer
-Gilberto Gil
+GilbertoGil
 fornecer
 regua
 compasso
 discussao
-em torno de
+emtornode
 eventual
 presenca
 excessivo
@@ -19,7 +19,7 @@ escola
 especial
 Mangueira
 pessoa
-de fora de
+deforade
 mundo
 samba
 rito
@@ -34,7 +34,7 @@ onde
 escola
 gerar
 caracteristica
-e que
+eque
 definir
 limite
 expansao
@@ -52,7 +52,7 @@ bom
 exemplo
 escola
 desabrochar
-a partir de
+apartirde
 atuacao
 bicheiro
 patrono
@@ -62,9 +62,9 @@ adotar
 bicheiro
 nao
 criar
-escola de samba
+escoladesamba
 bicheiro
-Capitao Guimaraes
+CapitaoGuimaraes
 menos
 sutil
 acabar
@@ -82,7 +82,7 @@ ja
 incomodo
 presenca
 patrono
-assim como
+assimcomo
 bicheiro
 iniciativa
 visar
@@ -120,7 +120,7 @@ representante
 construir
 sim
 playground
-de aluguel
+dealuguel
 alcance
 dinheiro
 comprar
@@ -139,7 +139,7 @@ nao
 vergonha
 ouvir
 samba
-fora de
+forade
 carnaval
 fruto
 crescimento
@@ -149,11 +149,11 @@ sambodromo
 nao
 gueto
 carioca
-ao contrario de
+aocontrariode
 afirmar
 presidente
 Riotur
-Jose Eduardo Guinle
+JoseEduardoGuinle
 nao
 principalmente
 turista
@@ -163,7 +163,7 @@ devocao
 ritual
 religiao
 criar
-ao longo de
+aolongode
 milenio
 cerimonia
 belissimo

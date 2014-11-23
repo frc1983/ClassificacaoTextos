@@ -1,14 +1,14 @@
 Paglia
-Sally Tisdale
+SallyTisdale
 confundir
 opiniao
 pessoal
 filosofia
 especial
 the
-NYT Book Review
-Talk Dirty to Me
-Sallie Tidsdale
+NYTBookReview
+TalkDirtytoMe
+SallieTidsdale
 design
 decorativo
 erotismo
@@ -16,21 +16,21 @@ confessional
 quase
 encaixar
 proverbial
-mao unica
+maounica
 convite
 lascivo
 apenas
 chamariz
-Camille Paglia
+CamillePaglia
 tambem
 chamar
-Vamps Tramps
+VampsTramps
 filosofia
 sexual
 nao
-ha nada
+hanada
 intimo
-de fato
+defato
 Paglia
 desdenhar
 proprio
@@ -39,7 +39,7 @@ intimidade
 matar
 sexo
 dizer
-apesar de
+apesarde
 diferenca
 tom
 politica
@@ -51,9 +51,9 @@ autora
 livro
 jornalista
 the
-New Yorker
-Harpers Magazine
-The New Republic
+NewYorker
+HarpersMagazine
+TheNewRepublic
 outrora
 feminista
 ortodoxo
@@ -119,19 +119,19 @@ botao
 camisa
 entao
 seio
-muitas vezes
+muitasvezes
 corajoso
 revelacao
 deixar
 indiferente
-todo o
+todoo
 fantasia
 repousar
 fato
-sob medida
+sobmedida
 criar
 fantasia
-todo o
+todoo
 arte
 pornografia
 repousar
@@ -139,7 +139,7 @@ talhar
 fantasia
 privado
 publico
-Vamps Tramps
+VampsTramps
 raro
 confusao
 apendice
@@ -151,7 +151,7 @@ resumir
 artigo
 Paglia
 inspirar
-o que quer que
+oquequerque
 pensar
 programa
 reforma
@@ -163,7 +163,7 @@ cerne
 curriculo
 mitologia
 indistinguivel
-relacoes publicas
+relacoespublicas
 Hollywood
 admitir
 estar
@@ -177,7 +177,7 @@ Paglia
 exigir
 levar
 palhacada
-a serio
+aserio
 incursao
 Paglia
 Tisdale
@@ -195,15 +195,15 @@ direita
 esquerda
 voz
 autoindulgente
-Gertrude Stein
+GertrudeStein
 dizer
 comentario
 nao
 literatura
-WENDY STEINER
+WENDYSTEINER
 professora
 cadeira
-Richard L
+RichardL
 Fisher
 ingles
 Universidade
@@ -216,4 +216,4 @@ contemporaneo
 arte
 traducao
 Vera
-Paula Assis
+PaulaAssis

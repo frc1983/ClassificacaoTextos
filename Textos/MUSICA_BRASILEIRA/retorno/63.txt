@@ -7,7 +7,7 @@ carne
 feijao
 manter
 pressao
-devido a
+devidoa
 estiagem
 higiene
 pessoal
@@ -42,7 +42,7 @@ custo
 cesta
 basico
 ha
-muito tempo
+muitotempo
 grupo
 nao
 apresentar
@@ -50,10 +50,10 @@ variacao
 tao
 expressivo
 dizer
-Maria Ines Fornazaro
+MariaInesFornazaro
 diretora
 Procon
-Maria Ines
+MariaInes
 porem
 afirmar
 bom
@@ -69,7 +69,7 @@ indicar
 tendencia
 alta
 economista
-Juarez Rizzieri
+JuarezRizzieri
 coordenador
 IPC
 Fipe
@@ -80,13 +80,13 @@ cesta
 basico
 Procon
 ocorrer
-devido a
+devidoa
 preco
 carne
 feijao
 estar
 alto
-por causa de
+porcausade
 estiagem
 segundo
 produto
@@ -128,7 +128,7 @@ Associacao
 paulista
 supermercado
 Apas
-Firmino Rodrigues Alves
+FirminoRodriguesAlves
 dizer
 preco
 feijao
@@ -161,7 +161,7 @@ cesta
 basico
 IGPM
 Fundacao
-Getulio Vargas
+GetulioVargas
 divulgar
 ontem
 taxa

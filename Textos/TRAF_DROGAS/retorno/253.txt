@@ -34,7 +34,7 @@ narcotrafico
 Peru
 envolver
 oficial
-cerca de
+cercade
 oficial
 Forca
 armar
@@ -60,7 +60,7 @@ petroleiro
 provocar
 derramamento
 oleo
-perto de
+pertode
 costa
 emirado
 arabe
@@ -75,15 +75,15 @@ espalhar
 km
 norte
 porto
-Khor Fakkan
+KhorFakkan
 acidente
 ferroviario
 mata
 Paquistao
-pelo menos
+pelomenos
 pessoa
 morrer
-mais de
+maisde
 ficar
 ferir
 ontem

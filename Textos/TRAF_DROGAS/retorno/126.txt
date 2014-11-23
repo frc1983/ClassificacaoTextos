@@ -6,7 +6,7 @@ costa
 oeste
 Africa
 ficar
-por aqui
+poraqui
 posgraduado
 engenharia
 USP
@@ -19,10 +19,10 @@ lenda
 parede
 pintura
 artista
-Samuel Santiago
+SamuelSantiago
 agenda
 estar
-para la de
+paralade
 bom
 mes
 hoje
@@ -50,11 +50,11 @@ cafruela
 frango
 arroz
 Guine
-Sonia Fabiano
+SoniaFabiano
 afro
 Brasil
 R
-Sebastiao Gil
+SebastiaoGil
 pinheiro
 zona
 oeste

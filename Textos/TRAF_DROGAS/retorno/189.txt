@@ -10,7 +10,7 @@ psicanalise
 computador
 bom
 resultado
-USA Today
+USAToday
 acontecer
 voce
 perder
@@ -35,7 +35,7 @@ programa
 voce
 esperar
 mero
-programa de computador
+programadecomputador
 inteligencia
 artificial
 planejar
@@ -56,8 +56,8 @@ decidir
 passar
 dia
 programa
-Superando a Depressao
-Kenneth Mark Colby
+SuperandoaDepressao
+KennethMarkColby
 psicoterapeuta
 formar
 Yale
@@ -70,9 +70,9 @@ computacao
 Faculdade
 medicina
 UCLA
-alem de
+alemde
 livro
-Good Mood The New Psychology of Overcoming Depression
+GoodMoodTheNewPsychologyofOvercomingDepression
 bom
 Humor
 novo
@@ -85,7 +85,7 @@ programa
 caracteristica
 tornar
 programa
-Superando a Depressao
+SuperandoaDepressao
 unico
 computador
 responder
@@ -100,7 +100,7 @@ sensivel
 sentido
 completo
 sentenca
-em vez de
+emvezde
 oferecer
 apenas
 resposta
@@ -120,7 +120,7 @@ explicar
 computador
 estado
 depressao
-muitas vezes
+muitasvezes
 consequencia
 chamar
 sindrome
@@ -155,7 +155,7 @@ medo
 machucar
 sentimento
 Marney
-quer dizer
+querdizer
 voce
 sentimento
 programa

@@ -1,4 +1,4 @@
-Lucienne Adami
+LucienneAdami
 voltar
 TV
 ano
@@ -10,11 +10,11 @@ atriz
 convite
 novela
 SBT
-Renato Kramer
+RenatoKramer
 especial
 TV
 folhar
-Lucienne Adami
+LucienneAdami
 estar
 negociacao
 SBT
@@ -31,13 +31,13 @@ convidar
 SBT
 sinopse
 dizer
-Maria Laura
+MariaLaura
 atriz
 nao
 bonito
-um pouco
+umpouco
 antipatico
-quanto a
+quantoa
 beleza
 bem
 questao
@@ -50,7 +50,7 @@ nojento
 tao
 simpatico
 gaucha
-Porto Alegre
+PortoAlegre
 Lucienne
 comecar
 formacao
@@ -65,7 +65,7 @@ convite
 Globo
 ir
 Rio
-com vontade
+comvontade
 acertar
 errar
 ingenuo
@@ -82,16 +82,16 @@ comercial
 papel
 sereia
 peca
-Peter Pan
+PeterPan
 ficar
 minuto
 cena
 demitir
 Macunaima
-Antunes Filho
+AntunesFilho
 ensaiar
 Blackout
-Marcelo Paiva
+MarceloPaiva
 estrear
 Cultura
 ir
@@ -104,7 +104,7 @@ reconhecer
 rua
 feria
 peca
-As Mil e uma Noites
+AsMileumaNoites
 sofrer
 fratura
 variar
@@ -115,10 +115,10 @@ diamantino
 Uno
 estar
 chocar
-de frente
+defrente
 onibus
 passar
-Porto Alegre
+PortoAlegre
 cuidado
 pai
 varias
@@ -128,10 +128,10 @@ inicio
 dor
 revoltar
 cultivar
-bom humor
+bomhumor
 mais
 importante
-e que
+eque
 estar
 inteiro
 aprender

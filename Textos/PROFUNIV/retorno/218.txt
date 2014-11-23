@@ -3,10 +3,10 @@ maniqueista
 prosa
 ligeiro
 FABIO
-SOUZA Andrade
+SOUZAAndrade
 folhetim
 romantico
-best seller
+bestseller
 banca
 literatura
 ligeiro
@@ -16,10 +16,10 @@ predileto
 critica
 inspiracao
 marxista
-Os Romances em Folhetim no Brasil
-A Narrativa Trivial
-Jose Ramos Tinhorao
-Flavio Kothe
+OsRomancesemFolhetimnoBrasil
+ANarrativaTrivial
+JoseRamosTinhorao
+FlavioKothe
 tocar
 aspecto
 diverso
@@ -54,7 +54,7 @@ brasileiro
 nacionalista
 militante
 opositor
-bossa nova
+bossanova
 propor
 realizar
 levantamento
@@ -63,7 +63,7 @@ literario
 folhetim
 Brasil
 desde
-ponto de vista
+pontodevista
 historia
 literario
 relevancia
@@ -105,7 +105,7 @@ chegar
 via
 Franca
 traducao
-Eugene Sue
+EugeneSue
 Pai
 equivalente
 local
@@ -115,8 +115,8 @@ forma
 folhetinesco
 nao
 apenas
-do segundo time
-Madame Bovary
+dosegundotime
+MadameBovary
 sair
 seriar
 imprensa
@@ -127,13 +127,13 @@ publicacao
 fasciculo
 Inglaterra
 Dickens
-Thomas Hardy
+ThomasHardy
 sair
 folhetim
 volume
 tinhorao
 escorregar
-no entanto
+noentanto
 realizacao
 deixar
 suprir
@@ -166,8 +166,8 @@ aplicar
 justeza
 universo
 tratar
-A Narrativa Trivial
-Flavio Kothe
+ANarrativaTrivial
+FlavioKothe
 tese
 variacao
 superficial
@@ -200,13 +200,13 @@ justo
 nao
 pensar
 autor
-por exemplo
+porexemplo
 antropologo
 italiano
-Massimo Canevacci
+MassimoCanevacci
 ensaiar
-Antropologia do Cinema
-a partir de
+AntropologiadoCinema
+apartirde
 tese
 parecer
 calibre
@@ -252,7 +252,7 @@ epico
 direita
 correspondente
 gauche
-por fim
+porfim
 livro
 encerrar
 defesa
@@ -265,9 +265,9 @@ relacao
 possivel
 Mallarme
 Celan
-Agatha Christie
-Conan Doyle
-apesar de
+AgathaChristie
+ConanDoyle
+apesarde
 procurar
 dar
 conta
@@ -308,7 +308,7 @@ querer
 critico
 ideologia
 FABIO
-SOUZA Andrade
+SOUZAAndrade
 professor
 teoria
 literario

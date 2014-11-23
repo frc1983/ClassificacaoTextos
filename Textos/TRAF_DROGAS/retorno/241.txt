@@ -13,12 +13,12 @@ crise
 provocar
 divulgacao
 documento
-jogo do bicho
+jogodobicho
 leve
 pedir
 intervencao
 federal
-Rio de Janeiro
+RiodeJaneiro
 varias
 hipotese
 intervencao
@@ -63,7 +63,7 @@ militar
 numero
 recruta
 prestar
-servico militar obrigatorio
+servicomilitarobrigatorio
 periferia
 territorio
 bicheiro
@@ -77,4 +77,4 @@ Republica
 presidente
 Camara
 senado
-Supremo Tribunal Federal
+SupremoTribunalFederal

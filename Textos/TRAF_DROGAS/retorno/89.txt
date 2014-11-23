@@ -8,12 +8,12 @@ reconstruir
 hotel
 mes
 tragedia
-TravelThe New York Times
+TravelTheNewYorkTimes
 natureza
 triunfar
 dizer
 anuncio
-The Kauais Beach Press
+TheKauaisBeachPress
 ler
 Princeville
 norte
@@ -69,7 +69,7 @@ depender
 aspecto
 ilha
 examinar
-em relacao a
+emrelacaoa
 flora
 resposta
 nao
@@ -116,14 +116,14 @@ jogar
 mar
 desaparecer
 ha
-muito tempo
+muitotempo
 praia
 ficar
-por causa de
+porcausade
 areia
 espalhar
 tempestade
-quanto a
+quantoa
 aspecto
 turistico
 resposta
@@ -132,7 +132,7 @@ desenvolvimento
 homem
 mais
 lento
-do que
+doque
 natureza
 passear
 carro
@@ -145,10 +145,10 @@ continuar
 fechar
 condominio
 estar
-em obras
+emobras
 so
 resort
-Hyatt Regency Kauai
+HyattRegencyKauai
 Poipu
 Princeville
 reabrir
@@ -164,4 +164,4 @@ ler
 Havai
 pag
 traducao
-Lise Aron
+LiseAron

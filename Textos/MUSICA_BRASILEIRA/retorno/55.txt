@@ -18,7 +18,7 @@ companhia
 saneamento
 basico
 Estado
-Sao Paulo
+SaoPaulo
 Ubatuba
 interromper
 fornecimento
@@ -26,7 +26,7 @@ agua
 bairro
 Maranduba
 Lagoinha
-cerca de
+cercade
 mil
 pessoa
 ficar
@@ -57,7 +57,7 @@ maioria
 turista
 passar
 dia
-em casa
+emcasa
 hotel
 assistir
 TV

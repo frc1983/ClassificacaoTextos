@@ -17,7 +17,7 @@ ocupar
 centro
 palco
 dedicar
-de corpo e alma
+decorpoealma
 prazer
 mulher
 caber
@@ -38,7 +38,7 @@ repulsivo
 pegajoso
 caricia
 excesso
-fora de
+forade
 hora
 entao
 amor
@@ -53,7 +53,7 @@ furtivo
 gato
 procurar
 passar
-um tanto
+umtanto
 desperceber
 verdade
 estar
@@ -66,12 +66,12 @@ principalmente
 saber
 solicitar
 nao
-por outro lado
+poroutrolado
 egoista
 gato
 aprender
 logo
-o que
+oque
 mulher
 desejar
 sentir
@@ -133,34 +133,34 @@ alma
 so
 traduzir
 corpo
-o que
+oque
 voce
 querer
-Joao GILBERTO NOLL
+JoaoGILBERTONOLL
 nascer
-Porto Alegre
+PortoAlegre
 publicar
 livro
 conto
-O Cego e a Dancarina
-o qual
+OCegoeaDancarina
+oqual
 ganhar
 Jabuti
 conto
 volume
-Alguma Coisa Urgente
+AlgumaCoisaUrgente
 inspirar
 filme
-Nunca Fomos Tao Felizes
+NuncaFomosTaoFelizes
 seguinte
 romance
 publicar
 Furia
 Corpo
 bandoleiro
-Rastros do Verao
-Hotel Atlantico
-O Quieto Animal da Esquina
+RastrosdoVerao
+HotelAtlantico
+OQuietoAnimaldaEsquina
 Harmada
 modesto
 CARONE
@@ -195,18 +195,18 @@ desde
 traduzir
 obra
 ficcao
-Franz Kafka
+FranzKafka
 brasiliense
 desde
-MARILENE FELINT
+MARILENEFELINT
 nascer
 Recife
 PE
 viver
-Sao Paulo
+SaoPaulo
 desde
 livro
-As Mulheres de Tijucopapo
+AsMulheresdeTijucopapo
 escrever
 ano
 ganhar
@@ -217,9 +217,9 @@ letra
 USP
 publicar
 tambem
-O Lago Encantado de Grongonzo
+OLagoEncantadodeGrongonzo
 Postcard
-LUIZ Vilela
+LUIZVilela
 nascer
 Ituiutaba
 mG
@@ -230,17 +230,17 @@ estrear
 literatura
 livro
 conto
-Tremor de Terra
+TremordeTerra
 ganhar
 Jabuti
-O Fim de Tudo
+OFimdeTudo
 ja
 traduzir
 diversos
 lingua
 livro
 publicar
-ALBERTO Alexandre Martins
+ALBERTOAlexandreMartins
 ilustrador
 conto
 nascer
@@ -253,7 +253,7 @@ estudar
 gravura
 metal
 xilogravura
-Pratt Graphics Center
-Nova York
+PrattGraphicsCenter
+NovaYork
 publicar
 poema

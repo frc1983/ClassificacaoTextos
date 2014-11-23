@@ -5,7 +5,7 @@ homem
 armar
 obrigar
 garota
-na frente de
+nafrentede
 lanchonete
 entrar
 carro
@@ -14,9 +14,9 @@ ate
 ES
 FT
 estudante
-Priscila Germakli Valenta
-erica Areias
-Renata Aparecida Peretti
+PriscilaGermakliValenta
+ericaAreias
+RenataAparecidaPeretti
 sequestrar
 noite
 domingo
@@ -25,23 +25,23 @@ zona
 leste
 SP
 libertar
-Espirito Santo
+EspiritoSanto
 segundo
 policia
 Wesley
-Souza Aparecido
+SouzaAparecido
 Rizomar
-Souza Silva
+SouzaSilva
 obrigar
 entrar
 carro
 Priscila
 estar
-em frente
+emfrente
 lanchonete
-Disc Dog
+DiscDog
 rua
-Tijuco Preto
+TijucoPreto
 Tatuape
 Wesley
 abordar
@@ -52,7 +52,7 @@ entender
 ir
 dizer
 palavra
-dentro de
+dentrode
 falso
 Biblia
 guardar
@@ -69,26 +69,26 @@ Erica
 Renata
 sair
 ir
-Dis Dog
+DisDog
 Priscila
 ir
 dirigir
 Gol
-em direcao a
+emdirecaoa
 Estado
-Rio de Janeiro
+RiodeJaneiro
 pegar
 ponte
 RioNiteroi
 Br
-em direcao a
+emdirecaoa
 vitoria
-Espirito Santo
+EspiritoSanto
 cidade
 laranjeira
 Vitoria
 km
-Sao Paulo
+SaoPaulo
 Priscila
 estar
 dirigir
@@ -96,7 +96,7 @@ Gol
 desde
 momento
 sequestrar
-cerca de
+cercade
 hora
 pedir
 ir
@@ -111,7 +111,7 @@ amiga
 estar
 sequestrar
 homem
-dentro de
+dentrode
 carro
 voltar
 toalete
@@ -141,9 +141,9 @@ sequestrador
 libertar
 estudante
 delegado
-Gersino Claudio Soares
+GersinoClaudioSoares
 autuar
-em flagrante
+emflagrante
 dizer
 Wesley
 cumplice

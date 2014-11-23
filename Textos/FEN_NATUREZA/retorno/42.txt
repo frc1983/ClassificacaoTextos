@@ -1,10 +1,10 @@
 desperdicio
 agua
 Estado
-Sao Paulo
+SaoPaulo
 perder
 erosao
-entre  e 
+entree
 bilhao
 m
 agua
@@ -24,13 +24,13 @@ alarmante
 pensar
 dar
 abastecer
-todo o
+todoo
 populacao
 brasileiro
 mes
 dizer
-Dalmo Rosalen
-Secretaria do Meio Ambiente
+DalmoRosalen
+SecretariadoMeioAmbiente
 haver
 cidade
 enfrentar
@@ -45,7 +45,7 @@ chuva
 absorver
 solo
 chegar
-lencol freatico
+lencolfreatico
 corrente
 agua
 subterraneo

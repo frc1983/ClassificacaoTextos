@@ -1,7 +1,7 @@
 comissao
 elaborar
 projeto
-projeto de lei
+projetodelei
 introduzir
 alteracao
 Codigo
@@ -16,7 +16,7 @@ titular
 direito
 penal
 USP
-Miguel Reale Junior
+MiguelRealeJunior
 parte
 comissao
 objetivo
@@ -33,7 +33,7 @@ atencao
 projeto
 ampliar
 hipotese
-prisao preventiva
+prisaopreventiva
 permitir
 juiz
 determinar
@@ -63,7 +63,7 @@ contrato
 procurador
 justica
 Estado
-Sao Paulo Antonio Magalhaes Gomes
+SaoPauloAntonioMagalhaesGomes
 Filho
 tambem
 parte

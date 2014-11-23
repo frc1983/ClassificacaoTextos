@@ -10,17 +10,17 @@ xucro
 cantar
 festa
 tradicional
-grito de guerra
+gritodeguerra
 sigura
 sic
 peao
 locutor
 rodeio
 levar
-a serio
+aserio
 madrinha
 peao
-Kelly Cristina Trindade
+KellyCristinaTrindade
 madrinha
 Kelly
 tirar
@@ -34,7 +34,7 @@ tempo
 disponivel
 cavaleiro
 mostrar
-o que
+oque
 saber
 arena
 rodeio
@@ -51,7 +51,7 @@ motivo
 comentario
 cauboi
 tropeiro
-todo o
+todoo
 pais
 Kelly
 unico
@@ -60,7 +60,7 @@ madrinha
 peao
 brasileiro
 imagem
-Nossa Senhora Aparecida
+NossaSenhoraAparecida
 refugio
 usar
 jovem
@@ -71,7 +71,7 @@ acreditar
 nada
 ir
 acontecer
-alem de
+alemde
 missao
 salvar
 peao
@@ -102,16 +102,16 @@ boiadeiro
 Barretos
 SP
 reunir
-cerca de
+cercade
 mil
 pessoa
-todo o
+todoo
 pais
 mes
 passar
 Kelly
 aplaudir
-de pe
+depe
 publico
 lotar
 Estadio
@@ -126,7 +126,7 @@ pop
 cowgirl
 paulista
 levar
-para casa
+paracasa
 R
 premio
 trabalho

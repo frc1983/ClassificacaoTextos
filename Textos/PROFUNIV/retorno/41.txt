@@ -31,7 +31,7 @@ solo
 acelerar
 processo
 erosao
-Sao Paulo
+SaoPaulo
 perder
 ano
 milhao
@@ -49,16 +49,16 @@ uso
 inadequado
 solo
 dizer
-Guido Jose da Costa
+GuidoJosedaCosta
 presidente
-Associacao dos Engenheiros Agronomos
+AssociacaodosEngenheirosAgronomos
 Estado
 cafe
 exemplificar
 Costa
 nao
 plantar
-Vale do Paraiba
+ValedoParaiba
 atualmente
 area
 Estado
@@ -98,10 +98,10 @@ regiao
 potencial
 erosao
 explicar
-Helio do Prado
+HeliodoPrado
 coordenador
-Levantamento do Solo
-Instituto Agronomico
+LevantamentodoSolo
+InstitutoAgronomico
 campina
 responsavel
 mapeamento
@@ -110,7 +110,7 @@ Prado
 area
 inicial
 formar
-Pontal de Paranapanema
+PontaldeParanapanema
 ate
 Marilia
 passar
@@ -122,8 +122,8 @@ faltar
 trabalho
 regiao
 norte
-Ribeirao Preto
-Vale do Paraiba
+RibeiraoPreto
+ValedoParaiba
 pronto
 mapa
 definicao
@@ -142,12 +142,12 @@ solo
 resersa
 natural
 trabalho
-Instituto Agronomico
+InstitutoAgronomico
 tecnico
-Escola Superior de Agricultura Luiz
+EscolaSuperiordeAgriculturaLuiz
 Queiroz
 Esalq
-Secretaria da Agricultura
+SecretariadaAgricultura
 tecnico
 responsavel
 quadricolo

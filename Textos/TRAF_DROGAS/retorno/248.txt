@@ -35,10 +35,10 @@ realizar
 regiao
 Woodstock
 norte
-Nova York
+NovaYork
 show
 comemorar
-bodas de prata
+bodasdeprata
 festival
 nao
 so
@@ -53,7 +53,7 @@ festival
 Bethel
 esperar
 atrair
-pelo menos
+pelomenos
 mil
 pessoa
 fazenda
@@ -69,19 +69,19 @@ cidadezinha
 mil
 habitante
 ficar
-cerca de
+cercade
 km
-Nova York
+NovaYork
 empreitada
 comandar
-Sid Bernstein
+SidBernstein
 responsavel
 vinda
 banda
 ingles
 Beatles
-Rolling Stones
-Estados Unidos
+RollingStones
+EstadosUnidos
 inicio
 ano
 Bernstein
@@ -104,11 +104,11 @@ grupo
 realizar
 ha
 ano
-Joel Rosenman
+JoelRosenman
 organizador
 Woodstock
-John Roberts
-Michael Lang
+JohnRoberts
+MichaelLang
 dizer
 querer
 levar
@@ -169,7 +169,7 @@ especulacao
 ja
 estar
 financiar
-o que
+oque
 area
 artistico
 grupo
@@ -188,7 +188,7 @@ parte
 estar
 festival
 Woodstock
-por sua vez
+porsuavez
 apostar
 ficha
 grupo
@@ -210,15 +210,15 @@ chamada
 aquario
 segundo
 chance
-e que
+eque
 expressamente
 proibir
 entrada
 alcool
-alem de
+alemde
 droga
 festival
-alem de
+alemde
 ingresso
 Bethel
 vender
@@ -226,12 +226,12 @@ US
 dia
 organizador
 mais
-do que
+doque
 inflacionar
 US
 pagar
 nome
-Jimi Hendrix
-Janis Joplin
+JimiHendrix
+JanisJoplin
 the
 Who

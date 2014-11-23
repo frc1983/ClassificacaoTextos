@@ -14,7 +14,7 @@ tremer
 terremoto
 acabar
 sacudir
-Los Angeles
+LosAngeles
 cidade
 Estado
 local
@@ -29,7 +29,7 @@ futebol
 mundo
 ir
 acontecer
-sob o signo de
+sobosignode
 tremor
 haver
 bom
@@ -50,7 +50,7 @@ falar
 reconstrucao
 assim
 acontecer
-San Francisco
+SanFrancisco
 metropole
 mais
 fascinante
@@ -66,7 +66,7 @@ sacudir
 mundo
 transgressao
 comportamental
-San Francisco
+SanFrancisco
 embalar
 torcedor
 brasileiro
@@ -76,10 +76,10 @@ roteiro
 completo
 mesclar
 jogo
-todo o
+todoo
 diversao
 tremendo
 cidade
 ler
-San Francisco
+SanFrancisco
 pag

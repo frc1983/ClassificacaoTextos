@@ -9,22 +9,21 @@ USP
 Reino
 Deus
 estar
-Leon Tolstoi
+LeonTolstoi
 traducao
 versao
 italiano
-Celina Portocarrero
+CelinaPortocarrero
 apresentacao
 fr
-Clodovis Boff
+ClodovisBoff
 Rosa
 tempo
 r
 Candelaria
-Rio de Janeiro
+RiodeJaneiro
 cep
 tel
- 
 bibliografia
 principal
 escrito
@@ -44,11 +43,10 @@ entao
 reino
 Deus
 estar
-por que
 homem
 ofuscar
 nao
 calar
 carta
-Henry George
+HenryGeorge
 arte

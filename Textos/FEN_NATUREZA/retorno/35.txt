@@ -1,12 +1,12 @@
 w
-Golf GTI
+GolfGTI
 sair
 caca
-Honda Civic
+HondaCivic
 esportivo
 chegar
 mercado
-a partir de
+apartirde
 amanha
 revendedor
 marca
@@ -19,7 +19,7 @@ quartafeira
 autodromo
 Interlagos
 SP
-Golf GTI
+GolfGTI
 modelo
 mais
 vender
@@ -69,7 +69,7 @@ carro
 preco
 caracteristica
 similar
-Pointer GTi
+PointerGTi
 hatch
 nacional
 porta
@@ -79,19 +79,19 @@ abril
 perder
 comprador
 importar
-Golf GTI
+GolfGTI
 concorrer
-Kadett GSi
+KadettGSi
 GM
-Escort XR
+EscortXR
 Ford
 modelo
 estrangeiro
 esportivo
 Peugeot
 GTi
-Citroen ZX Volcane
-Suzuki Swift GTI
+CitroenZXVolcane
+SuzukiSwiftGTI
 carro
 destinar
 brasileiro
@@ -102,7 +102,7 @@ multiponto
 digital
 ignicao
 mapear
-alem de
+alemde
 cambio
 marcha
 desempenho
@@ -161,7 +161,7 @@ duro
 melhorar
 performance
 curva
-alem de
+alemde
 esportividade
 seguranca
 passivo
@@ -172,7 +172,7 @@ porta
 colisao
 lateral
 caso
-de batida
+debatida
 frontal
 motor
 deslocar

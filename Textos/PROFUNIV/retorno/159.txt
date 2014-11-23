@@ -2,7 +2,7 @@ ilusao
 imposto
 unico
 proposta
-emenda constitucional
+emendaconstitucional
 instituir
 imposto
 unico
@@ -13,7 +13,7 @@ sequer
 votar
 Congresso
 nacional
-a par de
+aparde
 bom
 saber
 proposta
@@ -24,10 +24,10 @@ ja
 apresentar
 varias
 Franca
-Estados Unidos
+EstadosUnidos
 Brasil
 levar
-a serio
+aserio
 teorico
 financa
 tributacao
@@ -35,7 +35,7 @@ chegar
 cogitar
 efetivar
 aplicacao
-quanto a
+quantoa
 aspecto
 constitucional
 importante
@@ -57,7 +57,7 @@ autonomia
 politico
 administrativo
 financeiro
-o que
+oque
 implicar
 competencia
 lancar
@@ -76,7 +76,7 @@ ponto
 imutavel
 Constituicao
 brasileiro
-ainda que
+aindaque
 nao
 haver
 obstaculo
@@ -87,7 +87,7 @@ forte
 argumento
 ordem
 pratico
-a favor de
+afavorde
 multiplicidade
 diversidade
 tributo
@@ -98,7 +98,7 @@ conveniente
 sistema
 tributario
 descentralizar
-em termos de
+emtermosde
 imposicao
 arrecadacao
 mais
@@ -110,8 +110,8 @@ excesso
 padronizacao
 oportunamente
 extirpar
-por meio de
-emenda constitucional
+pormeiode
+emendaconstitucional
 dar
 flexibilidade
 escolha
@@ -137,12 +137,12 @@ processo
 emenda
 limitacao
 prever
-por ultimo
+porultimo
 oportuno
 recordar
 seculo
 economista
-Francois Quesnay
+FrancoisQuesnay
 principal
 representante
 escola
@@ -167,7 +167,7 @@ seculo
 jornalista
 economista
 norteamericano
-Henry George
+HenryGeorge
 propor
 imposto
 unico
@@ -177,7 +177,7 @@ conforme
 teoria
 expor
 livro
-Progress and Poverty
+ProgressandPoverty
 publicar
 mais
 fervoroso
@@ -193,7 +193,7 @@ editora
 brasiliense
 folheto
 intitular
-O Imposto Unico
+OImpostoUnico
 Lobato
 sintetizar
 maravilhoso
@@ -201,7 +201,7 @@ solucao
 propor
 teorico
 norteamericano
-Henry George
+HenryGeorge
 nao
 guilhotinar
 ninguem
@@ -215,7 +215,7 @@ ordem
 social
 limitar
 substituir
-todo o
+todoo
 atual
 imposto
 direto
@@ -232,7 +232,7 @@ so
 Imposto
 Valor
 Terra
-quer dizer
+querdizer
 imposto
 bem
 social
@@ -242,7 +242,7 @@ particular
 grifo
 proprio
 Lobato
-como se
+comose
 ve
 ideia
 imposto
@@ -252,13 +252,13 @@ essencialmente
 embora
 apresentar
 variacao
-quanto a
+quantoa
 aspecto
 particular
 Brasil
 juridicamente
 inviavel
-o que
+oque
 tornar
 interesse
 secundario
@@ -273,7 +273,7 @@ novo
 sistema
 tributario
 perder
-de vista
+devista
 exigencia
 federalismo
 justica
@@ -283,15 +283,15 @@ bastar
 eliminar
 sonegacao
 corrupcao
-mau uso
+mauuso
 recurso
 financeiro
 DALMO
-Abreu DALLARI
+AbreuDALLARI
 advogado
 professor
 titular
-Faculdade de Direito
+FaculdadedeDireito
 USP
 universidade
-Sao Paulo
+SaoPaulo

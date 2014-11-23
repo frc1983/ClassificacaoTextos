@@ -35,7 +35,7 @@ simples
 igualdade
 Udinse
 campo
-San Siro
+SanSiro
 Mezza
 Lombardia
 garantir
@@ -106,7 +106,7 @@ conceder
 tento
 tico
 bom
-do que
+doque
 Lazio
 paralelamente
 emocao
@@ -121,7 +121,7 @@ tragedia
 rebaixamento
 calcanhar
 Bota
-por exemplo
+porexemplo
 debater
 Foggia
 Genoa
@@ -159,15 +159,15 @@ Copa
 Uefa
 Bota
 alias
-mais uma vez
+maisumavez
 estar
 prestes
 encaixar
 equipe
-todo o
+todoo
 decisao
 Europa
-alem de
+alemde
 Parma
 Inter
 Milan
@@ -176,13 +176,13 @@ finalista
 Copa
 campeao
 superar
-em casa
+emcasa
 proximo
 semana
 Monaco
 Franca
 TVUdinese
 Milan
-ao vivo
+aovivo
 TV
 bandeirante

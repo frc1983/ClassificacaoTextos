@@ -20,7 +20,7 @@ mercado
 enciclopedia
 livro
 imprimir
-gracas a
+gracasa
 preco
 descontar
 equipamento
@@ -34,7 +34,7 @@ exigir
 ate
 editora
 tradicional
-Encyclopaedia Brittanica
+EncyclopaediaBrittanica
 trabalhar
 versao
 multimidia
@@ -68,14 +68,14 @@ pintura
 diversos
 tema
 atrair
-cada vez mais
+cadavezmais
 fa
 empresario
-Julio Serson
-em casa
+JulioSerson
+emcasa
 biblioteca
 eletronico
-apesar de
+apesarde
 fascinio
 exercer
 pessoa
@@ -84,7 +84,7 @@ criticar
 educador
 professora
 USP
-Claudete Junqueira
+ClaudeteJunqueira
 considerar
 superficial
 ler

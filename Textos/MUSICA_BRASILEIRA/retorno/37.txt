@@ -1,6 +1,6 @@
 seguranca
 manter
-apesar de
+apesarde
 aparencia
 mais
 chocante
@@ -22,7 +22,7 @@ caso
 acidente
 medida
 estender
-todo o
+todoo
 ocupante
 carro
 dirigir
@@ -49,7 +49,7 @@ faixa
 sao
 frequentar
 batida
-por tras
+portras
 quase
 provocar
 imprudencia
@@ -62,7 +62,7 @@ aumentar
 conforme
 velocidade
 manter
-atras de
+atrasde
 carro
 distancia
 equivalente

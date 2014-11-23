@@ -1,7 +1,7 @@
 lista
-Sao Paulo
-Marcelo Beraba
-Sao Paulo
+SaoPaulo
+MarceloBeraba
+SaoPaulo
 acompanhar
 drama
 social
@@ -15,14 +15,14 @@ tarde
 surgir
 lista
 bicho
-um pouco
+umpouco
 historia
 Collorgate
 certo
 maneira
 ninguem
 surpreender
-Pedro Collor
+PedroCollor
 comecar
 falar
 prolongar
@@ -35,7 +35,7 @@ Estado
 criar
 vazio
 preencher
-em parte
+emparte
 crime
 organizar
 bicho
@@ -68,12 +68,11 @@ bom
 caso
 Rio
 sorte
-por que
 cidade
 bom
 oportunidade
 romper
-de vez
+devez
 rotina
 promiscuo
 viciar
@@ -84,10 +83,10 @@ resto
 Brasil
 acreditar
 nao
-Rio de Janeiro
+RiodeJaneiro
 alguem
 duvidar
-Sao Paulo
+SaoPaulo
 hoje
 mais
 importante
@@ -96,21 +95,21 @@ interior
 rota
 trafico
 droga
-do que
+doque
 rir
 alguem
 duvidar
-Sao Paulo
+SaoPaulo
 hoje
 mais
 importante
 mercado
 venda
 droga
-do que
+doque
 rir
 economia
-Sao Paulo
+SaoPaulo
 conseguir
 impedir
 crime
@@ -128,5 +127,5 @@ nao
 atuar
 tanto
 mais
-do que
+doque
 rir

@@ -6,24 +6,24 @@ linguagem
 RICHARD
 SHWEDER
 especial
-NYT Book Review
+NYTBookReview
 colecao
 ensaio
 academico
-Gender and Discourse
+GenderandDiscourse
 genero
 Discurso
 voltar
 publicar
-todo o
+todoo
 investigacao
 anteriormente
 publicar
-Deborah Tannen
+DeborahTannen
 homem
 mulher
 conversar
-entre si
+entresi
 autora
 professora
 linguistica
@@ -48,7 +48,7 @@ mulher
 sentir
 dificuldade
 conversar
-entre si
+entresi
 membro
 diferentes
 comunidade
@@ -90,7 +90,7 @@ falante
 alto
 envolvimento
 judeu
-Nova York
+NovaYork
 descendente
 europeu
 ocidental
@@ -144,7 +144,7 @@ pluralistica
 liberal
 desculpar
 homem
-alem de
+alemde
 conta
 Tannen
 escrever
@@ -188,7 +188,7 @@ real
 naoplanejar
 quase
 examinar
-Gender and Discourse
+GenderandDiscourse
 livro
 conter
 analise
@@ -198,8 +198,8 @@ dialogo
 sueco
 transcrever
 filme
-Cenas de um Casamento
-Ingmar Bergman
+CenasdeumCasamento
+IngmarBergman
 evidencia
 Tannen
 apresentar
@@ -207,7 +207,7 @@ abordagem
 diferenca
 cultural
 parecer
-de fato
+defato
 fragil
 nao
 ignorar
@@ -267,7 +267,7 @@ conversacao
 cultura
 experiencia
 ler
-Gender and Discourse
+GenderandDiscourse
 levar
 perguntar
 estereotipo
@@ -279,7 +279,7 @@ falar
 perigoso
 ideologicamente
 sedutor
-RICHARD A
+RICHARDA
 SHWEDER
 antropologo
 cultural
@@ -289,12 +289,12 @@ humano
 Universidade
 Chicago
 Why
-Men Barbecue
+MenBarbecue
 and
-Other Recipes
+OtherRecipes
 cultural
 Psychology
 elaboracao
 traducao
 Vera
-Paula Assis
+PaulaAssis

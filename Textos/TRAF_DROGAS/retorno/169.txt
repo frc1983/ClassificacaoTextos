@@ -12,16 +12,16 @@ ano
 Semana
 arte
 moderno
-Sao Paulo
-em geral
+SaoPaulo
+emgeral
 considerar
 pobre
 retrogrado
 curador
 modulo
-Bienal Brasil Seculo 
+BienalBrasilSeculo
 professor
-Unicamp Jose Roberto Teixeira
+UnicampJoseRobertoTeixeira
 Leite
 nao
 bem
@@ -82,10 +82,10 @@ academico
 ensaiar
 certo
 autonomia
-ainda que
+aindaque
 entender
 bem
-o que
+oque
 impressionismo
 neoimpressionismo
 dizer
@@ -93,7 +93,7 @@ caso
 Leite
 partir
 curadoria
-Victor Meirelles
+VictorMeirelles
 pintor
 academico
 renome
@@ -118,7 +118,7 @@ caso
 curioso
 Leite
 apontar
-Henrique Cavalleiro
+HenriqueCavalleiro
 tomar
 contato
 obra
@@ -127,7 +127,7 @@ fauvista
 ler
 definicao
 abaixo
-quanto a
+quantoa
 fauvismo
 leite
 dizer
@@ -136,8 +136,8 @@ sofrer
 influencia
 estilo
 navarro
-da Costa
-no caso de
+daCosta
+nocasode
 Cavalleiro
 adocao
 timido
@@ -148,7 +148,7 @@ mais
 peculiar
 curador
 figura
-Helios Seelinger
+HeliosSeelinger
 conviver
 Alemanha
 geracao
@@ -160,8 +160,8 @@ artista
 moderno
 Kandinsky
 Klee
-no entanto
-o maximo
+noentanto
+omaximo
 Seelinger
 chegar
 misto
@@ -226,4 +226,4 @@ esforco
 modernista
 nao
 exclusivo
-artes plasticas
+artesplasticas

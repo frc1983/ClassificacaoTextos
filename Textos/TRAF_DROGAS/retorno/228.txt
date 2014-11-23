@@ -23,7 +23,7 @@ motivo
 acusacao
 suborno
 empresa
-Sagawa Kyubin
+SagawaKyubin
 pivo
 escandalo
 pais
@@ -55,7 +55,7 @@ recurso
 pessoal
 durante
 ano
-a partir de
+apartirde
 Hosokawa
 conceder
 entrevista
@@ -77,14 +77,14 @@ envolver
 emprestimo
 milhao
 iene
-cerca de
+cercade
 US
 mil
 premie
 contrair
 decada
 junto
-Sagawa Kyubin
+SagawaKyubin
 gota
 agua
 provocar
@@ -107,10 +107,10 @@ empresa
 transportador
 embolsar
 valor
-referente a
+referentea
 juro
 emprestimo
-como se
+comose
 doacao
 politico
 durante
@@ -128,7 +128,7 @@ principal
 ponto
 programa
 governo
-Senhor Limpo
+SenhorLimpo
 conhecer
 aprovacao
 mudanca
@@ -140,7 +140,7 @@ dar
 fim
 corrupcao
 pais
-quanto a
+quantoa
 politica
 externo
 gestao
@@ -156,12 +156,12 @@ ate
 novo
 primeiroministro
 indicar
-por maioria
+pormaioria
 Parlamento
 japones
 dieta
 professor
-Yasunori Sone
+YasunoriSone
 Universidade
 Keio
 dizer
@@ -190,13 +190,13 @@ remoto
 novo
 legislacao
 eleitoral
-apesar de
+apesarde
 aprovar
 nao
 implementar
 noticia
 renuncia
-Bolsa de Valores
+BolsadeValores
 Toquio
 cair
 ponto

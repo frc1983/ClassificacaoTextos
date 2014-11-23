@@ -1,4 +1,4 @@
-SERGIO Carneiro
+SERGIOCarneiro
 professor
 sociologia
 Unip
@@ -11,7 +11,7 @@ Olimpia
 vivo
 resposta
 advogado
-Jose Roberto Graiche
+JoseRobertoGraiche
 presidente
 Aabic
 associacao
@@ -19,7 +19,7 @@ Administradora
 bem
 imovel
 condominio
-com relacao a
+comrelacaoa
 rateio
 seguro
 incendio
@@ -28,15 +28,15 @@ haver
 proprietario
 loja
 eximir
-uma vez que
+umavezque
 seguro
 global
-ou seja
+ouseja
 abranger
-todo o
+todoo
 edificacao
 ja
-com referencia a
+comreferenciaa
 reforma
 centro
 medicao
@@ -53,7 +53,7 @@ medidor
 absolutamente
 separar
 caso
-ja que
+jaque
 leitor
 citar
 haver
@@ -65,7 +65,7 @@ imovel
 condominio
 casa
 terreo
-sendo que
+sendoque
 garagem
 parte
 area
@@ -93,7 +93,7 @@ conjunto
 residencial
 proibir
 estacionar
-mais de
+maisde
 veiculo
 garagem
 area
@@ -116,7 +116,7 @@ existente
 garagem
 resposta
 advogado
-Jose Roberto Graiche
+JoseRobertoGraiche
 presidente
 Aabic
 associacao
@@ -127,7 +127,7 @@ condominio
 convencao
 lei
 condominio
-no caso que
+nocasoque
 leitor
 expor
 acreditar
@@ -137,7 +137,7 @@ absurdo
 limitar
 direito
 propriedade
-uma vez que
+umavezque
 colocacao
 terceiro
 veiculo
@@ -206,16 +206,16 @@ trazer
 dolar
 Brasil
 caso
-tudo isso
+tudoisso
 legal
 declarar
 compra
 Imposto
 renda
 resposta
-Sergio Tavares Ferrador
+SergioTavaresFerrador
 presidente
-Lello Miami
+LelloMiami
 sim
 ja
 existir
@@ -226,7 +226,7 @@ remessa
 valor
 exterior
 aquisicao
-bens imoveis
+bensimoveis
 haver
 representante
 companhia
@@ -239,9 +239,9 @@ Brasil
 caso
 contrario
 so
-Estados Unidos
+EstadosUnidos
 criterio
-e que
+eque
 pagar
 prestacao
 dolar
@@ -263,7 +263,7 @@ adequacao
 renda
 obter
 aluguel
-por exemplo
+porexemplo
 abater
 quitar
 compromisso

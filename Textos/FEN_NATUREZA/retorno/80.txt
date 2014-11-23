@@ -3,7 +3,7 @@ Stevenson
 atrair
 Vailima
 duzentos
-libra esterlina
+libraesterlina
 Stevenson
 pagar
 terreno
@@ -11,7 +11,7 @@ km
 Vailima
 ilha
 Upolu
-Samoa Ocidental
+SamoaOcidental
 correr
 ano
 escritor
@@ -50,7 +50,7 @@ chefe
 pai
 branco
 samoano
-todo o
+todoo
 tempo
 mundo
 trabalho
@@ -76,7 +76,7 @@ vender
 casa
 comerciante
 russoalemao
-Gustav Kunst
+GustavKunst
 castigar
 ciclone
 casa

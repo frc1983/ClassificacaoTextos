@@ -23,7 +23,7 @@ tambem
 amigo
 musico
 facil
-cada um
+cadaum
 banda
 ja
 contrato
@@ -36,7 +36,7 @@ bancar
 patrao
 integrante
 banda
-Party Up
+PartyUp
 existir
 ha
 mes
@@ -46,22 +46,22 @@ opcao
 ensaiar
 estudio
 bom
-do que
+doque
 ensaiar
-em casa
+emcasa
 aqui
 arcondicionado
 equipamento
 legal
 dizer
-Guilherme Martin
+GuilhermeMartin
 baterista
 banda
 durante
 ensaio
 estudio
 Anonimato
-todo mundo
+todomundo
 sorte
 banda
 Pin
@@ -108,7 +108,7 @@ conseguir
 show
 ja
 ensaiar
-em casa
+emcasa
 sao
 integrante
 banda
@@ -133,9 +133,9 @@ nao
 ouvir
 nada
 prova
-e que
+eque
 achar
-Ronaldo Chorao
+RonaldoChorao
 vocalista
 banda
 cantar
@@ -153,7 +153,7 @@ ensaiar
 boate
 brega
 chamado
-Casa do Piaui
+CasadoPiaui
 Ronan
 guitarrista
 banda
@@ -177,7 +177,7 @@ Quorum
 usar
 Leandro
 Leonardo
-Rita Lee
+RitaLee
 Sepultura
 estar
 Brasil

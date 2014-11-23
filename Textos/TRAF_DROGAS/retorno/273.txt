@@ -1,6 +1,6 @@
 turismo
 levar
-a serio
+aserio
 Bahamas
 excolonia
 britanico
@@ -13,9 +13,9 @@ milhao
 pessoa
 arquipelago
 Bahamas
-cerca de
+cercade
 ilha
-o qual
+oqual
 apenas
 habitar
 internacionalmente
@@ -45,7 +45,7 @@ seculo
 impossibilidade
 golpe
 militar
-ja que
+jaque
 Forca
 armar
 limitar
@@ -89,7 +89,7 @@ seculo
 ingles
 espanhol
 arquipelago
-em portugues
+emportugues
 tambem
 chamar
 Baamas

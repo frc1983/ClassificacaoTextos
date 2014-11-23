@@ -21,7 +21,7 @@ Pensador
 tanto
 numero
 jogador
-na frente de
+nafrentede
 micro
 resposta
 errar

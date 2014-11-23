@@ -8,9 +8,9 @@ diretor
 Sucursal
 Brasilia
 Folha
-Gilberto Dimenstein
+GilbertoDimenstein
 reporter
-Gustavo Krieger
+GustavoKrieger
 depor
 amanha
 testemunha
@@ -19,7 +19,7 @@ acao
 criminal
 deputado
 Roberto
-Cardoso Alves
+CardosoAlves
 PTBSP
 mover
 filosofo
@@ -39,12 +39,12 @@ romano
 acusar
 injuria
 difamacao
-Cardoso Alves
+CardosoAlves
 deputado
 considerar
 ofender
 artigo
-O Prostibulo Risonho
+OProstibuloRisonho
 autoria
 romano
 publicar
@@ -62,24 +62,24 @@ prostituicao
 Congresso
 critica
 parlamentar
-Cardoso Alves
+CardosoAlves
 alem
 processo
 haver
 recurso
 advogado
 romano
-Mario Simas
+MarioSimas
 apresentar
 decisao
 Tribunal
 alcada
 criminal
-Sao Paulo
+SaoPaulo
 negar
-habeas corpus
+habeascorpus
 cliente
-habeas corpus
+habeascorpus
 Simas
 pretender
 fim
@@ -100,4 +100,4 @@ momento
 intencao
 atingir
 honra
-Cardoso Alves
+CardosoAlves

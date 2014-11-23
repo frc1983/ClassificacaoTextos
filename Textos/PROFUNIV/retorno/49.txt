@@ -1,7 +1,7 @@
 venda
 crescer
 trator
-de roda
+deroda
 exportacao
 perda
 cafe
@@ -19,11 +19,11 @@ maquina
 agricola
 semestre
 ano
-em comparacao
+emcomparacao
 igual
 periodo
 trator
-de roda
+deroda
 venda
 trator
 roda
@@ -32,7 +32,7 @@ julho
 ano
 somar
 unidade
-a mais de
+amaisde
 comercio
 colheitadeira
 crescer
@@ -52,7 +52,7 @@ externo
 acumular
 unidade
 mais
-do que
+doque
 perda
 cafe
 levantamento
@@ -68,7 +68,7 @@ cafe
 quebrar
 proximo
 safra
-ao redor de
+aoredorde
 cair
 milhao
 saca

@@ -2,7 +2,7 @@ professor
 desaconselhar
 uso
 professor
-Valdemar Setzer
+ValdemarSetzer
 Departamento
 ciencia
 Computacao
@@ -39,7 +39,7 @@ idade
 nao
 cabimento
 aprender
-o que
+oque
 prova
 formal
 teorema
@@ -52,7 +52,7 @@ comecar
 trabalhar
 logaritmo
 trigonometria
-cada vez mais
+cadavezmais
 abstracao
 Setzer
 uso
@@ -67,13 +67,13 @@ concluir
 gente
 estar
 computador
-em casa
+emcasa
 achar
 bom
 bom
 saber
 haver
-pelo menos
+pelomenos
 pessoa
 mundo
 achar

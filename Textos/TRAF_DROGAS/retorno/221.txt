@@ -7,7 +7,7 @@ Folha
 promover
 tercafeira
 dia
-a partir de
+apartirde
 lancamento
 livro
 novo
@@ -17,31 +17,31 @@ Brasileira
 Haiti
 Soberania
 ditador
-Ricardo Seitenfus
+RicardoSeitenfus
 durante
 evento
 haver
 debate
 autor
-o qual
+oqual
 participar
 embaixador
 Brasil
 Londres
-Rubens Barbosa
+RubensBarbosa
 advogado
 professor
-Faculdade de Direito
+FaculdadedeDireito
 USP
-Dalmo Dallari
+DalmoDallari
 cientista
 politico
-Jose Augusto Guilhon
+JoseAugustoGuilhon
 Albuquerque
 encontro
 mediar
 jornalista
-Clovis Rossi
+ClovisRossi
 discutir
 novo
 Alternativa
@@ -51,7 +51,7 @@ enfase
 perspectiva
 abrir
 eleicao
-Fernando Henrique Cardoso
+FernandoHenriqueCardoso
 Seitenfus
 doutor
 Instituto
@@ -77,7 +77,7 @@ Secretaria
 assunto
 internacional
 Estado
-Rio Grande do Sul
+RioGrandedoSul
 atualmente
 Seitenfus
 coordenar
@@ -101,19 +101,18 @@ andar
 novo
 Politica
 externo
-Ricardo Seitenfus
+RicardoSeitenfus
 livraria
 Advogado
 r
 Riachuelo
-Porto Alegre
+PortoAlegre
 RS
 cep
 tel
- 
 Haiti
 Soberania
-DOS Ditadores
-Ricardo Seitenfus
+DOSDitadores
+RicardoSeitenfus
 livraria
 Advogado

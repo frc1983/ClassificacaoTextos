@@ -8,15 +8,15 @@ Indy
 prova
 disputar
 ontem
-Estados Unidos
+EstadosUnidos
 acidente
 grave
 piloto
 brasileiro
-Emerson Fittipaldi
+EmersonFittipaldi
 vencer
 ontem
-Estados Unidos
+EstadosUnidos
 Milha
 Phoenix
 segundo
@@ -32,15 +32,15 @@ lideranca
 mundial
 categoria
 ponto
-em segundo lugar
+emsegundolugar
 ficar
 Al
-Unser Jr
+UnserJr
 seguir
-Nigel Mansell
-Stefan Johansson
-Jimmy Vasser
-Mike Grof
+NigelMansell
+StefanJohansson
+JimmyVasser
+MikeGrof
 piloto
 brasileiro
 tambem
@@ -61,30 +61,30 @@ sair
 ileso
 volta
 japones
-Hiro Matsushita
+HiroMatsushita
 tocar
 Lola
 Ford
 Reynard
-Teo Fabi
+TeoFabi
 ir
 bater
-Arie Luyendyk
+ArieLuyendyk
 desviar
 volta
-Michael Andretti
+MichaelAndretti
 envolver
 acidente
 comecar
 batida
 pai
-Mario Andretti
+MarioAndretti
 muro
 ficar
 ambos
-fora de
+forade
 corrida
-apesar de
+apesarde
 gravidade
 acidente
 piloto

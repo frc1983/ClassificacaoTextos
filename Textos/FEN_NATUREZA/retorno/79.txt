@@ -9,14 +9,14 @@ obrigatorio
 ir
 aviao
 ate
-Samoa Ocidental
+SamoaOcidental
 porcao
 independente
 arquipelago
 samoano
 onde
 escritor
-Robert Louis Stevenson
+RobertLouisStevenson
 morar
 estar
 sepultar
@@ -27,7 +27,7 @@ impagavel
 aeroporto
 capital
 territorio
-Samoa Americana
+SamoaAmericana
 barracao
 visitante
 sao
@@ -58,13 +58,13 @@ ai
 turista
 nao
 trocar
-cheque de viagem
+chequedeviagem
 sentir
 refem
 acabar
 aproveitar
 estada
-Samoa Americana
+SamoaAmericana
 progresso
 palavra
 significado
@@ -74,7 +74,7 @@ ilha
 formar
 territorio
 norteamericano
-Samoa Ocidental
+SamoaOcidental
 lado
 bom
 viagem
@@ -83,7 +83,7 @@ regiao
 remoto
 aldeia
 viver
-de acordo
+deacordo
 preceito
 chefe
 proibir
@@ -107,7 +107,7 @@ sul
 Equador
 estar
 localizar
-dentro de
+dentrode
 imenso
 cratera
 vulcanico
@@ -151,7 +151,7 @@ pago
 pagar
 estar
 intocado
-Samoa Americana
+SamoaAmericana
 formar
 ilha
 somar
@@ -159,7 +159,7 @@ km
 estrada
 existir
 apenas
-em redor de
+emredorde
 ilha
 praia
 so

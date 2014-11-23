@@ -1,14 +1,14 @@
 modelo
 mais
 vender
-quinze dias
+quinzedias
 dezembro
 Gol
 cl
 preco
 medio
 R
-Monza SL
+MonzaSL
 porta
 R
 Gol
@@ -23,12 +23,12 @@ correspondencia
 escritorio
 regional
 venda
-a fim de que
+afimdeque
 entrar
 contato
 cliente
 esclarecimento
-Verona GLX
+VeronaGLX
 adquirir
 revenda
 Planalto
@@ -59,7 +59,7 @@ cliente
 Ford
 ja
 passar
-mais de
+maisde
 mes
 nao
 obter
@@ -75,12 +75,11 @@ Motorshop
 carro
 sair
 linha
-por que
 preco
 Monza
 estar
 baixar
-Thales Gradi
+ThalesGradi
 belo
 Horizonte
 mG
@@ -114,21 +113,21 @@ mais
 caro
 Kadett
 substituir
-Opel Astra
+OpelAstra
 alemao
-a partir de
+apartirde
 fevereiro
 Monza
 futuro
 sucessor
 Vectra
-Escort Hobby
+EscortHobby
 ceder
 lugar
 novo
-Ford Fiesta
+FordFiesta
 tambem
-a partir de
+apartirde
 janeiro
 surgir
 sistema
@@ -145,7 +144,7 @@ eletronico
 Gol
 GTI
 possuir
-Kadett Lite
+KadettLite
 alcool
 carro
 km
@@ -214,9 +213,9 @@ GM
 ir
 lancar
 modelo
-Corsa GL
+CorsaGL
 alcool
-Marcio Forti
+MarcioForti
 Capivari
 SP
 GM
@@ -233,14 +232,14 @@ teste
 modelo
 esperar
 Daewoo
-Enrique Jesus Marin
-Sao Paulo
+EnriqueJesusMarin
+SaoPaulo
 SP
 teste
 publicar
 agosto
 adquirir
-Logus GL
+LogusGL
 marco
 Carbel
 Autolatina
@@ -249,13 +248,13 @@ insensivel
 problema
 carro
 ha
-mais de
+maisde
 ano
 pacientemente
 reclamar
 concessionaria
 ja
-freio de mao
+freiodemao
 nao
 segurar
 veiculo
@@ -288,8 +287,8 @@ valor
 pagar
 atualizar
 mais
-perdas e danos
-Geraldo Magela
+perdasedanos
+GeraldoMagela
 S
 Freire
 belo
@@ -297,7 +296,7 @@ Horizonte
 mG
 volkswagen
 informar
-em razao de
+emrazaode
 manifestacao
 formal
 cliente
@@ -347,5 +346,5 @@ andar
 cep
 campo
 Eliseos
-Sao Paulo
+SaoPaulo
 SP

@@ -32,7 +32,7 @@ academico
 universidade
 ontem
 passar
-em frente
+emfrente
 reitoria
 carreata
 veiculo
@@ -40,15 +40,15 @@ buzinar
 Escort
 candidato
 oposicao
-Fernando Galembeck
-ao mesmo tempo
-dentro de
+FernandoGalembeck
+aomesmotempo
+dentrode
 predio
-cerca de
+cercade
 membro
 cupula
 administracao
-Carlos Vogt
+CarlosVogt
 comemorar
 recusa
 Justica
@@ -135,7 +135,7 @@ amanha
 principal
 polarizacao
 universidade
-quanto a
-a favor ou contra
+quantoa
+afavoroucontra
 atual
 gestao

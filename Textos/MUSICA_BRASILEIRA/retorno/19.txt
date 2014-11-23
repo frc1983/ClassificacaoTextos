@@ -40,7 +40,7 @@ Dener
 Pele
 dizer
 unico
-assim como
+assimcomo
 compositor
 alemao
 Beethoven
@@ -51,7 +51,7 @@ Michelangelo
 considerar
 Dener
 excepcional
-acima de
+acimade
 media
 porem
 achar
@@ -65,7 +65,7 @@ ontem
 nao
 ir
 jogo
-hoje a noite
+hojeanoite
 lamentar
 ausencia
 titular
@@ -91,7 +91,7 @@ curso
 futebol
 comprimentar
 friamente
-apesar de
+apesarde
 encontro
 Teixeira
 manter
@@ -103,7 +103,7 @@ passar
 dia
 ontem
 casa
-Vera Rodrigues
+VeraRodrigues
 Souza
 mae
 Dener
@@ -111,7 +111,7 @@ vila
 Ede
 zona
 norte
-Sao Paulo
+SaoPaulo
 Edinho
 varias
 crise
@@ -126,7 +126,7 @@ chegar
 bater
 carro
 novo
-Golf GTI
+GolfGTI
 vermelho
 parachoque
 carro
@@ -134,6 +134,6 @@ Portuguesa
 desporto
 AL
 colaborar
-UBIRATAN Brasil
+UBIRATANBrasil
 Reportagem
 local

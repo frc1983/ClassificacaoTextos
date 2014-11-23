@@ -14,8 +14,8 @@ carioca
 baile
 funk
 roda
-de pagode
-ANTONINA Lemos
+depagode
+ANTONINALemos
 ha
 mes
 vida
@@ -62,14 +62,14 @@ pessoa
 encarar
 desconfianca
 dizer
-apesar de
+apesarde
 estar
 afastar
 rua
 onde
 morar
 ha
-muito tempo
+muitotempo
 Wagner
 nao
 estar
@@ -85,7 +85,7 @@ desde
 massacre
 ano
 passar
-por causa de
+porcausade
 Wagner
 querer
 voltar
@@ -115,7 +115,7 @@ interromper
 apos
 chute
 mal
-dado que
+dadoque
 resultar
 perna
 quebrar
@@ -129,7 +129,7 @@ amigo
 Wagner
 reservar
 odio
-o que
+oque
 sentir
 mais
 raivar

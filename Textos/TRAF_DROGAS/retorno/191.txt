@@ -1,4 +1,4 @@
-Umberto Eco
+UmbertoEco
 escritor
 jornalista
 professor
@@ -10,14 +10,14 @@ Alessandria
 Italia
 publicar
 livro
-Obra Aberta
+ObraAberta
 tornar
 romancista
 sucesso
 publicar
 bestseller
-O Nome da Rosa
-o qual
+ONomedaRosa
+oqual
 usar
 conhecimento
 autor
@@ -28,8 +28,8 @@ publicar
 diversos
 obra
 semiotica
-Uma Teoria da Semiotica
-Filosofia da Linguagem
+UmaTeoriadaSemiotica
+FilosofiadaLinguagem
 bestseller
 romance
-O Pendulo de Foucault
+OPendulodeFoucault

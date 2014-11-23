@@ -1,5 +1,5 @@
 FABIO
-SOUZA Andrade
+SOUZAAndrade
 professor
 teoria
 literario
@@ -10,19 +10,18 @@ paulista
 conversar
 Poesia
 fragmento
-Friedrich Schlegel
+FriedrichSchlegel
 traducao
-VictorPierre Stirnimann
+VictorPierreStirnimann
 capa
-Marcelo Girard
+MarceloGirard
 biblioteca
 Polen
 iluminura
 r
 oscar
 Freire
-Sao Paulo
+SaoPaulo
 cep
 tel
- 
 fax

@@ -3,7 +3,7 @@ golfe
 Chile
 custar
 US
-Caesar Park
+CaesarPark
 pacote
 carnaval
 cruzeiro
@@ -14,7 +14,7 @@ geleira
 dia
 Chile
 estada
-Marbella Resort
+MarbellaResort
 km
 Santiago
 organizar
@@ -32,17 +32,17 @@ custar
 US
 CR
 mil
-por pessoa
+porpessoa
 quarto
 duplo
 incluir
 city
 tour
 Santiago
-Caesar Park
+CaesarPark
 pacote
 carnaval
-Caesar Park Ipanema
+CaesarParkIpanema
 Rio
 pacote
 noite
@@ -82,7 +82,7 @@ Chile
 opcao
 carnaval
 catamara
-Patagonia Express
+PatagoniaExpress
 cujo
 embarque
 preceder
@@ -93,7 +93,7 @@ Terma
 Puyuhuapi
 centro
 turistico
-proximo a
+proximoa
 geleira
 parte
 terrestre

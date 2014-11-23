@@ -19,10 +19,10 @@ pais
 plateia
 estar
 ensaista
-Antonio Candido
+AntonioCandido
 teatrologo
-Jose Celso Martinez Correa
-Fernando Henrique Cardoso
+JoseCelsoMartinezCorrea
+FernandoHenriqueCardoso
 entao
 professor
 sociologia

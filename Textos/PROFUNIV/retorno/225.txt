@@ -13,17 +13,17 @@ principio
 etica
 questao
 central
-Emmanuel Levinas
+EmmanuelLevinas
 pretender
 responder
-Humanismo do Outro Homem
+HumanismodoOutroHomem
 conjunto
 ensaio
 publicar
 aparecer
-em portugues
+emportugues
 Voz
-A Significacao e o Sentido
+ASignificacaoeoSentido
 artigo
 publicar
 Levinas
@@ -45,7 +45,7 @@ percepcao
 exprimir
 sentido
 diferente
-de acordo
+deacordo
 diferenca
 cultural
 historico
@@ -54,10 +54,10 @@ experiencia
 aparecer
 dotar
 subjetividade
-ou seja
+ouseja
 existencia
-alem de
-qualquer que seja
+alemde
+qualquerqueseja
 cultura
 considerar
 experiencia
@@ -76,14 +76,14 @@ alicercar
 ideia
 responsabilidade
 reciproco
-todo o
+todoo
 dotar
 consciencia
 sentido
 univoco
 experiencia
 sentido
-para alem de
+paraalemde
 diferenca
 historico
 cultural
@@ -99,7 +99,7 @@ previsivel
 teologia
 mundo
 passar
-visto como
+vistocomo
 expressao
 existencia
 absoluto
@@ -120,7 +120,7 @@ restante
 humanismo
 Anarquia
 publicar
-Sem Identidade
+SemIdentidade
 consequencia
 nefasto
 advento
@@ -135,7 +135,7 @@ tema
 concomitante
 fim
 humanismo
-desde que
+desdeque
 figura
 homem
 passar
@@ -157,7 +157,7 @@ apenas
 etica
 responsabilidade
 construir
-a partir de
+apartirde
 experiencia
 ressuscitar
 figura
@@ -201,22 +201,22 @@ realizavel
 mais
 projeto
 sentido
-seja como for
+sejacomofor
 leitor
 ficar
 atento
 mudanca
-as vezes
+asvezes
 imperceptivel
 falar
 Hume
-Tratado da Natureza Humana
+TratadodaNaturezaHumana
 presente
 linguagem
-todo o
+todoo
 texto
 moral
-o qual
+oqual
 autor
 passar
 subitamente
@@ -228,7 +228,7 @@ proposicao
 afirmar
 algo
 nao
-ALBERTO ALONSO MUNOZ
+ALBERTOALONSOMUNOZ
 doutorar
 filosofia
 USP

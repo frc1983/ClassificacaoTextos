@@ -2,7 +2,7 @@ comecar
 amanha
 Simposio
 interdisciplinar
-Estudos Gregos
+EstudosGregos
 realizar
 Departamento
 filosofia
@@ -15,15 +15,15 @@ Voz
 ir
 participar
 professor
-Sergio Cardoso
-JeanneMarie Gagnebin
-Jaa Torrano
-Mary C
-Neves Lafer
-alem de
+SergioCardoso
+JeanneMarieGagnebin
+JaaTorrano
+MaryC
+NevesLafer
+alemde
 artista
 plastico
-Wesley Duke Lee
+WesleyDukeLee
 informacao
 tel
 Pagu
@@ -36,7 +36,7 @@ paulista
 conto
 novena
 narrativa
-Osman Lins
+OsmanLins
 companhia
 Letra
 reedicao
@@ -48,5 +48,5 @@ originalmente
 publicar
 conto
 ADALGISA
-Carlo Emilio Gadda
+CarloEmilioGadda
 Rocco

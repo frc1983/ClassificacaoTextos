@@ -39,7 +39,7 @@ facil
 adaptacao
 ficar
 dentro
-fora de
+forade
 carro
 geralmente
 fixar
@@ -55,7 +55,7 @@ componente
 brake
 light
 adquirir
-de acordo
+deacordo
 modelo
 carro
 acessorio
@@ -66,10 +66,10 @@ lampada
 freio
 lanterna
 traseiro
-Tadeu Soares da Silva
+TadeuSoaresdaSilva
 gerente
 produto
-Bianco Savino
+BiancoSavino
 dizer
 tendencia
 mercado
@@ -106,7 +106,7 @@ legal
 tipo
 acidente
 acontecer
-por distracao
+pordistracao
 motorista
 tras
 nao

@@ -1,7 +1,7 @@
 PT
 pretender
 explorar
-o que
+oque
 considerar
 falta
 autoridade
@@ -19,19 +19,19 @@ escolha
 Maciel
 imposicao
 PFL
-Fernando Henrique Cardoso
+FernandoHenriqueCardoso
 epoca
 renuncia
-Janio Quadros
+JanioQuadros
 FHC
 professor
 sociologia
 USP
 estudar
-O Capital
+OCapital
 filosofo
 alemao
-Karl Marx
+KarlMarx
 movimento
 militar
 pedir
@@ -39,7 +39,7 @@ prisao
 FHC
 esconder
 Guaruja
-de volta
+devolta
 Brasil
 FHC
 ganhar
@@ -70,7 +70,7 @@ anterior
 ja
 articular
 anticandidatura
-Ulysses Guimaraes
+UlyssesGuimaraes
 MDB
 Presidencia
 sociologo
@@ -95,10 +95,10 @@ campanha
 abertura
 politico
 anistia
-Franco Montoro
+FrancoMontoro
 eleger
 governador
-Sao Paulo
+SaoPaulo
 PMDB
 FHC
 suplente
@@ -122,10 +122,10 @@ ate
 fim
 ano
 perder
-Janio Quadros
+JanioQuadros
 disputa
 Prefeitura
-Sao Paulo
+SaoPaulo
 FHC
 lider
 PMDB
@@ -162,7 +162,7 @@ PSDB
 Presidencia
 alianca
 PFL
-Marco Maciel
+MarcoMaciel
 Maciel
 estudar
 Direito
@@ -173,7 +173,7 @@ assessor
 novo
 governador
 Pernambuco
-Paulo Guerra
+PauloGuerra
 ate
 eleger
 deputado
@@ -183,7 +183,7 @@ Ai
 Maciel
 lider
 governo
-Nilo Coelho
+NiloCoelho
 Assembleia
 legislativo
 pernambucana
@@ -249,7 +249,7 @@ civil
 presidente
 PFL
 cargo
-o qual
+oqual
 escolher
 Maciel
 romper

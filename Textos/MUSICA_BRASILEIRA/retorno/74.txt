@@ -3,7 +3,7 @@ verdade
 renuncia
 primeiroministro
 japones
-Morihiro Hosokawa
+MorihiroHosokawa
 aumentar
 lista
 escandalo
@@ -18,7 +18,7 @@ elemento
 incerteza
 mercado
 internacional
-de um lado
+deumlado
 inspirador
 verificar
 Japao
@@ -31,11 +31,11 @@ publicamente
 erro
 aceitar
 consequencia
-ou seja
+ouseja
 impunidade
 nao
 regra
-ao mesmo tempo
+aomesmotempo
 entretanto
 lista
 escandalo
@@ -100,7 +100,7 @@ igualmente
 unico
 partido
 monopolizar
-o qual
+oqual
 ressurgir
 violencia
 politico

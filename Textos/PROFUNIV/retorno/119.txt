@@ -5,9 +5,9 @@ MTV
 pegar
 exemplo
 tocar
-FimdeSemana No Parque
-Mano na Porta do Bar
-Homem na Estrada
+FimdeSemanaNoParque
+ManonaPortadoBar
+HomemnaEstrada
 furioso
 hit
 racional
@@ -16,7 +16,7 @@ libelo
 pessoa
 frequentar
 exatamente
-casa noturna
+casanoturna
 jardim
 ouvir
 FM
@@ -50,8 +50,8 @@ rico
 so
 espiritualmente
 brincar
-KL Jay
-por enquanto
+KLJay
+porenquanto
 grupo
 continuar
 gravadora
@@ -98,7 +98,7 @@ descartar
 so
 dinheiro
 avisar
-Kl Jay
+KlJay
 voce
 abrir
 padaria
@@ -110,14 +110,14 @@ nao
 estar
 certo
 dizer
-Nino Kaskata
+NinoKaskata
 s
 divulgador
 gravadora
 homonimo
 contar
 catalogo
-Sampa Crew
+SampaCrew
 segundo
 sucesso
 rap
@@ -128,7 +128,7 @@ sugar
 jogar
 fora
 samba
-William Santiago
+WilliamSantiago
 dono
 Zimbabwe
 defender
@@ -171,4 +171,4 @@ rap
 racional
 MCs
 comecar
-Sao Paulo
+SaoPaulo

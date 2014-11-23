@@ -1,9 +1,9 @@
-SP Litoral
-SP Interior
-Minas Gerais
-Minas Gerais
-cerca de
-funcionario publico
+SPLitoral
+SPInterior
+MinasGerais
+MinasGerais
+cercade
+funcionariopublico
 Guaruja
 marcar
 proximo
@@ -17,7 +17,7 @@ protesto
 conversao
 salario
 uRV
-SP Interior
+SPInterior
 PM
 registrar
 mes
@@ -39,7 +39,7 @@ pessoa
 ficar
 ferir
 atropelar
-Minas Gerais
+MinasGerais
 terminar
 hoje
 belo
@@ -47,15 +47,15 @@ Horizonte
 campanha
 violencia
 promover
-Camara Municipal
-Policia Militar
-Minas Gerais
+CamaraMunicipal
+PoliciaMilitar
+MinasGerais
 Fundacao
 Hemominas
 realizar
 hoje
 durante
-todo o
+todoo
 dia
 coleta
 externo

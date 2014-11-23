@@ -1,6 +1,6 @@
 amazona
 amazona
-Mauro Sposito
+MauroSposito
 PF
 dizer
 prisao
@@ -9,7 +9,7 @@ trafico
 droga
 aeroporto
 Manaus
-mais de
+maisde
 comprovar
 Estado
 estar
@@ -20,7 +20,7 @@ amazona
 prefeito
 Nhamunda
 AM
-Pedro Baranda
+PedroBaranda
 comunicar
 Defesa
 civil
@@ -38,12 +38,12 @@ garimpeiro
 serra
 pelar
 exdeputado
-Sebastiao Curio
+SebastiaoCurio
 aceitar
 retorno
 Companhia
 Vale
-Rio Doce
+RioDoce
 garimpo
 localizar
 sudeste
@@ -56,7 +56,7 @@ adolescente
 ano
 fevereiro
 chacara
-Distrito Federal
+DistritoFederal
 Movimento
 nacional
 menino

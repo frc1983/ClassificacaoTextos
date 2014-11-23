@@ -34,7 +34,7 @@ ritmo
 tempo
 batida
 coracao
-todo o
+todoo
 ritmo
 vida
 comum
@@ -42,10 +42,10 @@ tempo
 relogio
 biologico
 igual
-todo o
+todoo
 especie
 possivel
-por exemplo
+porexemplo
 predador
 animal
 cacar
@@ -54,10 +54,10 @@ animal
 cacar
 viver
 espaco
-muito tempo
+muitotempo
 relogio
 baleia
-Nelson Marques
+NelsonMarques
 professor
 cronobiologia
 USP
@@ -110,5 +110,5 @@ sofrer
 acidente
 trabalho
 transito
-por causa de
+porcausade
 sono

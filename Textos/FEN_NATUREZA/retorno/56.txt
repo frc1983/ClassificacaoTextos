@@ -18,15 +18,15 @@ desabamento
 deslizamento
 terra
 segundo
-Maria Emilia Santos Freire
+MariaEmiliaSantosFreire
 responsavel
 setor
 estatistica
 Coordenadoria
-Defesa Civil
+DefesaCivil
 Codesal
 Salvador
-indice pluviometrico
+indicepluviometrico
 registrar
 ontem
 mm
@@ -36,7 +36,7 @@ tarde
 ontem
 PM
 identificar
-Jose Antonio
+JoseAntonio
 vitima
 desabamento
 casa
@@ -47,12 +47,12 @@ Salvador
 segundo
 testemunha
 casa
-Jose Antonio
+JoseAntonio
 barraco
 quarto
 sala
 desabar
-por volta de
+porvoltade
 morrer
 soterrar
 principal
@@ -63,6 +63,6 @@ ficar
 completamente
 congestionar
 durante
-todo o
+todoo
 manha
 ontem

@@ -14,7 +14,7 @@ hippie
 festival
 conseguir
 reunir
-cerca de
+cercade
 mil
 jovem
 fazenda
@@ -22,7 +22,7 @@ proximo
 cidade
 Bethel
 km
-Nova York
+NovaYork
 dia
 agosto
 atracao
@@ -30,18 +30,18 @@ festival
 estar
 quase
 nome
-Jimi Hendrix
-Janis Joplin
+JimiHendrix
+JanisJoplin
 morrer
 ano
 Santana
-Ten Years After
-Joan Baez
+TenYearsAfter
+JoanBaez
 imagem
 mais
 forte
 festival
-alem de
+alemde
 show
 pessoa
 enrolar
@@ -60,7 +60,7 @@ novo
 festival
 ha
 ano
-Woodstock Ventures
+WoodstockVentures
 festival
 proporcao
 mais
@@ -77,7 +77,7 @@ viver
 memoria
 ano
 atras
-dezenas de
+dezenasde
 loja
 ganhar
 dinheiro
@@ -115,7 +115,7 @@ infraestrutura
 carro
 nao
 chegar
-perto de
+pertode
 fazenda
 ambos
 cidade
@@ -130,7 +130,7 @@ contrato
 hotel
 restaurante
 local
-alem de
+alemde
 empresa
 alugar
 material

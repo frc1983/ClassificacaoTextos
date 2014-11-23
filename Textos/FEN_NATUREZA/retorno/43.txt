@@ -11,7 +11,7 @@ solo
 acao
 chuva
 vento
-como se
+comose
 balde
 agua
 caso
@@ -36,11 +36,11 @@ sustentar
 planta
 chao
 explicar
-Guido Jose da Costa
+GuidoJosedaCosta
 presidente
-Associacao dos Engenheiros Agronomos
+AssociacaodosEngenheirosAgronomos
 Estado
-Sao Paulo
+SaoPaulo
 buraco
 terra
 causar
@@ -55,7 +55,7 @@ levar
 desertificacao
 texto
 acima
-Rio Grande do Sul
+RioGrandedoSul
 ja
 haver
 exemplo

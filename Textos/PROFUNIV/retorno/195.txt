@@ -4,7 +4,7 @@ encontro
 Clube
 transatlantico
 rua
-Jose Guerra
+JoseGuerra
 santo
 amaro
 zona
@@ -14,31 +14,31 @@ haver
 convite
 disponivel
 Instituto
-Hans Staden
+HansStaden
 rua
-Senador Milton Campos
+SenadorMiltonCampos
 Brooklin
 zona
 sul
 Radio
 Cultura
 rua
-Carlos Spera
+CarlosSpera
 agua
 branco
 zona
 norte
-Sao Paulo
+SaoPaulo
 encontro
 divulgar
 programa
 Radio
-Cultura FM
+CulturaFM
 viagem
 Spix
 Martius
 transmitir
-uma vez
+umavez
 semana
 durante
 mes
@@ -54,9 +54,9 @@ coletar
 Martius
 gravar
 trio
-Anna Maria Kieffer
-Gisela Nogueira
-Edelton Gloeden
+AnnaMariaKieffer
+GiselaNogueira
+EdeltonGloeden
 dia
 dia
 exposicao
@@ -96,27 +96,27 @@ trecho
 percorrer
 Martius
 sao
-Joao Del Rey
+JoaoDelRey
 Januaria
 dia
 professor
 literatura
 alema
 USP
-Erwin Rosenthal
+ErwinRosenthal
 palestra
-Martius Escritor e Poeta
+MartiusEscritorePoeta
 dia
-Reinhold Ellert
+ReinholdEllert
 USP
 falar
-Martius o Etnologo
+MartiusoEtnologo
 dia
 professora
-Berta Lange
+BertaLange
 uspiana
 falar
-Martius o Botanico
+MartiusoBotanico
 dia
 palestra
 ano
@@ -125,8 +125,8 @@ roberto
 Tabacow
 Museu
 biologia
-Mello Leitao
-Espirito Santo
+MelloLeitao
+EspiritoSanto
 relatar
 pesquisa
 trajeto

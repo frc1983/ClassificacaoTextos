@@ -8,20 +8,20 @@ Ideia
 sublime
 belo
 escrever
-Edmund Burke
+EdmundBurke
 ano
 obraprima
 seculo
 celebrizar
 imediatamente
 autor
-a partir de
+apartirde
 receber
 segundo
 versao
 edicao
-Reino Unido
-ao longo de
+ReinoUnido
+aolongode
 ano
 seguinte
 Alemanha
@@ -41,7 +41,7 @@ firmar
 tema
 central
 seculo
-Tratado sobre o Sublime
+TratadosobreoSublime
 Longino
 resgatar
 antiguidade
@@ -64,12 +64,12 @@ Shaftesbury
 Hutcheson
 amigo
 Hume
-Adam Smith
+AdamSmith
 parte
 tradicao
 autor
 naocontinental
-ao longo de
+aolongode
 seculo
 querer
 acertar
@@ -82,7 +82,7 @@ moral
 hobbesiano
 comecar
 Shaftesbury
-em vez de
+emvezde
 subordinar
 etica
 contrato
@@ -92,7 +92,7 @@ Estado
 formular
 ideal
 conduta
-o qual
+oqual
 virtude
 individual
 bom
@@ -125,7 +125,7 @@ permitir
 distinguir
 certo
 errar
-assim como
+assimcomo
 paladar
 distinguir
 amargo
@@ -155,9 +155,9 @@ sublime
 belo
 origem
 irredutivel
-entre si
+entresi
 romper
-de vez
+devez
 doutrina
 neoclassico
 tender
@@ -165,7 +165,7 @@ sublime
 mero
 superlativo
 belo
-ponto de vista
+pontodevista
 Hobbes
 vantagem
 enorme
@@ -173,7 +173,7 @@ emprego
 oposicao
 belo
 sublime
-a fim de
+afimde
 explicar
 homem
 interagir
@@ -195,20 +195,19 @@ sociabilidade
 despertar
 qualidade
 social
-por que
 necessario
 recorrer
 espada
 Leviata
 manter
 ordem
-assim como
+assimcomo
 problema
 autoridade
 receber
 corolario
 subjetivo
-ao contrario de
+aocontrariode
 pensar
 Hobbes
 nao
@@ -226,7 +225,7 @@ homem
 predisposicao
 sentimental
 indicar
-o inverso
+oinverso
 sublime
 tambem
 entrar
@@ -248,7 +247,7 @@ figura
 sentir
 certo
 distancia
-por exemplo
+porexemplo
 encenar
 causar
 deleite
@@ -256,13 +255,13 @@ delight
 lembrar
 solidao
 absoluto
-o qual
+oqual
 proteger
 justamente
 inscricao
 ordem
 coletivo
-em contrapartida
+emcontrapartida
 Burke
 tambem
 reconhecer
@@ -278,10 +277,10 @@ critica
 superficialidade
 sociabilidade
 burgues
-com efeito
+comefeito
 sublime
 Burke
-tal como
+talcomo
 simplicidade
 natural
 evocar
@@ -290,7 +289,7 @@ convidar
 parentese
 universo
 compartilhar
-como se
+comose
 sair
 indispensavel
 reflexao
@@ -300,7 +299,7 @@ querer
 desarmar
 nucleo
 consenso
-como se
+comose
 principio
 obstaculo
 pensamento

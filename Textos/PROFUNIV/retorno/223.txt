@@ -1,10 +1,10 @@
 dia
 marco
-Maison de lAmerique Latine
+MaisondelAmeriqueLatine
 Paris
 haver
 debate
-Histoire et Narration Chez Walter Benjamin
+HistoireetNarrationChezWalterBenjamin
 livro
 recempublicar
 professora
@@ -12,12 +12,12 @@ filosofia
 PUC
 SP
 Unicamp
-JeanneMarie Gagnebin
+JeanneMarieGagnebin
 Sucesso
 nao
 ocorrer
 acaso
-Lair Ribeiro
+LairRibeiro
 objetiva
 CR
 medico
@@ -38,7 +38,7 @@ empresa
 seculo
 comunicacao
 global
-Lair Ribeiro
+LairRibeiro
 objetiva
 CR
 manual
@@ -48,7 +48,7 @@ situacao
 comunicacao
 emagrecer
 comer
-Lair Ribeiro
+LairRibeiro
 objetiva
 CR
 propor
@@ -61,7 +61,7 @@ mental
 manuscrito
 Mar
 morto
-Edmund Wilson
+EdmundWilson
 companhia
 Letra
 CR
@@ -75,7 +75,7 @@ polemica
 prosperidade
 Amizade
 Dinheiro
-Lair Ribeiro
+LairRibeiro
 objetiva
 CR
 dica
@@ -85,7 +85,7 @@ dinheiro
 arte
 Manha
 Seducao
-Marion Vianna Penteado
+MarionViannaPenteado
 saraivar
 CR
 dica
@@ -95,10 +95,10 @@ mulher
 Poder
 DOS
 suco
-Jay Kordich
+JayKordich
 atico
 CR
-mais de
+maisde
 cem
 receita
 compor
@@ -111,9 +111,9 @@ P
 d
 curar
 Vida
-Louise L
+LouiseL
 Hay
-Best Seller
+BestSeller
 CR
 metodo
 aprimoramento
@@ -122,7 +122,7 @@ curar
 doenca
 minuto
 sabedoria
-Carlos Torres Pastorino
+CarlosTorresPastorino
 voz
 CR
 simples

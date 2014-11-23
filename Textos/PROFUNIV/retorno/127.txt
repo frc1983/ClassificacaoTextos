@@ -8,9 +8,9 @@ pista
 mundo
 manguebeat
 pernambucano
-Chico Science
+ChicoScience
 chegar
-Sao Paulo
+SaoPaulo
 rap
 periferia
 render
@@ -25,7 +25,7 @@ movimento
 mangar
 beat
 liderar
-Chico Science
+ChicoScience
 acima
 banda
 Mundo
@@ -43,7 +43,7 @@ novela
 Globo
 show
 eixo
-RioSao Paulo
+RioSaoPaulo
 funcionariopublico
 Recife
 abrir
@@ -73,19 +73,19 @@ CDs
 ha
 mes
 cantar
-pela enesima vez
+pelaenesimavez
 verso
-Nao confio na policia raca do caralho
+Naoconfionapoliciaracadocaralho
 musica
-O Homem na Estrada
-Sao Paulo
+OHomemnaEstrada
+SaoPaulo
 quarteto
 prender
 incitar
 crime
 violencia
-peito aberto
-Gal Costa
+peitoaberto
+GalCosta
 esq
 ano
 perder
@@ -93,7 +93,7 @@ quilo
 mostrar
 seio
 show
-O Sorriso do Gato de Alice
+OSorrisodoGatodeAlice
 estrear
 marco
 Rio
@@ -107,19 +107,19 @@ moralista
 publico
 vaiar
 diretor
-Gerald Thomas
+GeraldThomas
 mistura
 explosivo
 jazz
 rap
-acid jazz
+acidjazz
 fenomeno
 internacional
 ano
 lancar
 selo
 jazz
-Blue Note
+BlueNote
 disco
 grupo
 ingles

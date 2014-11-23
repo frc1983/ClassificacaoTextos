@@ -1,14 +1,14 @@
 preco
 carne
 subir
-quinze dias
+quinzedias
 preco
 carne
 bovino
 subir
-mais de
+maisde
 ultimo
-quinze dias
+quinzedias
 segundo
 vicepresidente
 Sindipec
@@ -17,7 +17,7 @@ nacional
 pecuarista
 gado
 corte
-Victor Abou Nehme
+VictorAbouNehme
 preco
 carne
 ultimo
@@ -33,14 +33,14 @@ estar
 normal
 Nehme
 Sindipec
-cerca de
+cercade
 mil
 cabeca
 gado
 morrer
 estiagem
 prolongar
-Edson Romanholi
+EdsonRomanholi
 proprietario
 frigorifico
 Marba
@@ -57,7 +57,7 @@ perder
 interesse
 vender
 boi
-Gilberto Neves
+GilbertoNeves
 dono
 Casa
 carne

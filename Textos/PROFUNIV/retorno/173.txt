@@ -3,14 +3,14 @@ seguro
 aparicao
 Maciel
 TV
-FERNANDO RODRIGUES
+FERNANDORODRIGUES
 PSDB
 nao
 saber
 mostrar
 candidato
 vicepresidente
-Marco Maciel
+MarcoMaciel
 comercial
 politico
 tV
@@ -27,7 +27,7 @@ renunciar
 candidatura
 anteontem
 entrada
-Marco Maciel
+MarcoMaciel
 apenas
 manter
 situacao
@@ -45,7 +45,7 @@ afastar
 possivel
 TV
 programa
-Fernando Henrique
+FernandoHenrique
 ja
 estar
 definir
@@ -103,7 +103,7 @@ descricao
 vida
 FHC
 apresentar
-junto com
+juntocom
 superposicao
 fotografia
 antigo
@@ -112,7 +112,7 @@ relato
 vida
 candidato
 haver
-pelo menos
+pelomenos
 erro
 factual
 FHC
@@ -121,16 +121,16 @@ compulsoriamente
 cargo
 professor
 Universidade
-Sao Paulo
+SaoPaulo
 uSP
 comercial
-ontem de manha
+ontemdemanha
 PSDB
 enviar
 fita
 mais
 curto
-do que
+doque
 tempo
 disponivel
 m
@@ -144,10 +144,10 @@ informar
 tempo
 estar
 reservar
-Fernando Henrique
+FernandoHenrique
 versao
 oficial
-e que
+eque
 fita
 programa
 amassar

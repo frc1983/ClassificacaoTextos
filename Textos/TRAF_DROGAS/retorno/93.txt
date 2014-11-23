@@ -1,17 +1,17 @@
 Alagoas
-Rio Grande do Norte
+RioGrandedoNorte
 maranhao
 Pernambuco
 Sergipe
 vereador
-Sergio Quintela
+SergioQuintela
 PMN
 Maceio
 filho
 secretario
 seguranca
 publico
-Rubens Quintela
+RubensQuintela
 morrer
 ontem
 acidente
@@ -19,7 +19,7 @@ carro
 rodovia
 AL
 assessor
-Andre Paz
+AndrePaz
 nada
 sofrer
 Alagoas
@@ -50,7 +50,7 @@ concerto
 novo
 trabalho
 quinteto
-Rio Grande do Norte
+RioGrandedoNorte
 Prefeitura
 Natal
 distribuir
@@ -59,7 +59,7 @@ escola
 municipal
 material
 escolar
-ano letivo
+anoletivo
 comecar
 proximo
 segundafeira
@@ -98,7 +98,7 @@ Pernambuco
 Policia
 militar
 iniciar
-Operacao Sete Chaves
+OperacaoSeteChaves
 operacao
 visar
 fiscalizar

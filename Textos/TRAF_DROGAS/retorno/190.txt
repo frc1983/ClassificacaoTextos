@@ -10,7 +10,7 @@ ano
 passar
 inicio
 mostrar
-o que
+oque
 fotografo
 esperar
 restante
@@ -20,9 +20,9 @@ prometer
 bom
 editora
 internacional
-Walker Evans
+WalkerEvans
 the
-Hungry Eye
+HungryEye
 coletanea
 mais
 importante
@@ -37,11 +37,11 @@ mao
 escritor
 Flaubert
 inspiracao
-An AutoBiography
-Richard Avedon
+AnAutoBiography
+RichardAvedon
 testamento
 norteamericano
-Irving Penn
+IrvingPenn
 influencia
 mundo
 moda
@@ -70,14 +70,14 @@ ilusao
 editora
 espanhol
 Lugnwerg
-Espanha Oculta
-Cristina Garcia Rodero
+EspanhaOculta
+CristinaGarciaRodero
 revelar
 festa
 popular
 cidade
 espanhol
-Cindy Sherman
+CindySherman
 antologia
 significativo
 surpreendente
@@ -91,11 +91,11 @@ forma
 expressao
 texto
 excelente
-Rosalind Krauss
+RosalindKrauss
 professora
 historia
 arte
-Columbia University
+ColumbiaUniversity
 onde
 encontrar
 LETRAVIVA

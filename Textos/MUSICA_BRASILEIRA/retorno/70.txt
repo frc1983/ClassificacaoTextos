@@ -1,14 +1,13 @@
-por que
 agua
 mar
 salgar
-Flavio Jose
+FlavioJose
 dar
-Stefano F
+StefanoF
 estudante
 Irapuru
 SP
-Rolf Weber
+RolfWeber
 departamento
 oceanografia
 fisico
@@ -21,10 +20,10 @@ mar
 composicao
 estavel
 ha
-cerca de
+cercade
 milhao
 ano
-devido a
+devidoa
 balanco
 fluxo
 substancia
@@ -63,7 +62,7 @@ aproximadamente
 constante
 correspondencia
 secao
-Sem Misterio
+SemMisterio
 encaminhar
 Editora
 ciencia
@@ -71,7 +70,7 @@ barao
 Limeira
 andar
 cep
-Sao Paulo
+SaoPaulo
 SP
 nome
 idade

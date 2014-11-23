@@ -64,10 +64,10 @@ inerente
 heranca
 cultural
 artigo
-Codigo Penal
+CodigoPenal
 tipificar
 peculato
-propriamente dito
+propriamentedito
 peculatofurto
 chamado
 peculatodesvio
@@ -76,7 +76,7 @@ culposo
 aludir
 peculato
 uso
-o que
+oque
 acontecer
 tambem
 decretolei
@@ -94,7 +94,7 @@ Codigo
 jamais
 chegar
 entrar
-em vigor
+emvigor
 assistir
 hoje
 utilizacao
@@ -126,7 +126,7 @@ alto
 funcionario
 ir
 casar
-quanto a
+quantoa
 reforma
 casa
 emprestimo
@@ -183,7 +183,7 @@ situacao
 atual
 mais
 utilizacao
-funcionario publico
+funcionariopublico
 servico
 particular
 servidor
@@ -191,14 +191,14 @@ alto
 escalao
 inclusive
 estatal
-em face de
+emfacede
 artigo
-Codigo Penal
+CodigoPenal
 tornar
 responsabilizar
 funcionario
 diretor
-alem de
+alemde
 ocasionar
 prejuizo
 administracao
@@ -231,7 +231,7 @@ patrimonialista
 resultar
 capitalismo
 selvagem
-alem de
+alemde
 servir
 gerar
 confusao
@@ -252,7 +252,7 @@ vetusto
 Acordao
 Tribunal
 justica
-Sao Paulo
+SaoPaulo
 corriqueiro
 usual
 nao
@@ -269,13 +269,13 @@ Administracao
 publico
 haver
 combater
-servidor publico
+servidorpublico
 nao
 eleger
 social
 pensar
 Marx
-Miseria da Filosofia
+MiseriadaFilosofia
 buscar
 explicar
 quase
@@ -287,17 +287,17 @@ empregar
 Estado
 incumbir
 bom
-em prol de
+emprolde
 bom
 funcionamento
 administracao
-MARCELO Fortes Barbosa
+MARCELOFortesBarbosa
 desembargador
 Tribunal
 justica
-Sao Paulo
+SaoPaulo
 professor
-de direito
+dedireito
 penal
 USP
 processo

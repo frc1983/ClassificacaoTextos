@@ -44,10 +44,10 @@ Frase
 Mussolini
 estadista
 seculo
-Gianfranco Fini
+GianfrancoFini
 lider
 neofascista
-Movimento Social Italiano
+MovimentoSocialItaliano
 declaracao
 Duce
 desde
@@ -57,7 +57,7 @@ eleicao
 inicio
 semana
 jornal
-La Stampa
+LaStampa
 homem
 condenar
 decepamento
@@ -69,7 +69,7 @@ amante
 mulher
 colocar
 cabeca
-ao lado de
+aoladode
 cama
 hospital
 considerar
@@ -82,7 +82,7 @@ sentenca
 condenar
 prisao
 perpetuo
-Stephen Schap
+StephenSchap
 demonstrar
 emocao
 rico
@@ -124,7 +124,7 @@ punicao
 chibatar
 garoto
 norteamericano
-Michael Peter Fay
+MichaelPeterFay
 receber
 pichar
 carro
@@ -139,7 +139,7 @@ Saara
 sul
 Argelia
 deixar
-pelo menos
+pelomenos
 morto
 ferir
 pessoa
@@ -155,7 +155,7 @@ enviar
 ameaca
 presidente
 norteamericano
-Bill Clinton
+BillClinton
 atraves
 corrreio
 eletronico
@@ -167,8 +167,8 @@ terremoto
 atingir
 oeste
 Venezuela
-tremor de terra
-San Cristobal
+tremordeterra
+SanCristobal
 Venezuela
 atingir
 grau

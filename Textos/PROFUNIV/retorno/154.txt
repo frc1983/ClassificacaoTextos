@@ -4,7 +4,7 @@ modo
 enxergar
 comida
 descobrir
-modo de vida
+mododevida
 urbano
 influenciar
 valor
@@ -15,7 +15,7 @@ refeicao
 objetivo
 dissertacao
 mestrado
-Rosa Garcia
+RosaGarcia
 representacao
 social
 Comida
@@ -26,14 +26,14 @@ apresentar
 Instituto
 psicologia
 Universidade
-Sao Paulo
+SaoPaulo
 uSP
 obter
 nota
-com distincao
+comdistincao
 orientar
 professora
-Luiza Alonso Fernandes
+LuizaAlonsoFernandes
 USP
 segundo
 Rosa
@@ -41,7 +41,7 @@ nutricionista
 professora
 PUC
 campina
-junto com
+juntocom
 alimento
 ingerir
 digerir
@@ -51,7 +51,7 @@ conclusao
 Rosa
 entrevistar
 grupo
-funcionario publico
+funcionariopublico
 tecnico
 administrativo
 trabalhar
@@ -59,9 +59,9 @@ comer
 centro
 velho
 cidade
-Sao Paulo
+SaoPaulo
 rua
-Libero Badaro
+LiberoBadaro
 Bento
 adjacencia
 entrevista
@@ -76,12 +76,12 @@ contraste
 valor
 atribuir
 refeicao
-em casa
+emcasa
 rua
 comer
-em casa
+emcasa
 bom
-no entanto
+noentanto
 entrevista
 distincao
 pessoa
@@ -99,7 +99,7 @@ afeto
 investir
 valor
 familiar
-modo de vida
+mododevida
 urbano
 influenciar
 tambem
@@ -109,7 +109,7 @@ tempo
 espaco
 dedicar
 refeicao
-em casa
+emcasa
 vice
 versar
 restaurante

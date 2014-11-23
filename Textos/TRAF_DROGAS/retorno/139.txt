@@ -1,7 +1,7 @@
 Rio
 entrar
 som
-Rod Stewart
+RodStewart
 bom
 remedio
 combater
@@ -13,7 +13,7 @@ show
 gratuito
 acontecer
 Rio
-Sao Paulo
+SaoPaulo
 gostar
 samba
 nao
@@ -21,8 +21,8 @@ perder
 show
 Martinho
 Vila
-Joao Nogueira
-Ivone Lara
+JoaoNogueira
+IvoneLara
 grupo
 Batacoto
 programar
@@ -76,15 +76,15 @@ dominar
 programacao
 show
 reveillon
-Sao Paulo
+SaoPaulo
 palco
 vale
 Anhangabau
 ir
 revezar
 grupo
-Ginga Pura
-Sampa Crew
+GingaPura
+SampaCrew
 filho
 Olodum
 Toque

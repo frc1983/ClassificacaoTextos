@@ -13,7 +13,7 @@ nao
 definir
 regra
 comportamento
-Ivonete Theodoro
+IvoneteTheodoro
 mae
 Flavia
 Alexandre
@@ -32,12 +32,12 @@ limite
 dificil
 dar
 segundo
-um pouco
+umpouco
 desligar
 acabar
 desobedecer
 querer
-o que
+oque
 sentir
 vontade
 impor
@@ -61,7 +61,7 @@ acabar
 consertar
 ponto
 Ivonete
-Carlos Eduardo Carvalho Freire
+CarlosEduardoCarvalhoFreire
 professor
 teoria
 tecnica
@@ -77,7 +77,7 @@ assumir
 limite
 colocar
 filho
-hoje em dia
+hojeemdia
 nao
 existir
 referencia
@@ -97,7 +97,7 @@ segundo
 colegial
 Oswald
 Andrade
-Yudith Rosenbaum
+YudithRosenbaum
 considerar
 pai
 estar
@@ -108,18 +108,18 @@ educacao
 diferente
 pedir
 limite
-de fora
+defora
 precisar
 chao
 afeto
 tambem
-de lei
+delei
 falta
 regra
 fundo
 abandono
 dizer
-a favor de
+afavorde
 dialogo
 dizer
 pai

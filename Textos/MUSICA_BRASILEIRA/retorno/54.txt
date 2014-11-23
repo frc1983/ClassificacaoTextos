@@ -1,6 +1,6 @@
-Santa Catarina
+SantaCatarina
 Parana
-Rio Grande do Sul
+RioGrandedoSul
 fiscal
 Vigilancia
 sanitario
@@ -18,7 +18,7 @@ atender
 Palhoca
 Sao
 Jose
-Santa Catarina
+SantaCatarina
 Florianopolis
 operacao
 desratizacao
@@ -40,14 +40,14 @@ Laurindo
 PMDB
 decidir
 empregar
-em frente de
+emfrentede
 trabalho
-Julio da Silva
+JuliodaSilva
 expulsar
 cascavel
 inicio
 semana
-Rio Grande do Sul
+RioGrandedoSul
 setenta
 grafiteiro
 artista
@@ -60,7 +60,7 @@ cais
 porto
 zona
 central
-Porto Alegre
+PortoAlegre
 construcao
 visar
 conter

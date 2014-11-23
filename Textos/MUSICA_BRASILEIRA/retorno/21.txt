@@ -6,12 +6,12 @@ voce
 provavelmente
 nao
 saber
-Paul McCartney
+PaulMcCartney
 morrer
-tudo o que
+tudooque
 dizer
 certeza
-Paul McCartney
+PaulMcCartney
 estar
 vivo
 estar
@@ -19,7 +19,7 @@ morrer
 declarar
 epoca
 apresentador
-NBC John Chancelor
+NBCJohnChancelor
 Londres
 gravadora
 Beatles
@@ -35,26 +35,26 @@ disco
 vender
 obra
 banda
-dentro de
+dentrode
 caixa
 preto
 chamado
-Caixa de Funeral de Paul McCartney
+CaixadeFuneraldePaulMcCartney
 segundo
 Reeve
 boato
 comecar
 musica
-Saint Paul
+SaintPaul
 produzir
 americano
-Terry Knight
+TerryKnight
 outubro
 DJ
 Detroit
 norte
 EUA
-Russ Gib
+RussGib
 receber
 ligacao
 anonimo
@@ -65,10 +65,10 @@ morrer
 pedir
 tocar
 musica
-Revolution Nine
+RevolutionNine
 tras
 frente
-ao inves de
+aoinvesde
 number
 ninar
 number
@@ -83,7 +83,7 @@ homem
 morto
 ouvinte
 Gibb
-Adam LaBour
+AdamLaBour
 inventar
 detalhe
 morte
@@ -92,7 +92,7 @@ acidente
 carro
 existencia
 sosia
-William Campbell
+WilliamCampbell
 dica
 morte
 capa
@@ -121,7 +121,7 @@ McCartney
 nao
 querer
 aparecer
-em publico
+empublico
 fa
 vigilia
 porta

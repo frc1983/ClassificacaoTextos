@@ -1,5 +1,5 @@
 traducao
-JORIO DAUSTER
+JORIODAUSTER
 Filho
 lider
 democrata
@@ -31,12 +31,12 @@ traducao
 Nabokov
 Brasil
 Lolita
-A Pessoa em Questao
+APessoaemQuestao
 ambos
 Companhia
 Letra
-Nicolai Gogol
-Uma Fotobiografia
+NicolaiGogol
+UmaFotobiografia
 ambos
 ar
 Poetica
@@ -44,6 +44,6 @@ conto
 lado
 integrar
 coletanea
-A Destruicao dos Tiranos e Outros Contos
+ADestruicaodosTiranoseOutrosContos
 sairr
 ciar

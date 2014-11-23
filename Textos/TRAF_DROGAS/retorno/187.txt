@@ -1,7 +1,7 @@
 saber
 avaliacao
 teste
-PageMaker Classic
+PageMakerClassic
 realizar
 Laboratorio
 didatico
@@ -13,12 +13,12 @@ matematico
 sao
 Carlos
 universidade
-Sao Paulo
+SaoPaulo
 participar
 teste
-Rosely Sanches
-Sandra Aluisio
-Rosely Sanches
+RoselySanches
+SandraAluisio
+RoselySanches
 doutora
 administracao
 empresa
@@ -32,7 +32,7 @@ software
 linguagem
 quarto
 geracao
-Sandra Aluisio
+SandraAluisio
 doutorando
 linguistica
 computacional
@@ -44,11 +44,11 @@ linguagem
 formal
 estrutura
 dado
-linguagem de programacao
+linguagemdeprogramacao
 teste
 tambem
 colaboracao
-Paulo Perez
+PauloPerez
 alunar
 mestrado
 ICMSCUSP
@@ -58,7 +58,7 @@ microcomputador
 DX
 MHz
 Mbytes
-de memoria
+dememoria
 RAM
 disco
 rigido
@@ -73,13 +73,13 @@ kbytes
 seg
 avaliacao
 pacote
-PageMaker Classic
+PageMakerClassic
 considerar
 caracteristica
 fundamental
 necessario
 programa
-editoracao eletronica
+editoracaoeletronica
 verificar
 conjunto
 analisar

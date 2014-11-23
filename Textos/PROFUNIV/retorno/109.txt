@@ -14,7 +14,7 @@ sala
 Dina
 Sfat
 teatro
-Ruth Escobar
+RuthEscobar
 pedir
 ARN
 grupo
@@ -23,11 +23,11 @@ Trupe
 direcao
 gringo
 Cardia
-Deborah Colker
-Valeria Martins
+DeborahColker
+ValeriaMartins
 onde
 teatro
-Ruth Escobar
+RuthEscobar
 sala
 Dina
 Sfat
@@ -48,9 +48,9 @@ intrepido
 Trupe
 estrear
 hoje
-Sao Paulo
+SaoPaulo
 Teatro
-Ruth Escobar
+RuthEscobar
 peca
 ARN
 misturar
@@ -64,7 +64,7 @@ experimentar
 multimidia
 palco
 dizer
-Dani Lima
+DaniLima
 integrante
 trupe
 peca
@@ -104,7 +104,7 @@ area
 ARN
 ja
 estar
-Sao Paulo
+SaoPaulo
 versao
 show
 contar
@@ -123,7 +123,7 @@ dizer
 Geraldim
 grupo
 temporada
-Rio de Janeiro
+RiodeJaneiro
 publico
 apresentacao
 bem
@@ -133,26 +133,26 @@ levar
 pai
 viceversar
 dizer
-Alberto Magalhaes
+AlbertoMagalhaes
 ator
 recusar
 rotulo
 espetaculo
 infantil
-alem de
+alemde
 apresentacao
 regular
 trupe
 participar
 projeto
-Se Essa Rua Fosse Minha
+SeEssaRuaFosseMinha
 coordenacao
 sociologo
 Herbert
 Souza
 Betinho
 nao
-sempre que
+sempreque
 circo
 montar
 teatro

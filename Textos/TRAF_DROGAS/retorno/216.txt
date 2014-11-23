@@ -1,7 +1,7 @@
 voz
 celestial
 desrazao
-A Loucura e as Epocas
+ALoucuraeasEpocas
 reconstituir
 diverso
 visao
@@ -13,7 +13,7 @@ ate
 herdeiro
 pinel
 seculo
-MOACYR SCLIAR
+MOACYRSCLIAR
 jovem
 ano
 anunciar
@@ -44,13 +44,13 @@ historia
 mostrar
 brilho
 competencia
-Isaias Pessotti
+IsaiasPessotti
 professor
 psicologia
 USP
 ribeirao
 preto
-A Loucura e as Epocas
+ALoucuraeasEpocas
 so
 Pessotti
 ganhador
@@ -131,7 +131,7 @@ medicina
 grego
 incorporar
 romano
-dentro de
+dentrode
 orientacao
 hipocratico
 galeno
@@ -150,13 +150,13 @@ melancolico
 imaginar
 concha
 evitar
-todo o
+todoo
 transeunte
 medo
 esmigalhar
-ponto de vista
+pontodevista
 medico
-Idade Media
+IdadeMedia
 periodo
 estagnacao
 deus
@@ -181,7 +181,7 @@ virtude
 instabilidade
 comportamento
 fim
-Idade Media
+IdadeMedia
 surgir
 manual
 ir
@@ -192,21 +192,21 @@ lidar
 possessao
 diabolico
 famoso
-Malleus Maleficarum
+MalleusMaleficarum
 bruxa
 queimar
-por causa de
+porcausade
 perseguicao
 religioso
 razao
 historico
 ocultismo
-muitas vezes
+muitasvezes
 desempenhar
 papel
 subversivo
 disfarce
-o qual
+oqual
 apresentar
 ideia
 modernidade
@@ -221,13 +221,13 @@ surgir
 conceito
 alienacao
 possibilitar
-por sua vez
+porsuavez
 emergencia
 alienista
 tao
 bem
 retratar
-Machado de Assis
+MachadodeAssis
 gesto
 misericordioso
 pinel
@@ -255,7 +255,7 @@ constrangedoramente
 pobre
 pinel
 terminar
-A Loucura e as Epocas
+ALoucuraeasEpocas
 ja
 antecipar
 continuacao

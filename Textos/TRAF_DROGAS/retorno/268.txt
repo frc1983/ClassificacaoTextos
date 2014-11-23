@@ -1,14 +1,14 @@
 fauna
 teen
 radionovela
-Gilmar Rodrigues
+GilmarRodrigues
 largar
-Porto Alegre
+PortoAlegre
 menos
 namorada
 tentar
 sorte
-Sao Paulo
+SaoPaulo
 ancorar
 Transamerica
 onde
@@ -21,9 +21,9 @@ Novela
 Adolescente
 Animal
 domestico
-Mundo Animal
+MundoAnimal
 contar
-com humor
+comhumor
 historia
 grupo
 teen
@@ -44,7 +44,7 @@ Alex
 viver
 mudar
 voz
-Paula Antonia
+PaulaAntonia
 mistica
 amigo
 Linda
@@ -69,7 +69,7 @@ grupo
 teatro
 apresentar
 escola
-Porto Alegre
+PortoAlegre
 transferir
 alvo
 jovem
@@ -79,7 +79,7 @@ Cobra
 virar
 rever
 antimidia
-uma vez
+umavez
 publicar
 tabela
 preco
@@ -92,14 +92,14 @@ quadrinho
 Dundum
 patrocinar
 Prefeitura
-Porto Alegre
+PortoAlegre
 Rodrigues
 projeto
 tipo
-Mundo Animal
+MundoAnimal
 teatro
 quadrinho
 esperar
 filho
 chegar
-ano que vem
+anoquevem

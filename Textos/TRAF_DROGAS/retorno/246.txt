@@ -3,7 +3,7 @@ vigilia
 trafico
 enviado
 especial
-Orange Hats
+OrangeHats
 bone
 laranja
 nome
@@ -15,7 +15,7 @@ trafico
 droga
 regiao
 sudeste
-Washington D
+WashingtonD
 D
 mais
 pobre
@@ -26,7 +26,7 @@ ha
 ano
 atuar
 cidade
-ao todo
+aotodo
 mil
 participante
 mae

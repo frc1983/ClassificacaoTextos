@@ -13,14 +13,14 @@ preco
 interno
 Bolsa
 Londres
-Nova York
+NovaYork
 fechar
 baixa
 saca
 cafe
 bom
 qualidade
-por exemplo
+porexemplo
 vender
 Parana
 R
@@ -29,7 +29,7 @@ R
 dia
 seguinte
 Bolsa
-Nova York
+NovaYork
 variacao
 equivaler
 ate
@@ -49,7 +49,7 @@ previsao
 oficial
 queda
 producao
-devido a
+devidoa
 geada
 diferenca
 previsao
@@ -61,7 +61,7 @@ exportador
 preferir
 nao
 identificar
-Manoel Bertone
+ManoelBertone
 presidente
 Conselho
 nacional
@@ -81,7 +81,7 @@ vender
 cafe
 hora
 errar
-ja que
+jaque
 estar
 pleno
 safra
@@ -100,7 +100,7 @@ superar
 milhao
 saca
 consequencia
-e que
+eque
 medida
 estar
 favorecer
@@ -108,11 +108,11 @@ mais
 industria
 comprar
 produto
-do que
+doque
 consumidor
 industria
 queixa
-e que
+eque
 media
 preco
 leilao

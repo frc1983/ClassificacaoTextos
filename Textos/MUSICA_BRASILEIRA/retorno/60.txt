@@ -14,7 +14,7 @@ ultimo
 ano
 consumo
 continuar
-abaixo de
+abaixode
 setembro
 valor
 perder
@@ -24,7 +24,7 @@ US
 registrar
 setembro
 dizer
-Jose Vicente Ferraz
+JoseVicenteFerraz
 consultor
 FNP
 proximo
@@ -44,14 +44,14 @@ forte
 estiagem
 atingir
 Estado
-Sao Paulo
+SaoPaulo
 regiao
 Goias
-Mato Grosso
+MatoGrosso
 Parana
-alem de
+alemde
 procura
-por parte de
+porpartede
 frigorifico
 explicar
 subida
@@ -76,10 +76,10 @@ recuperar
 outubro
 pagamento
 novo
-salario minimo
+salariominimo
 dizer
 haver
-uma boa dose
+umaboadose
 especulacao
 alta
 oferta
@@ -102,7 +102,7 @@ competitivo
 consumo
 continuar
 fraco
-Valcir Milanelo
+ValcirMilanelo
 dono
 Casa
 carne
@@ -112,7 +112,7 @@ queda
 venda
 movimento
 estar
-abaixo de
+abaixode
 Milanelo
 resolver
 dar
@@ -125,7 +125,7 @@ aumento
 preco
 boi
 dizer
-Marcelo Panico
+MarceloPanico
 gerente
 acougue
 Ipanema

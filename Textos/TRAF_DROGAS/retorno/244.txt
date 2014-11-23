@@ -13,7 +13,7 @@ mestrado
 traficante
 formar
 EUA
-casa de detencao
+casadedetencao
 penitenciario
 paulista
 guardar
@@ -26,7 +26,7 @@ elite
 intelectual
 presidio
 caso
-Sinca S
+SincaS
 prender
 Carandiru
 zona
@@ -38,7 +38,7 @@ bacharelar
 direito
 USP
 caso
-Marcos T
+MarcosT
 tambem
 Casa
 detencao
@@ -51,12 +51,12 @@ administracao
 empresa
 FGV
 fundacao
-Getulio Vargas
+GetulioVargas
 formar
 economia
 University
 of
-Southern California
+SouthernCalifornia
 EUA
 Sinca
 estar
@@ -97,7 +97,7 @@ universitario
 empregar
 setor
 administrativo
-os demais
+osdemais
 trabalhar
 area
 cozinha
@@ -146,7 +146,7 @@ Marcos
 tambem
 empresario
 empresa
-comercio exterior
+comercioexterior
 dizer
 empresa
 servir
@@ -154,7 +154,7 @@ mandar
 cocaina
 Bolivia
 Mexico
-apesar de
+apesarde
 protestar
 juiz
 reclamar
@@ -168,7 +168,7 @@ dizer
 respeitar
 comunidade
 carcerario
-gracas a
+gracasa
 nivel
 intelectual
 condenar
@@ -176,7 +176,7 @@ sentenca
 ja
 transitar
 julgado
-quando nao
+quandonao
 haver
 recurso
 nao
@@ -190,7 +190,7 @@ obrigar
 dividir
 cela
 Sinca
-por exemplo
+porexemplo
 companheiro
 xadrez
 condenacao

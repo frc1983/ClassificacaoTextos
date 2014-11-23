@@ -4,10 +4,10 @@ cantar
 Mangueira
 globo
 mostrar
-ao vivo
+aovivo
 show
 aniversario
-Carla Vilhena
+CarlaVilhena
 reprise
 doce
 barbaro
@@ -20,15 +20,15 @@ show
 reunir
 doce
 barbaro
-Gilberto Gil
-Caetano Veloso
-Gal Costa
-Maria Bethania
+GilbertoGil
+CaetanoVeloso
+GalCosta
+MariaBethania
 ultimo
 dia
 quadra
 Mangueira
-Rio de Janeiro
+RiodeJaneiro
 show
 arrecadar
 fundo
@@ -49,7 +49,7 @@ Caetano
 Bethania
 Gal
 cantar
-cada um
+cadaum
 sozinho
 Bethania
 cantar
@@ -57,13 +57,13 @@ Emocao
 roberto
 Carlos
 Caetano
-A Mangueira Me Chama
-Nelson Cavaquinho
+AMangueiraMeChama
+NelsonCavaquinho
 Gal
 bem
 Mal
 Gil
-Aquele Abraco
+AqueleAbraco
 espetaculo
 comecar
 esoterico
@@ -74,7 +74,7 @@ encerramento
 cantar
 hino
 escola
-Exaltacao a Mangueira
+ExaltacaoaMangueira
 sambaenredo
 escola
 atras
@@ -91,7 +91,7 @@ Mangueira
 show
 direcao
 musical
-Caetano Veloso
+CaetanoVeloso
 direcao
 geral
 roberto
@@ -104,14 +104,14 @@ doce
 barbaro
 bandeirante
 amanha
-Billy Idol
+BillyIdol
 show
 londrino
 cantor
 compositor
 guitarrista
 ingles
-Billy Idol
+BillyIdol
 destaque
 programa
 mostrar
@@ -120,18 +120,18 @@ realizar
 Londres
 partir
 turne
-The Charmed Life
-HOLLYWOOD Rock
+TheCharmedLife
+HOLLYWOODRock
 in
-CONCERT Bandeirantes
+CONCERTBandeirantes
 terca
-Som Brasil
+SomBrasil
 comemorar
 ano
 cidade
-Sao Paulo
+SaoPaulo
 show
-ao vivo
+aovivo
 direto
 vale
 Anhangabau
@@ -140,7 +140,7 @@ Nobre
 Globo
 quarta
 programa
-Jo Soares Onze e Meia
+JoSoaresOnzeeMeia
 reprisar
 bom
 entrevista

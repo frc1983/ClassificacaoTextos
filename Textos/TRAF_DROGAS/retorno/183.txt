@@ -9,7 +9,7 @@ acinzentar
 predominante
 fachada
 predio
-Sao Paulo
+SaoPaulo
 comecar
 ameacar
 invasao
@@ -35,7 +35,7 @@ mudar
 cara
 rua
 tendencia
-e que
+eque
 cidade
 tornar
 mais
@@ -51,7 +51,7 @@ faculdade
 arquitetura
 Urbanismo
 Universidade
-Sao Paulo
+SaoPaulo
 segundo
 Lima
 inclinacao
@@ -96,7 +96,7 @@ mais
 nobre
 dizer
 elemento
-em geral
+emgeral
 cor
 suave
 rosa
@@ -107,7 +107,7 @@ refletir
 luz
 minimizar
 desgaste
-Eduardo Rodrigues
+EduardoRodrigues
 tambem
 FAUUSP
 cor

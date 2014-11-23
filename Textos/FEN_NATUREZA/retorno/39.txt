@@ -19,7 +19,7 @@ Banco
 dado
 degradacao
 terra
-mau uso
+mauuso
 solo
 avancar
 Nordeste

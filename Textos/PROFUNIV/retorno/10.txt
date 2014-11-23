@@ -7,7 +7,7 @@ brasileiro
 abalroar
 deixar
 prova
-Ayrton Senna
+AyrtonSenna
 deixar
 Williams
 tirar
@@ -16,12 +16,12 @@ Hakkinen
 McLaren
 minuto
 abalroar
-Mika Hakkinen
+MikaHakkinen
 curva
 volta
 GP
 pacifico
-Ayrton Senna
+AyrtonSenna
 partir
 ataque
 finlandes
@@ -74,7 +74,7 @@ grid
 Ayrton
 continuar
 pacecar
-frente a
+frentea
 gente
 obrigar
 ir
@@ -115,7 +115,7 @@ achar
 alguem
 ir
 passar
-por cima de
+porcimade
 estar
 ocorrer
 F
@@ -126,7 +126,7 @@ querer
 mostrar
 talento
 expor
-todo o
+todoo
 demais
 acidente
 ir
@@ -144,7 +144,7 @@ receber
 punicao
 irritar
 Hakkinen
-Damon Hill
+DamonHill
 companheiro
 Senna
 Williams
@@ -162,12 +162,12 @@ Mika
 falar
 acontecer
 acidente
-de corrida
+decorrida
 entrar
 linha
 escorregar
 tocar
-atras de
+atrasde
 carro
 sobreviver
 ir

@@ -15,7 +15,7 @@ psicologico
 momentaneo
 opiniao
 professor
-Geraldo Jose
+GeraldoJose
 Paiva
 chefia
 departamento
@@ -23,7 +23,7 @@ psicologia
 social
 USP
 universidade
-Sao Paulo
+SaoPaulo
 grafologia
 nao
 campo
@@ -51,7 +51,7 @@ seguradora
 veiculo
 laudo
 grafologico
-Nanci Fernandes
+NanciFernandes
 revelar
 traco
 desonestidade

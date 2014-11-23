@@ -16,9 +16,9 @@ qualidade
 funcionario
 professor
 aluno
-Sao Paulo
+SaoPaulo
 Fundacao
-Getulio Vargas
+GetulioVargas
 FGV
 tambem
 apostar
@@ -46,11 +46,11 @@ promover
 interacao
 diferentes
 setor
-dentro de
+dentrode
 escola
 dizer
 professor
-Joao Mario Csillag
+JoaoMarioCsillag
 coordenador
 programa
 qualidade
@@ -82,7 +82,7 @@ tempo
 pagamento
 fornecedor
 exemplificar
-Catia Teixeira
+CatiaTeixeira
 auxiliar
 departamento
 pessoal

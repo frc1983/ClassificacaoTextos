@@ -7,12 +7,12 @@ rir
 ca
 Celso
 Trindade
-Dema Chagas
+DemaChagas
 bala
 Arizao
 Guaracy
 presidente
-Valdemir Garcia
+ValdemirGarcia
 interprete
 Quinzinho
 diretor
@@ -90,6 +90,6 @@ sacudir
 deixar
 cidade
 louco
-com agua na boca
+comaguanaboca
 Sapucai
 oh

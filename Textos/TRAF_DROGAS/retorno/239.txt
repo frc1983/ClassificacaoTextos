@@ -13,10 +13,10 @@ CPI
 comissao
 parlamentar
 inquerito
-a fim de
+afimde
 investigar
-jogo do bicho
-todo o
+jogodobicho
+todoo
 pais
 CPI
 investigar
@@ -29,7 +29,7 @@ contrabando
 arma
 presidente
 Camara
-Inocencio Oliveira
+InocencioOliveira
 PFLPE
 achar
 cedo
@@ -48,15 +48,15 @@ Castor
 Andrade
 ligacao
 deputado
-pela manha
+pelamanha
 deputado
-Jose Dirceu
+JoseDirceu
 PTSP
 dizer
 lista
 deputado
 envolver
-jogo do bicho
+jogodobicho
 nome
 tarde
 presidente
@@ -74,6 +74,6 @@ numero
 dizer
 lista
 nome
-do que
+doque
 jornal
 publicar

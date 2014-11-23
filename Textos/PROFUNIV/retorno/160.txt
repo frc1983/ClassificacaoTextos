@@ -2,18 +2,18 @@ energia
 corpo
 limite
 professor
-Esdras Guerreiro Vasconcellos
+EsdrasGuerreiroVasconcellos
 iniciar
 aula
 Universidade
-Sao Paulo
+SaoPaulo
 maneira
 caminhada
 minuto
 aluno
 tomar
 banho
-cafe da manha
+cafedamanha
 ha
 ano
 Vasconcellos
@@ -33,11 +33,11 @@ energia
 ir
 esvair
 diaadia
-de acordo
+deacordo
 pesquisa
 publicar
 revista
-Business Week
+BusinessWeek
 sociedade
 brasileiro
 segundo
@@ -64,7 +64,7 @@ hora
 ginastica
 dia
 alternativa
-assim como
+assimcomo
 optar
 caminhar
 interromper
@@ -72,7 +72,7 @@ trabalho
 durante
 minuto
 relaxamento
-ponto fraco
+pontofraco
 comum
 executivo
 aborrecer
@@ -87,7 +87,7 @@ atribuicao
 nao
 querer
 saber
-tudo o que
+tudooque
 passar
 forma
 driblar

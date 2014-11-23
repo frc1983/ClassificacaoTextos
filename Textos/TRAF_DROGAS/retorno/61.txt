@@ -23,7 +23,7 @@ apresentar
 embaixador
 Brasil
 GraBretanha
-Rubens Barbosa
+RubensBarbosa
 reuniao
 ontem
 conselho
@@ -40,7 +40,7 @@ garantir
 bom
 resultado
 safra
-ja que
+jaque
 previsao
 ja
 quebrar
@@ -50,12 +50,12 @@ atualmente
 Brasil
 acentuar
 temor
-em relacao a
+emrelacaoa
 preco
 cafe
 continuar
 alto
-apesar de
+apesarde
 dificuldade
 atual
 reuniao

@@ -1,6 +1,6 @@
 ninguem
 saber
-Antonio Ermirio
+AntonioErmirio
 Moraes
 receber
 varias
@@ -11,7 +11,7 @@ escrever
 implantacao
 cassino
 forma
-jogo de azar
+jogodeazar
 Brasil
 caso
 enfatizar
@@ -25,7 +25,7 @@ corrupcao
 prostituicao
 droga
 caso
-jogo do bicho
+jogodobicho
 pratica
 divertir
 inofensivo
@@ -41,13 +41,13 @@ levantar
 serio
 suspeita
 envolvimento
-funcionario publico
+funcionariopublico
 policial
 parlamentar
 ate
 magistrado
 faltar
-alem de
+alemde
 descortinar
 ligacao
 escancarar
@@ -68,12 +68,12 @@ parlamentar
 inescrupuloso
 nao
 usar
-de imediato
+deimediato
 dinheiro
 surrupiar
 orcamento
 publico
-ou seja
+ouseja
 dinheiro
 povo
 estourar
@@ -86,7 +86,7 @@ mais
 variar
 tipo
 contravencao
-ate mesmo
+atemesmo
 campanha
 filantropico
 lance
@@ -101,7 +101,7 @@ escolher
 vitima
 aproximar
 atingir
-em cheio
+emcheio
 ora
 perder
 recurso
@@ -110,7 +110,7 @@ profissional
 ora
 destruir
 costume
-por forca de
+porforcade
 quebra
 valor
 etico
@@ -141,7 +141,7 @@ ilusao
 mais
 fraco
 trabalhar
-de sol a sol
+desolasol
 cultivar
 ludico
 esperanca
@@ -181,7 +181,7 @@ mentor
 claro
 nao
 novidade
-Antonio Ermirio
+AntonioErmirio
 Moraes
 escrever
 domingo

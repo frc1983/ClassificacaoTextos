@@ -17,23 +17,23 @@ antigo
 sucesso
 Domingao
 Rubens
-O Destino Assim o Quis
+ODestinoAssimoQuis
 ir
 viver
 cartaz
-Chico BUARQUE
+ChicoBUARQUE
 cantor
 compositor
 mostrar
 musica
-sendo que
+sendoque
 parte
 ultimo
 CD
 Paratodos
-De Volta ao Samba
-A Foto da Capa
-alem de
+DeVoltaaoSamba
+AFotodaCapa
+alemde
 trazer
 tambem
 antigo
@@ -43,27 +43,27 @@ show
 proprio
 Chico
 produtor
-Vinicius Franca
+ViniciusFranca
 banda
 formar
-Marcelo Bernardes
+MarceloBernardes
 sopro
-Chico Batera
+ChicoBatera
 percussao
-Jorge Helder
+JorgeHelder
 baixo
 Wilson
 Neves
 bateris
-Joao Reboucas
+JoaoReboucas
 piano
 teclar
-Luiz Claudio Ramos
+LuizClaudioRamos
 arranjo
 regencia
 violao
 iluminacao
-Ney Matogrosso
+NeyMatogrosso
 Palace
 Jamaris
 tel
@@ -71,7 +71,7 @@ Moema
 regiao
 sul
 cidade
-Sao Paulo
+SaoPaulo
 Qui
 sex
 sab
@@ -116,12 +116,12 @@ teatro
 Cultura
 artistico
 r
-Nestor Pestana
+NestorPestana
 tel
 regiao
 central
 cidade
-Sao Paulo
+SaoPaulo
 sex
 sab
 dom
@@ -133,7 +133,7 @@ varios
 cantor
 brasileiro
 Belchior
-Edson Cordeiro
+EdsonCordeiro
 Palladium
 shopping
 Eldorado
@@ -142,7 +142,7 @@ tel
 zona
 oeste
 cidade
-Sao Paulo
+SaoPaulo
 sex
 sab
 dom

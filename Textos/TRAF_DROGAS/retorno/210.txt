@@ -7,11 +7,11 @@ estar
 celula
 existir
 chegar
-a mais de
+amaisde
 metro
-de comprimento
+decomprimento
 nascer
-dentro de
+dentrode
 medula
 espinhal
 prolongar
@@ -40,13 +40,13 @@ dedo
 pe
 precisar
 descer
-todo o
+todoo
 perna
 desde
 partir
 inferior
 coluna
-cerca de
+cercade
 caso
 esclerose
 lateral
@@ -62,7 +62,7 @@ caso
 origem
 desconhecer
 dizer
-Alberto Alain Gabbai
+AlbertoAlainGabbai
 professor
 neurologia
 Escola
@@ -85,9 +85,9 @@ chegar
 levar
 paciente
 morte
-apesar de
+apesarde
 debilitante
-apesar de
+apesarde
 comum
 disturbrio
 estar

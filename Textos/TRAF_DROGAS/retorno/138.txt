@@ -3,7 +3,7 @@ Folhateen
 barao
 Limeira
 andar
-Sao Paulo
+SaoPaulo
 SP
 cep
 Banda
@@ -17,12 +17,12 @@ votar
 Rock
 musica
 disco
-alem de
+alemde
 composicao
 novo
 SPYDER
-Pneu Especial
-mountain bike
+PneuEspecial
+mountainbike
 lancar
 Levorin
 Editora
@@ -35,8 +35,8 @@ Frase
 tirar
 Boca
 Historia
-Carlos Eduardo Novaes
-CHICLETE TIPINHOS INUTEIS
+CarlosEduardoNovaes
+CHICLETETIPINHOSINUTEIS
 lancar
 banca
 dia
@@ -46,7 +46,7 @@ manjado
 hippie
 Wood
 Stock
-desta vez
+destavez
 acompanhar
 novo
 personagem
@@ -54,7 +54,7 @@ lady
 Jane
 esposa
 Wood
-Baby Beef
+BabyBeef
 namoradinha
 teen
 stock

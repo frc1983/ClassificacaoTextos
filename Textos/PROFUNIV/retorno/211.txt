@@ -22,7 +22,7 @@ sociedade
 designar
 nivel
 realidade
-acima de
+acimade
 simples
 individuo
 figurar
@@ -34,7 +34,7 @@ bastar
 compreender
 fenomeno
 social
-em torno de
+emtornode
 disputatio
 longo
 data
@@ -44,7 +44,7 @@ individualista
 metodologico
 mover
 ensaio
-Norbert Elias
+NorbertElias
 recolher
 Sociedade
 individuo
@@ -61,7 +61,7 @@ satisfatorio
 lado
 alternativa
 impressionante
-ao longo de
+aolongode
 quase
 ano
 incorrer
@@ -83,7 +83,7 @@ limitar
 possibilidade
 interior
 sociedade
-o qual
+oqual
 inserir
 funcao
 funcao
@@ -106,7 +106,7 @@ relacao
 social
 algo
 externo
-acima de
+acimade
 individuo
 significar
 transformar
@@ -135,7 +135,7 @@ conceber
 relacao
 sociedade
 individuo
-tal como
+talcomo
 melodia
 nota
 nao
@@ -168,7 +168,7 @@ identidade
 social
 substancializar
 identidade
-por exemplo
+porexemplo
 conceber
 modelo
 acao
@@ -181,7 +181,7 @@ relacao
 estimulo
 resposta
 equivaler
-a perder de vista
+aperderdevista
 historicidade
 intrinseco
 fenomeno

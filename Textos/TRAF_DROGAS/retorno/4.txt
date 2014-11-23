@@ -20,7 +20,7 @@ ponto
 ganhar
 ate
 ontem
-atras de
+atrasde
 lider
 Milan
 Juve
@@ -30,13 +30,13 @@ sobrepujar
 Napoli
 pleno
 estadio
-San Paolo
+SanPaolo
 terra
 pizza
 independentemente
 resultado
 time
-Fabio Capello
+FabioCapello
 visitar
 Torino
 cotejo
@@ -44,7 +44,7 @@ antecipar
 sabado
 tal
 sucesso
-Velha Senhora
+VelhaSenhora
 sonhar
 catastrofe
 milanista
@@ -63,17 +63,17 @@ estar
 contundir
 armador
 sueco
-Jonas Thern
+JonasThern
 sofrer
 inflamacao
 articulacao
 atravessar
 semana
-em repouso
+emrepouso
 integral
 zagueiro
 capitao
-Ciro Ferrara
+CiroFerrara
 padecer
 dor
 muscular
@@ -82,7 +82,7 @@ vestiario
 momento
 combate
 Juve
-Gianluca Vialli
+GianlucaVialli
 retornar
 elenco
 titular
@@ -108,6 +108,6 @@ TV
 Napoli
 x
 Juventus
-ao vivo
+aovivo
 Rede
 Bandeirantes

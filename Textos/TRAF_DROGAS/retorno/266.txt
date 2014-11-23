@@ -1,14 +1,14 @@
 exemplo
 menina
 estuprar
-Gilberto Dimenstein
+GilbertoDimenstein
 Brasilia
 historia
 exemplar
 ocorrer
 semana
 traficante
-Pedrinho Maluco
+PedrinhoMaluco
 virar
 heroi
 comunidade
@@ -17,7 +17,6 @@ Rio
 caso
 ajudar
 entender
-por que
 crime
 organizar
 obter
@@ -56,7 +55,7 @@ exterminio
 conquistar
 respeito
 comunidade
-muitas vezes
+muitasvezes
 unico
 referencia
 seguranca
@@ -70,7 +69,7 @@ crime
 organizar
 haver
 relato
-Sao Paulo
+SaoPaulo
 narcotrafico
 ganhar
 base
@@ -95,7 +94,7 @@ ontem
 coluna
 ministro
 Saude
-Henrique Santillo
+HenriqueSantillo
 informar
 decidir
 liberar
@@ -103,7 +102,7 @@ chamado
 oculo
 leitura
 individuo
-mais de
+maisde
 ano
 comprar
 receita

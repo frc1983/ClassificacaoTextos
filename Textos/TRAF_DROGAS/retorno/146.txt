@@ -3,10 +3,10 @@ querer
 diminuir
 perda
 colheita
-Secretaria de Agricultura
-Minas Gerais
+SecretariadeAgricultura
+MinasGerais
 criar
-Centro de Estudos de Qualidade
+CentrodeEstudosdeQualidade
 Agricultura
 objetivo
 melhorar
@@ -28,7 +28,7 @@ segundo
 diretor
 centro
 estudo
-Eduardo Campello
+EduardoCampello
 objetivo
 inicial
 reduzir
@@ -45,7 +45,7 @@ qualidade
 querer
 orientar
 treinar
-todo o
+todoo
 lidar
 produto
 plantio
@@ -62,13 +62,13 @@ ano
 estruturacao
 centro
 estudo
-cerca de
+cercade
 professor
 Esal
-Escola Superior Agricola
+EscolaSuperiorAgricola
 lavra
 UFV
-Universidade Federal de Vicosa
+UniversidadeFederaldeVicosa
 treinar
 ir
 constituir
@@ -93,7 +93,7 @@ pretender
 treinar
 ano
 pessoa
-a partir de
+apartirde
 ano
 seguinte
 iniciar
@@ -108,7 +108,7 @@ injetar
 recurso
 manter
 entidade
-todo o
+todoo
 curso
 treinamento
 cobrar
@@ -119,23 +119,23 @@ interferencia
 governo
 integrar
 centro
-todo o
+todoo
 empresa
 publico
 mineiro
 ligar
 agricultura
 pecuaria
-alem de
+alemde
 empresa
 estadual
 participar
-Fundacao Cristiano Ottoni
-Escola de Engenharia
-Universidade Federal
-Minas Gerais
-Universidade Federal de Vicosa
-Escola Superior Agricola
+FundacaoCristianoOttoni
+EscoladeEngenharia
+UniversidadeFederal
+MinasGerais
+UniversidadeFederaldeVicosa
+EscolaSuperiorAgricola
 lavra
 entidade
 naogovernamental

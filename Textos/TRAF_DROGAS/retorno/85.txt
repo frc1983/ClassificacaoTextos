@@ -27,7 +27,7 @@ baixo
 declividade
 rio
 Paraguai
-menos de
+menosde
 centimetro
 quilometro
 trecho
@@ -90,7 +90,7 @@ haver
 padrao
 diferente
 flora
-de acordo
+deacordo
 altitude
 parte
 mais
@@ -114,7 +114,7 @@ aparecer
 altura
 intermediario
 metro
-acima de
+acimade
 area
 inundavel
 ficar

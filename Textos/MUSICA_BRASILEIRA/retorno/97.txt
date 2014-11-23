@@ -14,11 +14,11 @@ Coracao
 Incor
 zona
 oeste
-Sao Paulo
+SaoPaulo
 maratona
 Giovane
 comecar
-em jejum
+emjejum
 Carlao
 mauricio
 Douglas
@@ -38,10 +38,10 @@ meiodia
 capitao
 selecao
 atender
-de imediato
+deimediato
 recomendacao
 tecnico
-Ze Roberto
+ZeRoberto
 devorar
 maca
 segundo
@@ -91,12 +91,12 @@ CDs
 incluir
 rock
 pagode
-pop music
-dance music
+popmusic
+dancemusic
 animacao
 jogador
 ficar
-por conta
+porconta
 Max
 mestre
 arrumar
@@ -106,5 +106,5 @@ implicar
 Toaldo
 exercitar
 som
-Jorge Ben Jor
+JorgeBenJor
 SK

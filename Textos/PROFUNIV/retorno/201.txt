@@ -3,7 +3,7 @@ morrer
 Paris
 dia
 maio
-JeanPaul Sartre
+JeanPaulSartre
 nascer
 Paris
 dia
@@ -39,19 +39,19 @@ libertar
 voltar
 Franca
 publicacao
-O Ser e o Nada
+OSereoNada
 publicacao
-A Idade da Razao
+AIdadedaRazao
 Sursis
 primeira
 parte
 trilogia
-Os Caminhos da Liberdade
+OsCaminhosdaLiberdade
 Sartre
 fundo
 MerleauPonty
 revista
-Les Temps Modernes
+LesTempsModernes
 pronunciar
 conferencia
 Existencialismo
@@ -63,11 +63,11 @@ romper
 Partido
 comunista
 escrever
-O Fantasma de Stalin
+OFantasmadeStalin
 publicacao
-Critica da Razao Dialetica
+CriticadaRazaoDialetica
 publicacao
-As Palavras
+AsPalavras
 Sartre
 engajar
 revolta
@@ -76,9 +76,9 @@ maio
 apoiar
 grupo
 maoista
-Esquerda Proletaria
+EsquerdaProletaria
 publicacao
-O Idiota da Familia
+OIdiotadaFamilia
 assumir
 nominalmente
 direcao

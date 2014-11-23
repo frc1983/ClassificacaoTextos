@@ -5,7 +5,7 @@ levar
 hora
 cobrir
 rock
-ao vivo
+aovivo
 editora
 TV
 folhar
@@ -15,7 +15,7 @@ Revista
 Folha
 diretor
 teatral
-Jose Celso Martinez Correa
+JoseCelsoMartinezCorrea
 dizer
 mais
 gostar
@@ -30,11 +30,11 @@ compreensao
 momento
 TV
 transcender
-ao vivo
+aovivo
 ate
 onibus
 cruzar
-Sao Paulo
+SaoPaulo
 sensacao
 afinal
 onibus
@@ -49,7 +49,7 @@ futebol
 toque
 Midas
 transmissao
-ao vivo
+aovivo
 bandeirante
 usar
 domingo
@@ -61,24 +61,24 @@ cobertura
 MTV
 fase
 paulista
-Hollywod Rock
+HollywodRock
 lance
 esperteza
 hora
 transmitir
-ao vivo
+aovivo
 evento
 pertinente
 area
 TV
 segmentar
-por menor que
+pormenorque
 levar
 incrivel
 vantagem
 megaconcorrencia
 segundo
-conhecimento de causa
+conhecimentodecausa
 saber
 designacao
 predileto
@@ -107,13 +107,13 @@ miniTV
 mao
 parecer
 gritar
-Estamos ao vivo
+Estamosaovivo
 VJs
 jornalista
 MTV
 cobertura
 pop
-ao vivo
+aovivo
 mais
 decente
 publico
@@ -130,7 +130,7 @@ iconoclasta
 patentear
 matriz
 americano
-alem de
+alemde
 MTV
 enfrentar
 Aerosmith
@@ -146,4 +146,4 @@ festival
 alguem
 ai
 dizer
-Cristina Franco
+CristinaFranco

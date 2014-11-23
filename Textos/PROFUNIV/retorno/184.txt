@@ -18,10 +18,10 @@ bairro
 Perdiz
 zona
 oeste
-Sao Paulo
+SaoPaulo
 regiao
 rua
-Monte Alegre
+MonteAlegre
 conjunto
 predio
 fachada
@@ -35,7 +35,7 @@ PUC
 pontificio
 Universidade
 catolico
-Sao Paulo
+SaoPaulo
 abrir
 Condephaat
 conselho
@@ -46,7 +46,7 @@ arqueologico
 artistico
 turistico
 Estado
-Sao Paulo
+SaoPaulo
 final
 marco
 regiao
@@ -63,18 +63,18 @@ preco
 m
 imovel
 novo
-em torno de
+emtornode
 CR
 milhao
 quinzena
 marco
 variacao
-em menos de
+emmenosde
 mes
 perdiz
 valorizacao
 m
-do que
+doque
 bairro
 nobre
 jardim
@@ -104,7 +104,7 @@ ano
 tombamento
 pedir
 Edgar
-Assis Carvalho
+AssisCarvalho
 professor
 antropologia
 PUC
@@ -144,7 +144,7 @@ integral
 segundo
 presidente
 Condephaat
-Jose Carlos Ribeiro
+JoseCarlosRibeiro
 Almeida
 conjunto
 caracteristica
@@ -154,7 +154,7 @@ guardar
 parte
 historia
 pais
-Fabio Rossi Filho
+FabioRossiFilho
 diretor
 imobiliario
 Itaplan
@@ -183,6 +183,6 @@ tombar
 predio
 importante
 colaborar
-Claudia Ribeiro Mesquita
+ClaudiaRibeiroMesquita
 freelance
 Folha

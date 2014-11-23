@@ -1,7 +1,7 @@
 necessidade
 cirurgia
 estetico
-cirurgia plastica
+cirurgiaplastica
 desenvolvimento
 ultimo
 decada
@@ -12,7 +12,7 @@ inconteste
 area
 cirurgia
 estetico
-no entanto
+noentanto
 cercar
 charme
 principalmente
@@ -26,7 +26,7 @@ medico
 limite
 resultado
 evolucao
-cirurgia plastica
+cirurgiaplastica
 ultimo
 ano
 transformar
@@ -42,13 +42,13 @@ conceito
 provavelmente
 seguir
 INPS
-quando de
+quandode
 criacao
 plano
 saude
 nacional
 abrangente
-todo o
+todoo
 brasileiro
 excluir
 cirurgia
@@ -57,7 +57,7 @@ tal
 atitude
 seguir
 convenio
-assistencia medica
+assistenciamedica
 nao
 estar
 definir
@@ -69,7 +69,7 @@ contratual
 excluir
 maioria
 procedimento
-cirurgia plastica
+cirurgiaplastica
 inumero
 exemplo
 tal
@@ -113,13 +113,13 @@ psicologico
 envolver
 justificar
 cirurgia
-ponto de vista
+pontodevista
 medico
 cirurgia
 necessario
 contrario
 nao
-nem mesmo
+nemmesmo
 realizar
 hospital
 publico
@@ -128,7 +128,7 @@ assunto
 nao
 so
 academico
-como se
+comose
 pensar
 nao
 tambem
@@ -167,9 +167,9 @@ estetico
 ja
 propor
 excluir
-cirurgia plastica
-em geral
-MARCUS Castro Ferreira
+cirurgiaplastica
+emgeral
+MARCUSCastroFerreira
 professor
 titular
 cirurgia
@@ -177,7 +177,7 @@ plastico
 Faculdade
 medicina
 Universidade
-Sao Paulo
+SaoPaulo
 diretor
 Divisao
 cirurgia

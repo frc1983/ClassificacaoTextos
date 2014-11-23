@@ -43,7 +43,7 @@ ate
 dia
 curso
 completo
-todo o
+todoo
 disciplina
 exigir
 vestibular
@@ -60,7 +60,7 @@ manha
 tarde
 noite
 segundo
-Lorenco Jungklaus
+LorencoJungklaus
 parte
 comissao
 implementacao
@@ -107,7 +107,7 @@ interessar
 dar
 aula
 cadastrar
-a partir de
+apartirde
 hoje
 DCE
 cursinho

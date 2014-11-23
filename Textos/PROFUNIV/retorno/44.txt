@@ -43,7 +43,7 @@ Lontra
 MS
 proximidade
 fazenda
-Rio Negro
+RioNegro
 acesso
 MS
 MS
@@ -52,7 +52,7 @@ preciso
 pagar
 licenca
 pesca
-Banco do Brasil
+BancodoBrasil
 Ufir
 embarcar
 Ufir
@@ -61,7 +61,7 @@ selo
 turismo
 valer
 Uferms
-Unidade Fiscal de Referencia do Estado
+UnidadeFiscaldeReferenciadoEstado
 CR
 mes
 nao
@@ -92,4 +92,4 @@ transportar
 cabeca
 lacre
 vistoria
-Policia Florestal
+PoliciaFlorestal

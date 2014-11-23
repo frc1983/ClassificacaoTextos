@@ -28,7 +28,7 @@ parecer
 bom
 novo
 comemoracao
-no entanto
+noentanto
 afirmar
 fato
 constatar
@@ -92,7 +92,7 @@ cafe
 vilarejo
 alcancar
 prosperidade
-no entanto
+noentanto
 justamente
 relativo
 isolamento
@@ -113,7 +113,7 @@ festa
 onde
 festar
 mais
-do que
+doque
 exibicao
 turistico
 apresentar
@@ -142,7 +142,7 @@ folguedo
 manter
 basicamente
 inalterado
-apesar de
+apesarde
 adaptacao
 sujeitar
 trabalhar
@@ -153,7 +153,7 @@ popular
 parati
 autora
 revelar
-apesar de
+apesarde
 carater
 ciclico
 regular
@@ -188,7 +188,7 @@ papel
 irmandade
 mais
 importante
-no entanto
+noentanto
 destacar
 questao
 presente
@@ -246,11 +246,11 @@ supressao
 ritual
 lexico
 particular
-LILIA MORITZ SCHWARCZ
+LILIAMORITZSCHWARCZ
 professora
 antropologia
 USP
 autora
-O Espetaculo das Racas
+OEspetaculodasRacas
 companhia
 Letra

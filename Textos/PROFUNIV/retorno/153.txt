@@ -13,7 +13,7 @@ ir
 comecar
 pressionar
 prefeito
-Ronaldo Lessa
+RonaldoLessa
 PSB
 prefeitura
 retirar
@@ -24,12 +24,12 @@ cidade
 Alagoas
 presidente
 CDL
-Gilvan Barros
+GilvanBarros
 dizer
 nao
 haver
 solucao
-por parte de
+porpartede
 prefeitura
 comerciante
 estar
@@ -65,7 +65,7 @@ iniciar
 proximo
 dia
 fabricacao
-escova de dentes
+escovadedentes
 producao
 inicial
 mil
@@ -106,7 +106,7 @@ urbano
 iniciar
 amanha
 encontro
-meio ambiente
+meioambiente
 maranhao
 Sema
 secretaria
@@ -129,7 +129,7 @@ Paraiba
 Orquestra
 sinfonico
 infantil
-Joao Pessoa
+JoaoPessoa
 coordenar
 professora
 Departamento
@@ -140,4 +140,4 @@ Paraiba
 apresentar
 dia
 maio
-Buenos Aires
+BuenosAires

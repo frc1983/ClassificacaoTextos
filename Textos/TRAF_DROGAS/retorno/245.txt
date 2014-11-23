@@ -10,11 +10,11 @@ nacional
 controle
 droga
 EUA
-Lee Brown
+LeeBrown
 dizer
 expectativa
 norteamericano
-em relacao a
+emrelacaoa
 Brasil
 pais
 transformar
@@ -30,7 +30,7 @@ romper
 trafico
 expectativa
 negativo
-em relacao a
+emrelacaoa
 Brasil
 esforco
 orcamentario
@@ -71,7 +71,7 @@ estar
 lista
 pais
 risco
-ao lado de
+aoladode
 Panama
 Venezuela
 pais
@@ -104,7 +104,7 @@ economia
 vontade
 politico
 depender
-no entanto
+noentanto
 vontade
 politico
 governo
@@ -119,7 +119,7 @@ EUA
 reduzir
 verba
 Brasil
-por querer
+porquerer
 pais
 combater
 problema
@@ -133,9 +133,9 @@ local
 gastar
 US
 dizer
-Lee Brown
+LeeBrown
 exemplificar
-o que
+oque
 norteamericano
 esperar
 contrapartida
@@ -144,6 +144,6 @@ Mexico
 exemplo
 combate
 droga
-Fernando Rossetti
+FernandoRossetti
 Flavia
 Leon

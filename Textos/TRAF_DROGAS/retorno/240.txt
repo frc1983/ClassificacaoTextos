@@ -2,7 +2,7 @@ Cronologia
 Escandalo
 segundafeira
 juiza
-Denise Frossard
+DeniseFrossard
 receber
 gabinete
 pessoa
@@ -24,7 +24,7 @@ blitz
 endereco
 fornecer
 juiza
-Denise Frossard
+DeniseFrossard
 quartafeira
 operacao
 realizar
@@ -37,10 +37,10 @@ apreender
 escritorio
 castor
 Andrade
-mais de
+maisde
 livro
 contabil
-mais de
+maisde
 disquete
 nome
 policial
@@ -54,7 +54,7 @@ campanha
 eleicao
 quintafeira
 promotor
-Antonio Jose Campos Moreira
+AntonioJoseCamposMoreira
 dizer
 chegar
 US
@@ -95,11 +95,11 @@ seguranca
 domingo
 procuradorgeral
 justica
-Antonio Carlos Biscaia
+AntonioCarlosBiscaia
 confirmar
 nome
-Nilo Batista
-Cesar Maia
+NiloBatista
+CesarMaia
 estar
 lista
 bicho
@@ -124,7 +124,7 @@ dizer
 haver
 prova
 ligacao
-jogo do bicho
+jogodobicho
 narcotrafico
 dizer
 descobrir

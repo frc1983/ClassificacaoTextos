@@ -15,9 +15,9 @@ aumentar
 semana
 regiao
 produtor
-Sao Paulo
+SaoPaulo
 Parana
-apesar de
+apesarde
 leilao
 realizar
 governo
@@ -45,10 +45,10 @@ preco
 subir
 novamente
 ontem
-Nova York
+NovaYork
 expectativa
 perda
-em torno de
+emtornode
 milhao
 caixa
 safra
@@ -61,15 +61,15 @@ argentino
 exportacao
 subir
 semana
-devido a
+devidoa
 seca
 atingir
 Australia
 Canada
 segundo
-agencia internacional
+agenciainternacional
 trigo
-de acordo
+deacordo
 operador
 forte
 queda

@@ -91,7 +91,7 @@ public class BagOfWords {
                 bufferedReader = new BufferedReader(fileReader);
                 String linha = "";
                 while ((linha = bufferedReader.readLine()) != null) {
-                    linha = linha.replaceAll("[^A-Za-z ]", "");
+                    linha = linha.replaceAll("[^A-Za-z]", "");
 
                     arqFiles.add(linha);
                 }

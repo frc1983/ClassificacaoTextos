@@ -1,5 +1,5 @@
 saber
-o que
+oque
 desertificacao
 seco
 desertizacao
@@ -12,7 +12,7 @@ internacional
 desertificacao
 estar
 discutir
-mais de
+maisde
 pais
 abordar
 novo
@@ -65,11 +65,11 @@ zona
 seca
 area
 onde
-o que
+oque
 perder
 agua
 evaporacao
-do que
+doque
 ganhar
 chuva
 fenomeno

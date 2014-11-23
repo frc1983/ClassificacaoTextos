@@ -5,7 +5,7 @@ Kauai
 tour
 helicoptero
 barco
-alem de
+alemde
 parque
 natural
 jardim
@@ -16,8 +16,8 @@ furacao
 Iniki
 Travel
 the
-New York Times
-apesar de
+NewYorkTimes
+apesarde
 estrago
 furacao
 haver
@@ -27,20 +27,20 @@ confortavel
 preco
 moderar
 chale
-Waimea Plantation
+WaimeaPlantation
 apreciaddo
 morador
 turista
 evocar
 autentico
-Havai antigo
+Havaiantigo
 atingir
 Iniki
 jamais
 parar
 operar
-Outrigger Kauai Beach
-Kauai Hilton
+OutriggerKauaiBeach
+KauaiHilton
 epoca
 Iniki
 conseguir
@@ -57,10 +57,10 @@ Lihue
 acesso
 facil
 praticamente
-todo o
+todoo
 ponto
 ilha
-de frente
+defrente
 mar
 vista
 lindo
@@ -75,17 +75,17 @@ parque
 km
 Kehaha
 metro
-acima de
+acimade
 mar
 oferecer
 quilometro
 trilha
-alem de
+alemde
 vista
 costa
-quanto a
+quantoa
 atividade
-ao ar livre
+aoarlivre
 existir
 Iniki
 maioria
@@ -94,9 +94,9 @@ disponivel
 atracao
 tambem
 estar
-de volta
+devolta
 caso
-Kilauea Point National Wildlife
+KilaueaPointNationalWildlife
 Refugee
 estar
 novamente
@@ -104,7 +104,7 @@ verde
 nao
 reaberto
 publico
-Allerton Gardens
+AllertonGardens
 combinar
 planta
 exotico
@@ -114,7 +114,7 @@ Iniki
 reconstruir
 casa
 ficar
-de frente
+defrente
 mar
 reerguer
 destrocar
@@ -137,13 +137,12 @@ francamente
 dizer
 jamais
 voltar
-cerca de
+cercade
 populacao
 deixar
 ilha
 facil
 entender
-por que
 morador
 Havai
 perguntar
@@ -156,17 +155,17 @@ lugar
 lindo
 dizer
 especial
-por outro lado
+poroutrolado
 embora
 nao
 saber
-o que
+oque
 esperar
 ficar
 admirar
 ferida
 abrir
-mesmo assim
+mesmoassim
 facil
 haver
 ponto

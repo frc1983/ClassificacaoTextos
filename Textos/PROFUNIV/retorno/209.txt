@@ -7,7 +7,7 @@ palestra
 acontecer
 mes
 setembro
-Sao Paulo
+SaoPaulo
 durante
 mes
 setembro
@@ -16,7 +16,7 @@ pontificio
 Universidade
 catolico
 PUC
-Sao Paulo
+SaoPaulo
 importante
 ciclo
 debate
@@ -37,7 +37,7 @@ clinico
 promover
 encontro
 internacional
-O Estrangeiro
+OEstrangeiro
 evento
 ir
 discutir
@@ -50,7 +50,7 @@ mundo
 contemporaneo
 segundo
 psicanalista
-Caterina Koltai
+CaterinaKoltai
 organizadora
 dado
 enfase
@@ -61,11 +61,11 @@ nacionalismo
 participar
 debate
 psicanalista
-Jacques Hassoun
-Radmila Zygouris
+JacquesHassoun
+RadmilaZygouris
 ambos
 Franca
-Fernando Ulloa
+FernandoUlloa
 Argentina
 Marcelo
 ar
@@ -77,7 +77,7 @@ profissional
 R
 estudante
 Cogeae
-Coordenadoria Geral
+CoordenadoriaGeral
 Especializacao
 aperfeicoamento
 Extensao
@@ -114,7 +114,7 @@ contemporaneo
 coloquio
 abrir
 conferencia
-Eric Landowski
+EricLandowski
 CNRS
 centro
 nacional
@@ -124,12 +124,12 @@ Paris
 conferencia
 proferir
 professor
-Edward Lopes
+EdwardLopes
 universidade
 federal
-Rio Grande do Sul
-Boris Schnaiderman
-Jose Luiz Fiorin
+RioGrandedoSul
+BorisSchnaiderman
+JoseLuizFiorin
 ambos
 USP
 inscricao
@@ -146,7 +146,7 @@ posgraduacao
 comunicacao
 Semiotica
 r
-a partir de
+apartirde
 proximo
 dia
 inicio
@@ -154,7 +154,7 @@ tambem
 PUC
 ciclo
 palestra
-Psicanalise e o Contemporaneo
+PsicanaliseeoContemporaneo
 palestra
 acontecer
 durante

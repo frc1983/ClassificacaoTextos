@@ -1,7 +1,7 @@
 cientista
 achar
 sinal
-Big One
+BigOne
 cientista
 Califoria
 encontrar
@@ -12,7 +12,7 @@ atingir
 regiao
 mais
 cedo
-do que
+doque
 imaginar
 haver
 deslocamento
@@ -32,6 +32,6 @@ sinal
 terremoto
 iminente
 dizer
-Clifton Mitchell
+CliftonMitchell
 Universidade
 Oregon

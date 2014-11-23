@@ -1,18 +1,18 @@
-VlavianosWaldemar CordeiroWaltercio CaldasWesley Duke
-LeeYo Yoshitome
+VlavianosWaldemarCordeiroWaltercioCaldasWesleyDuke
+LeeYoYoshitome
 ano
-Janio Quadros
+JanioQuadros
 renunciar
 filme
-O Pagador de Promessas
+OPagadordePromessas
 ganhar
 Palma
 ouro
 Cannes
-Wesley Duke Lee
+WesleyDukeLee
 happening
 Brasil
-John F
+JohnF
 Kennedy
 presidente
 EUA
@@ -20,8 +20,8 @@ assassinar
 movimento
 militar
 depor
-Joao Goulart
-TVs Record
+JoaoGoulart
+TVsRecord
 Excelsior
 comecar
 promover
@@ -44,7 +44,7 @@ teatro
 explodir
 manifestacao
 estudantil
-todo o mundo
+todoomundo
 Rainha
 Elizabeth
 inaugurar
@@ -54,9 +54,9 @@ Masp
 governo
 decretar
 Ai
-Caetano Veloso
-Chico Buarque
-Gilberto Gil
+CaetanoVeloso
+ChicoBuarque
+GilbertoGil
 exilar
 Europa
 Brasil
@@ -76,7 +76,7 @@ acabar
 Guerra
 Vietna
 arquiteto
-Charles Jencks
+CharlesJencks
 introduzir
 termo
 posmodernismo

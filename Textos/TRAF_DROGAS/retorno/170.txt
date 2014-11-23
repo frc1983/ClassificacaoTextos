@@ -14,7 +14,7 @@ resto
 mundo
 exposicao
 coletivo
-Rio de Janeiro
+RiodeJaneiro
 propor
 balanco
 producao
@@ -22,7 +22,7 @@ jovem
 expor
 versao
 selvagem
-em geral
+emgeral
 bem
 mais
 ingenuo
@@ -33,7 +33,7 @@ neoexpressionismo
 grassar
 Alemanha
 Italia
-Estados Unidos
+EstadosUnidos
 ir
 voce
 geracao
@@ -43,7 +43,7 @@ Aperto
 organizar
 critico
 italiano
-Achille Bonito Oliva
+AchilleBonitoOliva
 Bienal
 Veneza
 haver
@@ -59,29 +59,29 @@ imagem
 territorio
 brasileiro
 excluir
-no entanto
+noentanto
 questao
 prioritario
-por tras
+portras
 obra
 artista
 estrangeiro
 ficar
 especie
-tabula rasa
+tabularasa
 dogma
 arte
 moderno
-em nome de
+emnomede
 relacao
 mais
 sensorial
 prazeroso
 arte
-Agnaldo Farias
+AgnaldoFarias
 curador
 segmento
-Anos  e 
+Anose
 professor
 arquitetura
 urbanismo
@@ -138,7 +138,7 @@ marketing
 cultural
 mercadologico
 exemplo
-Jorge Guinle
+JorgeGuinle
 considerar
 Farias
 pintor
@@ -147,25 +147,25 @@ exatamente
 nao
 render
 facilidade
-tabula rasa
+tabularasa
 saber
 incorporar
 reflexao
 permanente
 obra
 paralelamente
-Sao Paulo
+SaoPaulo
 linhagem
 ir
 desenvolver
 encabecar
 grupo
 Casa
-Paulo Monteiro
-Fabio Miguez
-Nunco Ramos
-Carlito Carvalhosa
-Rodrigo Andrade
+PauloMonteiro
+FabioMiguez
+NuncoRamos
+CarlitoCarvalhosa
+RodrigoAndrade
 cujo
 trabalho
 inicialmente
@@ -191,7 +191,7 @@ ja
 conhecer
 ano
 Tunga
-Milton Machado
+MiltonMachado
 preocupacao
 tentar
 pingo
@@ -206,7 +206,7 @@ militante
 critico
 selecao
 levar
-em conta
+emconta
 bom
 chamado
 geracao
@@ -214,7 +214,7 @@ descartar
 tendencia
 paralelo
 desenvolver
-a margem de
+amargemde
 fanfarra
 marketing
 Farias
@@ -238,7 +238,7 @@ artista
 haver
 esfriamento
 pintura
-junto com
+juntocom
 discussao
 relacionar
 materia
@@ -246,8 +246,8 @@ segundo
 periodo
 destacar
 trabalho
-Jac Leirner
-Frida Baranek
-Paulo Monteiro
-Nuno Ramos
-Angelo Venosa
+JacLeirner
+FridaBaranek
+PauloMonteiro
+NunoRamos
+AngeloVenosa

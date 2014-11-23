@@ -11,23 +11,23 @@ hoje
 meianoite
 Aeroanta
 r
-Miguel Isasa
+MiguelIsasa
 pinheiro
 Pag
 estreia
-Chico Cesar
+ChicoCesar
 cantor
 apresentar
 composicao
 proprio
 parceria
-Itamar Assumpcao
-Tete Espindolla
+ItamarAssumpcao
+TeteEspindolla
 centro
 cultural
-Sao Paulo
+SaoPaulo
 sala
-Adoniran Barbosa
+AdoniranBarbosa
 r
 vergueiro
 tel
@@ -43,32 +43,32 @@ blues
 teatro
 Hall
 r
-Rui Barbosa
+RuiBarbosa
 tel
 sex
 sab
 cartaz
-Mario Lago
+MarioLago
 ator
 compositor
-Mario Lago
+MarioLago
 relembrar
 parceria
-Ataulfo Alves
-Benedito Lacerda
-Custodio Mesquita
+AtaulfoAlves
+BeneditoLacerda
+CustodioMesquita
 teatro
-Sesc Pompeia
+SescPompeia
 r
-MIRIAM Batucada
+MIRIAMBatucada
 cantora
 compositora
 paulistano
 mostrar
 versao
 cancao
-Adoniram Barbosa
-Billy Blanco
+AdoniramBarbosa
+BillyBlanco
 inverno
 Verao
 Vieira
@@ -78,44 +78,44 @@ campo
 belo
 ingresso
 CR
-Chico BUARQUE
+ChicoBUARQUE
 cantor
 compositor
 mostrar
 musica
-sendo que
+sendoque
 parte
 ultimo
 CD
 Paratodos
-De Volta ao Samba
-A Foto da Capa
+DeVoltaaoSamba
+AFotodaCapa
 roteiro
 show
 proprio
 Chico
 produtor
-Vinicius Franca
+ViniciusFranca
 banda
 formar
-Marcelo Bernardes
+MarceloBernardes
 sopro
-Chico Batera
+ChicoBatera
 percussao
-Jorge Helder
+JorgeHelder
 baixo
 Wilson
 Neves
 bateris
-Joao Reboucas
+JoaoReboucas
 piano
 teclar
-Luiz Claudio Ramos
+LuizClaudioRamos
 arranjo
 regencia
 violao
 iluminacao
-Ney Matogrosso
+NeyMatogrosso
 Palace
 Jamaris
 tel
@@ -151,7 +151,7 @@ banda
 apresentar
 musica
 CD
-Danca Brasil
+DancaBrasil
 misturar
 varios
 ritmo
@@ -160,7 +160,7 @@ teatro
 Vento
 forte
 r
-Haroldo Veloso
+HaroldoVeloso
 tel
 Sab
 humor
@@ -180,7 +180,7 @@ teatro
 Cultura
 artistico
 r
-Nestor Pestana
+NestorPestana
 tel
 sex
 sab
@@ -193,4 +193,4 @@ varios
 cantor
 brasileiro
 Belchior
-Edson Cordeiro
+EdsonCordeiro

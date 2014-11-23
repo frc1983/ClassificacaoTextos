@@ -7,13 +7,13 @@ dia
 maio
 durante
 GP
-San Marino
+SanMarino
 circuito
 imolar
 Italia
 Williams
 tricampeao
-Ayrton Senna da Silva
+AyrtonSennadaSilva
 sair
 curva
 Taburello
@@ -21,7 +21,7 @@ kmh
 chocar
 muro
 transmitir
-ao vivo
+aovivo
 TV
 cena
 traumatizar
@@ -39,7 +39,7 @@ treino
 oficial
 dia
 abril
-Rubens Barrichello
+RubensBarrichello
 perder
 controle
 decolar
@@ -49,7 +49,7 @@ safar
 arranhao
 dia
 austriaco
-Roland Ratzemberger
+RolandRatzemberger
 escapar
 curva
 Villeneuve
@@ -60,7 +60,7 @@ hora
 corrida
 comecar
 mal
-Pedro Lamy
+PedroLamy
 Lotus
 J
 J
@@ -76,7 +76,7 @@ medo
 pista
 preocupar
 Senna
-San Marino
+SanMarino
 desempenho
 carro
 seguranca
@@ -100,30 +100,30 @@ Monaco
 dia
 maio
 austriaco
-Karl Wendlinger
+KarlWendlinger
 sofrer
 acidente
 grave
 recuperar
 continuar
-fora de
+forade
 pista
 funeral
 heroi
-Ayrton Senna
+AyrtonSenna
 velar
 enterrar
-Sao Paulo
-na presenca de
+SaoPaulo
+napresencade
 multidao
 honra
 chefe
 Estado
 acima
-Alain Prost
-Jackie Stewart
-Emerson Fittipaldi
-Gerhard Berger
+AlainProst
+JackieStewart
+EmersonFittipaldi
+GerhardBerger
 piloto
 conduzir
 caixao
@@ -143,10 +143,10 @@ Erundina
 sessao
 fofoca
 ficar
-a cargo de
+acargode
 Xuxa
 exnamorar
-Adriane Galisteu
+AdrianeGalisteu
 ultimo
 namorada
 caminho
@@ -165,7 +165,7 @@ presenca
 onda
 convidar
 Lua
-todo o
+todoo
 estrela
 zodiaco
 servir
@@ -177,8 +177,8 @@ Angra
 colher
 sussurro
 enamorar
-Adriane Galisteu
+AdrianeGalisteu
 falar
 Senna
 livro
-Caminho das Borboletas
+CaminhodasBorboletas

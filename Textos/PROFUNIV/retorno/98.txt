@@ -6,7 +6,7 @@ onde
 selecao
 ir
 jogar
-agencia internacional
+agenciainternacional
 comite
 organizador
 Copa
@@ -15,13 +15,13 @@ oficializar
 ontem
 guitarrista
 mexicano
-Carlos Santana
+CarlosSantana
 espetaculo
 abertura
 Copa
 estadio
 Stanford
-San Francisco
+SanFrancisco
 dia
 junho
 data
@@ -41,20 +41,20 @@ julho
 Santana
 ja
 vender
-cerca de
+cercade
 milhao
 album
-mais de
+maisde
 ano
 carreira
 sucesso
-Oye como va
-Samba para ti
-Black Magic Woman
+Oyecomova
+Sambaparati
+BlackMagicWoman
 comite
 informar
 tambem
-junto com
+juntocom
 participar
 cerimonia
 artista
@@ -64,12 +64,12 @@ responsavel
 organizacao
 evento
 acontecer
-San Francisco
-Peter Bridgewater
+SanFrancisco
+PeterBridgewater
 afirmar
 indicacao
 apropriar
-ja que
+jaque
 artista
 viver
 regiao
@@ -85,7 +85,7 @@ latino
 estar
 Brasil
 oportunidade
-sendo que
+sendoque
 mais
 importante
 participacao
@@ -94,10 +94,10 @@ in
 Rio
 encerrar
 show
-Gilberto Gil
+GilbertoGil
 tocar
 Exodus
-Bob Marley
+BobMarley
 estadio
 servir
 palco

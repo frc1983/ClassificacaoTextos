@@ -1,13 +1,13 @@
-FMS Clandestinas
+FMSClandestinas
 atividade
-Sao Paulo
+SaoPaulo
 novo
 Frequencia
 MHz
 vila
 formoso
 toco
-dance music
+dancemusic
 hiphop
 veicular
 anuncio
@@ -36,7 +36,7 @@ anuncio
 espaco
 MHz
 parque
-Edu Chaves
+EduChaves
 samba
 hiphop
 anuncio

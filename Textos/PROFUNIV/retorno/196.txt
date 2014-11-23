@@ -10,7 +10,7 @@ Martius
 dote
 imperatriz
 Leopoldina
-RICARDO BONALUME NETOEspecial
+RICARDOBONALUMENETOEspecial
 Folha
 hoje
 comemorar
@@ -35,7 +35,7 @@ mais
 prolifico
 seculo
 botanico
-Karl Friedrich Philipp
+KarlFriedrichPhilipp
 von
 Martius
 luz
@@ -43,7 +43,7 @@ cidade
 Erlangen
 Baviera
 sul
-do que
+doque
 hoje
 chamar
 Alemanha
@@ -61,7 +61,7 @@ Pedro
 receber
 esposa
 austriaca
-Maria Leopoldina Josefa
+MariaLeopoldinaJosefa
 Habsburgo
 parte
 dote
@@ -70,20 +70,20 @@ receber
 comitiva
 sabio
 europeu
-o qual
+oqual
 jovem
 botanico
 Martius
 colega
 zoologo
-Johann Baptist
+JohannBaptist
 von
 Spix
 dupla
 viajar
 ano
-Sao Paulo
-Minas Gerais
+SaoPaulo
+MinasGerais
 Bahia
 Pernambuco
 Maranhao
@@ -102,7 +102,7 @@ pais
 mais
 importante
 vegetacao
-Flora Brasiliensis
+FloraBrasiliensis
 comecar
 publicar
 so
@@ -113,7 +113,7 @@ morte
 Martius
 fasciculo
 volume
-o qual
+oqual
 trabalhar
 botanico
 diversos
@@ -121,8 +121,8 @@ pais
 europeu
 liderar
 tambem
-August Wilhelm Eichler
-Ignaz Urban
+AugustWilhelmEichler
+IgnazUrban
 pais
 orgulhar
 possuir
@@ -140,8 +140,8 @@ brasileiro
 professor
 emerito
 USP
-Mario Guimaraes Ferri
-ja nao
+MarioGuimaraesFerri
+janao
 tempo
 bom
 parte
@@ -164,7 +164,7 @@ trabalho
 pioneiro
 lusobrasileiro
 seculo
-Alexandre Rodrigues Ferreira
+AlexandreRodriguesFerreira
 sofrer
 defeito
 mortal
@@ -179,7 +179,7 @@ cientifico
 Brasil
 comecar
 alemao
-Georg Marcgrave
+GeorgMarcgrave
 membro
 comitiva
 conde
@@ -188,7 +188,7 @@ Nassau
 governador
 Brasil
 holandes
-Historia Naturalis Brasiliae
+HistoriaNaturalisBrasiliae
 publicar
 livro
 herbario
@@ -203,7 +203,7 @@ Martius
 proteger
 Nassau
 medico
-Wilhelm Piso
+WilhelmPiso
 contribuicao
 planta
 medicinal
@@ -212,7 +212,7 @@ caro
 Martius
 ano
 baiano
-Alexandre Rodrigues Ferreira
+AlexandreRodriguesFerreira
 viajar
 Amazonia
 colecao
@@ -230,9 +230,9 @@ local
 ciencia
 estudo
 seminal
-Viagem Filosofica
+ViagemFilosofica
 publicar
-alem de
+alemde
 botanico
 Martius
 poeta

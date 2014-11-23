@@ -10,7 +10,7 @@ Franca
 Premio
 nobel
 literatura
-Albert Camus
+AlbertCamus
 ano
 lado
 pasta
@@ -51,7 +51,7 @@ avo
 lembrar
 ler
 legenda
-filme mudo
+filmemudo
 assistir
 autor
 cogitar
@@ -59,7 +59,7 @@ titulo
 livro
 Adao
 imagem
-O Primeiro Homem
+OPrimeiroHomem
 casal
 Argelia
 nascimento
@@ -86,7 +86,7 @@ pai
 mais
 jovem
 escrever
-O Primeiro Homem
+OPrimeiroHomem
 Camus
 ler
 estudar
@@ -104,12 +104,12 @@ irma
 Lucien
 Argelia
 falar
-pela primeira vez
+pelaprimeiravez
 projeto
 nao
 saber
-o que
+oque
 opiniao
-acerca de
+acercade
 livro
 diverso

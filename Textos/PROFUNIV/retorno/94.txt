@@ -9,7 +9,7 @@ fugir
 horario
 rush
 rodovia
-Castelo Branco
+CasteloBranco
 imediacao
 opcao
 frequentar
@@ -27,17 +27,17 @@ castelo
 congestionar
 Tambore
 promover
-dentro de
+dentrode
 shopping
 happy
 hour
 show
-ao vivo
-todo o
+aovivo
+todoo
 segunda
 tercafeira
 violonista
-Jose Carlos Cerpa
+JoseCarlosCerpa
 interpretar
 musica
 diversos
@@ -69,5 +69,5 @@ avenida
 Piracema
 acesso
 rodovia
-Castelo Branco
+CasteloBranco
 km

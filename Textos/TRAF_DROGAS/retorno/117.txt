@@ -2,7 +2,7 @@ anais
 DECONTA
 violino
 humano
-Aristides Junqueira
+AristidesJunqueira
 procuradorgeral
 Republica
 sociologo
@@ -15,7 +15,7 @@ campanha
 Aids
 anteontem
 programa
-Opiniao Nacional
+OpiniaoNacional
 TV
 Cultura
 anais
@@ -24,12 +24,12 @@ deixar
 Corte
 entrar
 historia
-Bill Clinton
+BillClinton
 presidente
 EUA
 aposentadoria
 juiz
-Harry Blackmun
+HarryBlackmun
 legalizar
 aborto
 pais
@@ -38,17 +38,17 @@ Folha
 DECONTA
 continuar
 negociar
-como se
+comose
 nao
 haver
 terrorismo
 combater
 terrorista
-como se
+comose
 nao
 haver
 negociacao
-Yossi Sarid
+YossiSarid
 ministro
 Meio
 ambiente
@@ -66,16 +66,16 @@ compositor
 VillaLobos
 autografar
 dedicar
-Bidu Sayao
+BiduSayao
 violino
 humano
-Bidu Sayao
+BiduSayao
 cantora
 lirico
 enredo
-escola de samba
+escoladesamba
 beijar
 Flor
 Carnaval
 ontem
-Jornal do Brasil
+JornaldoBrasil

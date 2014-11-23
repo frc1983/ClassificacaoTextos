@@ -10,7 +10,7 @@ estar
 sensivelmente
 reduzir
 quase
-todo o
+todoo
 Estado
 prejudicar
 cultura
@@ -25,7 +25,7 @@ nordeste
 disponibilidade
 hidrico
 estar
-abaixo de
+abaixode
 limite
 indicar
 irrigacao
@@ -34,7 +34,7 @@ necessario
 regiao
 Alta
 Araraquarense
-Alta Mogiana
+AltaMogiana
 haver
 local
 onde

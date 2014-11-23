@@ -1,7 +1,7 @@
 sociedade
 politica
 utopia
-Fera Ferida
+FeraFerida
 encerrar
 regeneracao
 social
@@ -27,9 +27,9 @@ entretenimento
 arte
 nao
 haver
-o que
+oque
 reclamar
-ao mesmo tempo
+aomesmotempo
 politica
 continuar
 mal
@@ -51,7 +51,7 @@ presidencia
 corrupto
 notorio
 assim
-Fera Ferida
+FeraFerida
 mostrar
 autoretrato
 cultura
@@ -117,7 +117,7 @@ familia
 questao
 passar
 futuro
-nao mais
+naomais
 passado
 entrar
 colapso
@@ -128,14 +128,14 @@ questao
 explicitar
 perguntar
 Flamel
-o que
+oque
 querer
 justica
 vinganca
 infelizmente
 nao
 possivel
-Fera Ferida
+FeraFerida
 passar
 cobranca
 divida
@@ -159,7 +159,7 @@ oposicao
 nada
 falha
 novela
-tudo isso
+tudoisso
 duvida
 proposital
 interesse
@@ -168,7 +168,7 @@ fato
 residir
 mostrar
 autoretrato
-por meio de
+pormeiode
 televisao
 massa
 espectador
@@ -179,10 +179,10 @@ pensar
 resumir
 ponto
 insatisfacao
-status quo
+statusquo
 porem
 sobretudo
-ponto de vista
+pontodevista
 moral
 ineficiencia
 servico
@@ -198,7 +198,7 @@ moralista
 ficar
 impossivel
 ir
-alem de
+alemde
 esquizofrenico
 regeneracao
 sociedade
@@ -229,7 +229,7 @@ nao
 postura
 politicamente
 correto
-o que quer que
+oquequerque
 significar
 contrasenso
 politica
@@ -241,7 +241,7 @@ reduzir
 dicotomia
 certo
 errar
-Fera Ferida
+FeraFerida
 valer
 sintoma
 revelar
@@ -253,14 +253,14 @@ politica
 dimensao
 literalmente
 alienar
-o qual
+oqual
 nao
 controle
 supervalorizar
 moral
 esforco
 dedicacao
-apesar de
+apesarde
 apenas
 moral
 imaginar
@@ -274,7 +274,7 @@ utopia
 cintilar
 elogio
 postumo
-Ayrton Senna
+AyrtonSenna
 Pais
 prosperar
 nao
@@ -290,7 +290,7 @@ alcar
 voz
 custar
 caro
-Renato JANINE Ribeiro
+RenatoJANINERibeiro
 professor
 titular
 filosofia

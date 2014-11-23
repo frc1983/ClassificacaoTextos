@@ -6,7 +6,7 @@ ano
 vida
 orcamento
 diario
-em torno de
+emtornode
 US
 milhao
 funcionario
@@ -33,15 +33,15 @@ participar
 debatedor
 medico
 HC
-Antonio Carlos Gomes da Silva
+AntonioCarlosGomesdaSilva
 superintendente
-Gyorgy Miklos Bohm
+GyorgyMiklosBohm
 diretor
 executivo
 Fundacao
 Faculdade
 medicina
-Dario Birolini
+DarioBirolini
 professor
 titular
 Departamento
@@ -52,7 +52,7 @@ coordenador
 Prontosocorro
 Instituto
 central
-Dalton Chamone
+DaltonChamone
 professor
 titular
 hematologia
@@ -61,7 +61,7 @@ diretor
 Fundacao
 prosangue
 Hemocentro
-Antranik Manissadjian
+AntranikManissadjian
 diretor
 clinico
 presidente

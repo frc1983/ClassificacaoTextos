@@ -1,15 +1,14 @@
-Antunes Filho
+AntunesFilho
 Dimensao
 utopico
-Sebastiao Milare
+SebastiaoMilare
 editora
 Perspectiva
 brigadeiro
-Luis Antonio
-Sao Paulo
+LuisAntonio
+SaoPaulo
 cep
 tel
- 
 problema
 brasileiro
 n
@@ -26,8 +25,7 @@ comercial
 paulista
 andar
 tel
- 
-alem de
+alemde
 tema
 politica
 externo
@@ -36,7 +34,7 @@ constitucional
 trazer
 texto
 economista
-Josef Barat
+JosefBarat
 estatizacao
 extensao
 VOL
@@ -48,43 +46,41 @@ Universidade
 catolico
 mG
 dom
-Jose Gaspar
+JoseGaspar
 belo
 Horizonte
 mG
 cep
 tel
- 
 trazer
 ensaio
 economista
-Gilson Schwartz
+GilsonSchwartz
 critica
 literario
-Lucia Castelo Branco
+LuciaCasteloBranco
 psiquiatra
-Marco Aurelio Baggio
+MarcoAurelioBaggio
 semiotica
 estetica
 PLATAO
 PEIRCE
-Lucia Santaella
+LuciaSantaella
 capa
-Ana Aly
+AnaAly
 editora
 experimentar
 Ipiranga
 conjunto
-Sao Paulo
+SaoPaulo
 cep
 tel
- 
 discutir
 concepcao
 estetico
 linguista
 norteamericano
-CharlesSanders Peirce
+CharlesSandersPeirce
 interpretacao
 autor
 Platao
@@ -109,20 +105,19 @@ sala
 SP
 cep
 tel
- 
 numero
 dedicar
 barroco
 texto
-Joao Adolfo Hansen
-Fernando Segolin
+JoaoAdolfoHansen
+FernandoSegolin
 Haroldo
 campo
-Samira Chalhub
+SamiraChalhub
 poesia
 ANTIUNIVERSO
-Fernando Py
-Ed Firmo
+FernandoPy
+EdFirmo
 r
 Imperador
 sala
@@ -132,10 +127,9 @@ tel
 Ed
 Letra
 r
-Maria Angelica
+MariaAngelica
 RJ
 tel
- 
 poema
 longo
 autor
@@ -148,7 +142,7 @@ tempo
 percepcao
 tempo
 preterito
-Ives Gandra da Silva
+IvesGandradaSilva
 Martins
 edicao
 Clube
@@ -161,7 +155,6 @@ paulista
 SP
 cep
 tel
- 
 reedicao
 obra
 publicar
@@ -180,7 +173,7 @@ Teoria
 psicanalitico
 org
 trad
-Ari Roitman
+AriRoitman
 ed
 RelumeDumara
 r
@@ -190,11 +183,10 @@ sala
 RJ
 cep
 tel
- 
 autor
-Julia Kristeva
+JuliaKristeva
 Octave
-Maud Mannoni
+MaudMannoni
 analisar
 papel
 identificacao
@@ -206,19 +198,18 @@ imaginario
 forma
 alienacao
 Psicopatologia
-Emilio Romero
+EmilioRomero
 r
 Silvia
 SP
 cep
 tel
- 
 autor
 formular
 definicao
 neurose
 psicose
-a partir de
+apartirde
 abordagem
 existencialfenomenologico
 basear
@@ -230,17 +221,16 @@ utopia
 latino
 AMERICANA
 org
-Moacir Gadotti
-Carlos A
+MoacirGadotti
+CarlosA
 torre
 ed
 Cortez
 r
 Bartira
-Sao Paulo
+SaoPaulo
 cep
 tel
- 
 Edusp
 reunir
 texto
@@ -251,7 +241,7 @@ educacional
 experiencia
 pedagogico
 popular
-America Latina
+AmericaLatina
 Professor
 universitario
 heroi
@@ -270,7 +260,6 @@ barao
 Bananal
 SP
 tel
- 
 manual
 orientar
 professor
@@ -284,17 +273,16 @@ desenvolvimento
 tecnologia
 Governabilidade
 org
-Joao Paulo
+JoaoPaulo
 rei
 Velloso
 editora
 nobel
 r
-Maria Antonia
-Sao Paulo
+MariaAntonia
+SaoPaulo
 cep
 tel
- 
 exame
 perspectiva
 desenvolvimento
@@ -305,20 +293,19 @@ economico
 social
 tecnologico
 Historia
-DOS Bancarios
+DOSBancarios
 luta
 Conquista
 org
-Dainis Karepovs
+DainisKarepovs
 sindicato
 bancario
-Sao Paulo
+SaoPaulo
 r
 Bento
 SP
 cep
 tel
- 
 atraves
 historia
 bancario
@@ -326,6 +313,6 @@ livro
 acompanhar
 evolucao
 urbano
-Sao Paulo
+SaoPaulo
 instituicao
 costume

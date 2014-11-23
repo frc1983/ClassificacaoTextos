@@ -1,4 +1,4 @@
-Castle Donington
+CastleDonington
 versao
 brasileiro
 metaleiro
@@ -6,7 +6,7 @@ brasileiro
 nao
 ir
 festival
-Castle Donington
+CastleDonington
 Inglaterra
 evento
 Brasil
@@ -19,7 +19,7 @@ extremar
 sepultura
 Pantera
 passar
-por aqui
+poraqui
 recentemente
 mais
 esperar
@@ -31,7 +31,7 @@ ano
 lotar
 Maracana
 nome
-Black Sabbath
+BlackSabbath
 chegar
 formacao
 mais
@@ -42,21 +42,21 @@ vocalista
 Dio
 ja
 lugar
-Ozzy Osbourne
-Tony Martin
+OzzyOsbourne
+TonyMartin
 acompanhar
-Tony Iomi
+TonyIomi
 guitarra
-Terry Butler
+TerryButler
 baixo
-Bobby Rondinelli
+BobbyRondinelli
 bateria
 inedito
-Suicidal Tendencies
+SuicidalTendencies
 conhecer
 musica
-Ill Hate You Better
-Nobody Here
+IllHateYouBetter
+NobodyHere
 Slayer
 prometer
 disco
@@ -81,7 +81,7 @@ rock
 estadio
 Pacaembu
 Pca
-Charles Muller
+CharlesMuller
 s
 n
 Pacaembu

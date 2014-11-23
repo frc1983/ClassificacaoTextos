@@ -25,11 +25,11 @@ atual
 ficar
 tambem
 publico
-em geral
+emgeral
 informacao
 fragmentar
 afirmar
-alem de
+alemde
 haver
 erro
 informacao
@@ -41,7 +41,7 @@ pontificio
 Universidade
 catolico
 USP
-Arlindo Machado
+ArlindoMachado
 preferir
 classificar
 programa
@@ -65,7 +65,7 @@ leitura
 dizer
 Machado
 professor
-Fredric Litto
+FredricLitto
 coordenador
 cientifico
 Escola
@@ -74,7 +74,7 @@ USP
 CDROM
 favor
 tambem
-capacidade de armazenamento
+capacidadedearmazenamento
 facilidade
 consulta
 segundo
@@ -84,9 +84,9 @@ fundamental
 conceito
 aula
 hoje
-apesar de
+apesarde
 critica
-Claudete Junqueira
+ClaudeteJunqueira
 tambem
 nao
 CDROM

@@ -4,7 +4,7 @@ euforia
 afirmar
 sorte
 euforia
-Michael Schumacher
+MichaelSchumacher
 resumir
 champanhe
 podio
@@ -21,7 +21,7 @@ campeao
 mundial
 triunfo
 seguir
-Flavio Briatore
+FlavioBriatore
 diretor
 Benetton
 coro
@@ -53,7 +53,7 @@ achar
 ir
 anular
 largar
-por causa de
+porcausade
 acidente
 nao
 acontecer
@@ -75,12 +75,12 @@ corrida
 Michael
 perfeito
 ganhar
-de ponta a ponta
+depontaaponta
 sorte
 nao
 companheiro
 holandes
-Joe Verstappen
+JoeVerstappen
 substituir
 titular
 J

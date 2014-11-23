@@ -22,7 +22,7 @@ carioca
 decidir
 intervencao
 Exercito
-Rio de Janeiro
+RiodeJaneiro
 combater
 contrabando
 arma
@@ -32,8 +32,8 @@ homem
 comando
 general
 Roberto
-Jugurtha Camara Senna
-a partir de
+JugurthaCamaraSenna
+apartirde
 novembro
 Exercito
 subir
@@ -69,7 +69,7 @@ cidade
 ate
 dezembro
 pobre
-Sao Paulo
+SaoPaulo
 ano
 ir
 chacina
@@ -103,7 +103,7 @@ dia
 marco
 estudante
 direito
-Andreia Pereira Gomes Amaral
+AndreiaPereiraGomesAmaral
 Santos
 realizar
 plano
@@ -123,7 +123,7 @@ violentar
 outubro
 estudante
 farmacia
-Carlos Alberto Pinto
+CarlosAlbertoPinto
 Oliveira
 degolar
 mae
@@ -131,7 +131,7 @@ pai
 ajuda
 matador
 contratar
-Porto Alegre
+PortoAlegre
 dizer
 pai
 ameacar
@@ -139,7 +139,7 @@ internar
 tratamento
 psiquiatrico
 outubro
-Gustavo Pissardo
+GustavoPissardo
 esq
 tecnico
 manutencao
@@ -159,4 +159,4 @@ campina
 dizer
 nao
 saber
-o que
+oque

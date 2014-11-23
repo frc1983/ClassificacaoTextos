@@ -1,12 +1,12 @@
-RATIMBUM Mostra
-Poemas Animados
+RATIMBUMMostra
+PoemasAnimados
 VEJA
 boneco
 novo
 Programa
 freelance
 Folhinha
-Castelo RaTimBum
+CasteloRaTimBum
 novo
 programa
 TV
@@ -16,7 +16,7 @@ estrear
 maio
 novidade
 quadro
-Poesias Animadas
+PoesiasAnimadas
 poema
 escritor
 brasileiro
@@ -40,8 +40,8 @@ animar
 historia
 poema
 desenho
-Celia Catunda
-Kiko Mistrogio
+CeliaCatunda
+KikoMistrogio
 brincadeira
 Folhinha
 total
@@ -56,7 +56,7 @@ VEJA
 boneco
 novo
 Programa
-Castelo RaTimBum
+CasteloRaTimBum
 ator
 boneco
 conviver
@@ -77,7 +77,7 @@ alunar
 feiticeiro
 boneco
 castelo
-papel mache
+papelmache
 massa
 papel
 latex
@@ -110,13 +110,13 @@ Adelaide
 gralhar
 tipo
 passaro
-de estimacao
+deestimacao
 bruxa
 Morgana
 Celeste
 cobrar
 morar
-dentro de
+dentrode
 arvore
 Tap
 Flap

@@ -19,7 +19,7 @@ tricampeao
 mundial
 Everaldo
 junior
-Sergio Gil
+SergioGil
 vitima
 fatal
 velocidade
@@ -28,7 +28,7 @@ entrar
 sombrio
 lista
 aproveitar
-muito tempo
+muitotempo
 Mitsubishi
 branco
 lista
@@ -39,7 +39,7 @@ Corinthians
 roberto
 Batata
 cruzeiro
-Daniel Gonzalez
+DanielGonzalez
 Vasco
 Eneas
 portuguesa
@@ -47,7 +47,7 @@ Palmeira
 Reginaldo
 Ituano
 Edivaldo
-Sao Paulo
+SaoPaulo
 ponto
 comum
 velocidade
@@ -66,11 +66,11 @@ carrao
 poste
 palmeirense
 Suingue
-Luis Carlos
+LuisCarlos
 viajar
 juntar
 ano
-Jair Marinho
+JairMarinho
 entao
 Corinthians
 fraturar

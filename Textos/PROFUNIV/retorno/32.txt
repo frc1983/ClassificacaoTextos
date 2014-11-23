@@ -18,7 +18,7 @@ guerra
 situacao
 parar
 piorar
-a partir de
+apartirde
 final
 decada
 sociedade
@@ -41,7 +41,7 @@ estudioso
 assunto
 Valeixo
 dizer
-apesar de
+apesarde
 mobilizacao
 sociedade
 conscientizacao
@@ -77,7 +77,7 @@ dizer
 violencia
 viario
 estar
-mais ou menos
+maisoumenos
 conter
 afirmar
 Valeixo
@@ -140,8 +140,8 @@ policial
 falta
 vara
 especializar
-em transito
-todo o
+emtransito
+todoo
 pais
 existir
 apenas
@@ -215,8 +215,8 @@ transito
 brasileiro
 obrigatoriedade
 uso
-cinto de seguranca
-Sao Paulo
+cintodeseguranca
+SaoPaulo
 acabar
 criar
 habito

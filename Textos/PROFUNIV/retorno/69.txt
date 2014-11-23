@@ -1,4 +1,4 @@
-a titulo de
+atitulode
 curiosidade
 lembrar
 Molecula
@@ -6,7 +6,7 @@ ano
 conhecer
 reacao
 polimerase
-em cadeia
+emcadeia
 permitir
 amplificar
 fragmento
@@ -46,7 +46,7 @@ quantidade
 molecula
 mistura
 the
-New England Journal
+NewEnglandJournal
 of
 medicinar
 edicao
@@ -90,7 +90,7 @@ revista
 britanico
 carta
 fisico
-Carl Sagan
+CarlSagan
 Steven
 ostro
 alerta
@@ -130,17 +130,17 @@ parcialmente
 conjunto
 logico
 permitir
-por exemplo
+porexemplo
 regular
 aparelho
-ar condicionado
+arcondicionado
 entender
 Referencia
 citacao
 cientifico
 convencionar
 numero
-em negrito
+emnegrito
 indicar
 volume
 ultimo

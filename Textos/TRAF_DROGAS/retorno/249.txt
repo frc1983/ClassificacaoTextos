@@ -1,13 +1,13 @@
 comunhao
 bandagem
-pelo menos
+pelomenos
 questao
 combate
 droga
 Brasil
 estar
 alta
-Estados Unidos
+EstadosUnidos
 acabar
 sair
 relatorio
@@ -23,9 +23,9 @@ Brasil
 enaltecer
 pleno
 cooperacao
-Estados Unidos
+EstadosUnidos
 dizer
-todo o
+todoo
 medida
 proprio
 adequar
@@ -41,7 +41,7 @@ nada
 agradavel
 aterrissagem
 belo
-Charlene Shorto
+CharleneShorto
 semana
 passar
 Roma

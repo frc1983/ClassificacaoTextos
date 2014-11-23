@@ -4,7 +4,7 @@ volante
 carro
 Sucursal
 Rio
-Oto Gomes
+OtoGomes
 Miranda
 guiar
 carro
@@ -19,7 +19,7 @@ Miranda
 estar
 internar
 hospital
-Miguel Couto
+MiguelCouto
 zona
 sul
 Rio
@@ -31,7 +31,7 @@ contrabandear
 arma
 EUA
 Brasil
-alem de
+alemde
 acusacao
 contrabando
 Miranda
@@ -96,4 +96,4 @@ modelo
 trigemea
 Lilian
 Renata
-Marelise Porto
+MarelisePorto

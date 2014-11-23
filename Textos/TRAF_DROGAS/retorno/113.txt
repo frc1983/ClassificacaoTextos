@@ -1,8 +1,8 @@
 frase
 letra
 frevo
-Moraes Moreira
-Paulo Leminski
+MoraesMoreira
+PauloLeminski
 Folha
 nao
 permitir
@@ -11,7 +11,7 @@ direito
 raposa
 viver
 galinheiro
-Leonel Brizola
+LeonelBrizola
 comicio
 Rio
 direto
@@ -20,19 +20,19 @@ Folha
 abr
 alo
 Valdemar
-o povo
+opovo
 querer
 votar
 alo
 Anacleta
-o povo
+opovo
 querer
 direto
 Chacrinha
 animador
 televisao
 comicio
-Rio de Janeiro
+RiodeJaneiro
 direto
 Folha
 abr

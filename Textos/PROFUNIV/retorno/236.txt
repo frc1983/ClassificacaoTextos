@@ -18,7 +18,7 @@ tratar
 Nucleo
 defesa
 Consumidor
-Administracao Familiar
+AdministracaoFamiliar
 conhecer
 Necaf
 nucleo
@@ -68,7 +68,7 @@ consumidor
 regiao
 orientar
 direito
-por meio de
+pormeiode
 plantao
 telefonico
 seguir

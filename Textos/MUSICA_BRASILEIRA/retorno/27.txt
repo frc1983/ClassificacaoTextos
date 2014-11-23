@@ -4,7 +4,7 @@ ja
 estar
 mais
 barato
-o que
+oque
 Seguradora
 oferecer
 mais
@@ -42,18 +42,18 @@ plano
 diferenciar
 preco
 mais
-em conta
+emconta
 reviravolta
 setor
 nao
-de agora
+deagora
 comecar
 liberacao
 gradual
 tarifa
 hoje
 estar
-ao sabor de
+aosaborde
 mercado
 ganhar
 consumidor
@@ -68,8 +68,8 @@ cair
 metade
 segundo
 corretor
-Itau Seguros
-por exemplo
+ItauSeguros
+porexemplo
 estar
 tirar
 forno
@@ -89,8 +89,8 @@ metade
 preco
 mercado
 informar
-Paulo Eduardo
-Freitas Botti
+PauloEduardo
+FreitasBotti
 vicepresidente
 executivo
 cobertura
@@ -111,7 +111,7 @@ estar
 prever
 novo
 plano
-pessoa fisica
+pessoafisica
 ir
 estar
 disponivel
@@ -129,7 +129,7 @@ ir
 oferecer
 novo
 cobertura
-dentro de
+dentrode
 plano
 saude
 vida
@@ -158,7 +158,7 @@ mercado
 milhao
 segurar
 programar
-cerca de
+cercade
 lancamento
 levar
 ir
@@ -181,14 +181,14 @@ segredo
 detalhe
 lancamento
 hoje
-por exemplo
+porexemplo
 Bameirindus
 fornecer
 extrato
 valor
 segurar
 corrigir
-por um lado
+porumlado
 consumidor
 ganhar
 leque
@@ -210,12 +210,12 @@ iminencia
 quebrar
 dizer
 consultor
-Antonio Penteado Mendonca
+AntonioPenteadoMendonca
 segundo
 empresa
 vender
 seguro
-abaixo de
+abaixode
 custo
 sustentar
 apenas
@@ -224,7 +224,7 @@ financeiro
 patrocinar
 inflacao
 alto
-o que
+oque
 Seguradora
 oferecer
 mais
@@ -236,7 +236,7 @@ rebocar
 transporte
 hospedagem
 hotel
-fora de
+forade
 cidade
 caso
 pane
@@ -254,7 +254,7 @@ segundo
 veiculo
 segurar
 vistoria
-em casa
+emcasa
 residencia
 so
 incendio
@@ -296,7 +296,7 @@ vida
 plano
 Vidainvest
 receber
-em vida
+emvida
 fim
 contrato
 resgatar
@@ -318,7 +318,7 @@ despesa
 reboque
 oficina
 conveniar
-todo o
+todoo
 pais
 atendimento
 telefonico
@@ -368,7 +368,7 @@ cobrir
 dano
 familia
 veiculo
-dentro de
+dentrode
 garagem
 vida
 vigencia
@@ -377,10 +377,10 @@ sorteio
 semanal
 permitir
 receber
-em vida
+emvida
 valor
 segurar
-morte natural
+mortenatural
 dispensar
 exame
 medico
@@ -482,7 +482,7 @@ hospedagem
 residencia
 desconto
 crescente
-de acordo
+deacordo
 numero
 garantia
 contratar
@@ -512,9 +512,9 @@ AGF
 BAMERINDUS
 bradesco
 cidade
-Rio de Janeiro
+RiodeJaneiro
 ITAU
-Sao Paulo
+SaoPaulo
 nacional
 Porto
 seguro
