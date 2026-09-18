@@ -58,6 +58,46 @@ Gera HTML estático em `dist/`.
 
 O `.htaccess` em `public/` já cobre HTTPS, barra no final, 301 da URL antiga e página 404.
 
-## Observação sobre o repositório
+## Repositório GitHub e pasta local
 
-Este código foi gerado em uma branch do repositório que estava conectado ao agente. O ideal é versioná-lo em um repositório **novo e vazio** (por exemplo `manejovertical`) em vez de misturar com o projeto Java `ClassificacaoTextos`.
+Destino do projeto:
+
+- GitHub: https://github.com/nathanabreu/manejovertical.git
+- Pasta Windows: `C:\Programas\GIT\manejo_vertical`
+
+Este agente **não consegue enviar commits** para `nathanabreu/manejovertical` (o GitHub responde 404 ao token da sessão — em geral o repositório é privado e o GitHub App do Cursor ainda não tem acesso). Por isso o site também está numa **branch limpa** (um único commit, sem o histórico Java do `ClassificacaoTextos`):
+
+https://github.com/frc1983/ClassificacaoTextos/tree/cursor/manejovertical-eed9
+
+**Não faça merge** da PR do `ClassificacaoTextos` no `master` Java.
+
+### Popular a pasta local e o repositório novo
+
+No PowerShell:
+
+```powershell
+cd C:\Programas\GIT\manejo_vertical
+
+git remote -v
+git remote set-url origin https://github.com/nathanabreu/manejovertical.git
+
+git fetch https://github.com/frc1983/ClassificacaoTextos.git cursor/manejovertical-eed9
+git checkout -B main FETCH_HEAD
+
+git push -u origin main
+```
+
+Se o GitHub recusar por causa de um README inicial no repositório vazio:
+
+```powershell
+git push -u origin main --force
+```
+
+Depois, na pasta:
+
+```powershell
+npm install
+npm run dev
+```
+
+Para o agente conseguir dar `git push` direto nesse repositório da próxima vez: no GitHub, conceda ao **Cursor GitHub App** acesso a `nathanabreu/manejovertical` (Settings → Applications → Cursor → Repository access).
