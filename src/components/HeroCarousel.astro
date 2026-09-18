@@ -1,0 +1,66 @@
+---
+import Icon from './Icon.astro';
+import WhatsAppIcon from './WhatsAppIcon.astro';
+import { stats, waLink } from '../data/site';
+import type { HeroSlide } from '../data/types';
+
+interface Props {
+  heroClass: string;
+  badge: string;
+  titleHtml: string;
+  subtitle: string;
+  slides: HeroSlide[];
+}
+const { heroClass, badge, titleHtml, subtitle, slides } = Astro.props;
+---
+<section id="hero">
+  <div id="mv-hero" class={heroClass}>
+    <div class="mv-hero-bg">
+      {slides.map((slide, i) => (
+        <div
+          class:list={['mv-hero-slide', i === 0 && 'active']}
+          style={`background-image: url('${slide.src}'); background-position: ${slide.position ?? 'center 20%'};`}
+        />
+      ))}
+      <div class="mv-hero-overlay"></div>
+    </div>
+
+    <div class="mv-hero-content mv-container">
+      <div class="mv-hero-badge">
+        <Icon name="shield" size={14} />
+        {badge}
+      </div>
+
+      <h1 class="mv-hero-title" set:html={titleHtml} />
+      <p class="mv-hero-subtitle">{subtitle}</p>
+
+      <div class="mv-hero-actions">
+        <a href={waLink()} target="_blank" rel="noopener noreferrer" class="mv-btn-primary">
+          <WhatsAppIcon size={18} />
+          Solicitar Avaliação Gratuita
+        </a>
+        <a href="#services" class="mv-btn-secondary">
+          <Icon name="circle" size={18} />
+          Ver Serviços
+        </a>
+      </div>
+
+      <div class="mv-hero-stats">
+        {stats.map((s) => (
+          <div class="mv-hero-stat">
+            <span class="mv-hero-stat-num">{s.num}</span>
+            <span class="mv-hero-stat-label">{s.label}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    {slides.length > 1 && (
+      <div class="mv-hero-indicators">
+        {slides.map((_, i) => (
+          <button class:list={['mv-hero-dot', i === 0 && 'active']} data-slide={i} aria-label={`Slide ${i + 1}`} type="button" />
+        ))}
+      </div>
+    )}
+  </div>
+</section>

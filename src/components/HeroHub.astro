@@ -1,0 +1,46 @@
+---
+import Icon from './Icon.astro';
+import WhatsAppIcon from './WhatsAppIcon.astro';
+import { stats, waLink } from '../data/site';
+import { homeHero } from '../data/home';
+---
+<section id="hero" class="mv-hero-hub">
+  <div id="mv-hero">
+    <div class="mv-hero-bg mv-hero-bg--split">
+      <div class="mv-hero-half mv-hero-half--predial" style={`background-image: url('${homeHero.predialBg}')`}></div>
+      <div class="mv-hero-half mv-hero-half--poda" style={`background-image: url('${homeHero.podaBg}')`}></div>
+      <div class="mv-hero-overlay"></div>
+    </div>
+
+    <div class="mv-hero-content mv-container">
+      <div class="mv-hero-badge">
+        <Icon name="shield" size={14} />
+        {homeHero.badge}
+      </div>
+
+      <h1 class="mv-hero-title" set:html={homeHero.titleHtml} />
+
+      <p class="mv-hero-subtitle">{homeHero.subtitle}</p>
+
+      <div class="mv-hero-actions">
+        <a href="#escolha" class="mv-btn-primary">
+          <Icon name="circle" size={18} />
+          Ver Serviços
+        </a>
+        <a href={waLink()} target="_blank" rel="noopener noreferrer" class="mv-btn-secondary">
+          <WhatsAppIcon size={18} />
+          Falar no WhatsApp
+        </a>
+      </div>
+
+      <div class="mv-hero-stats">
+        {stats.map((s) => (
+          <div class="mv-hero-stat">
+            <span class="mv-hero-stat-num">{s.num}</span>
+            <span class="mv-hero-stat-label">{s.label}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>
