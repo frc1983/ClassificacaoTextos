@@ -2,6 +2,8 @@
 
 Site institucional estático da [Manejo Vertical](https://manejovertical.com.br/), recriado em **Astro** a partir do WordPress (tema `astra-child-manejo`). Sem PHP, banco ou painel: o conteúdo fica em arquivos de código para manutenção por IA.
 
+**IA:** leia [`AGENTS.md`](./AGENTS.md) antes de alterar o código (regras, mapa de arquivos, o que não fazer).
+
 ## Páginas
 
 | Rota | Arquivo | Conteúdo |
@@ -14,7 +16,7 @@ A URL antiga `/manutencao-predial-em-altura-compromisso-com-a-qualidade/` redire
 
 ## Onde editar textos e mídia
 
-Tudo que uma IA (ou o dono do site) precisa mudar está em `src/data/`:
+Playbook para outra IA: [`AGENTS.md`](./AGENTS.md). Textos e dados editáveis estão em `src/data/`:
 
 - `site.ts` — nome, WhatsApp, Instagram, SEO, tags do Google Ads
 - `home.ts` — textos da home
