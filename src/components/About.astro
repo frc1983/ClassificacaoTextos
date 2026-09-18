@@ -1,0 +1,59 @@
+---
+import WhatsAppIcon from './WhatsAppIcon.astro';
+import { site, waLink } from '../data/site';
+
+interface Props {
+  title: string;
+  paragraphs: string[];
+  checks: string[];
+  image: string;
+  crossLink: { href: string; label: string };
+}
+const { title, paragraphs, checks, image, crossLink } = Astro.props;
+---
+<section id="about">
+  <div id="mv-about">
+    <div class="mv-container">
+      <div class="mv-about-grid">
+        <div class="mv-about-img-wrap">
+          <img src={image} alt={`Equipe ${site.name}`} class="mv-about-img" loading="lazy" />
+          <div class="mv-about-badge">
+            <div class="mv-about-badge-num">+5</div>
+            <div class="mv-about-badge-label">Anos de Experiência</div>
+          </div>
+        </div>
+
+        <div class="mv-about-content">
+          <span class="mv-section-label">Sobre nós</span>
+          <h2 class="mv-section-title">{title}</h2>
+          {paragraphs.map((p) => (
+            <p style="color: #64748b; font-size: 1.0625rem; line-height: 1.7; margin-bottom: 1.5rem;">{p}</p>
+          ))}
+
+          <div class="mv-about-checks">
+            {checks.map((check) => (
+              <div class="mv-about-check">
+                <div class="mv-about-check-icon">✓</div>
+                {check}
+              </div>
+            ))}
+          </div>
+
+          <div class="mv-about-area">
+            <span class="mv-about-area-icon">📍</span>
+            <span class="mv-about-area-text"><strong>Área de Atuação:</strong> {site.area}</span>
+          </div>
+
+          <a href={waLink()} target="_blank" rel="noopener noreferrer" class="mv-btn-primary" style="margin-top: 2rem; display: inline-flex;">
+            <WhatsAppIcon size={18} />
+            Falar com a Equipe
+          </a>
+
+          <p style="margin-top: 1.5rem;">
+            <a href={crossLink.href} class="mv-service-cta">{crossLink.label}</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

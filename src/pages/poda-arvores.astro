@@ -1,0 +1,9 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ServiceLanding from '../components/ServiceLanding.astro';
+import { podaNav, podaSeo } from '../data/site';
+import { podaPage } from '../data/poda';
+---
+<BaseLayout {...podaSeo}>
+  <ServiceLanding nav={podaNav} page={podaPage} />
+</BaseLayout>

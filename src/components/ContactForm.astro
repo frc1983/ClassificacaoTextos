@@ -1,0 +1,73 @@
+---
+import Icon from './Icon.astro';
+import WhatsAppIcon from './WhatsAppIcon.astro';
+import { site, waLink } from '../data/site';
+---
+<section id="contact">
+  <div id="mv-contact">
+    <div class="mv-container">
+      <div class="mv-contact-grid">
+        <div>
+          <span class="mv-section-label">Fale conosco</span>
+          <h2 class="mv-section-title white">Solicite sua Avaliação Técnica</h2>
+          <p style="color: rgba(255,255,255,0.7); font-size: 1.0625rem; line-height: 1.7; margin: 1.5rem 0 2rem;">
+            Precisa resolver um problema em altura com segurança e agilidade? Entre em contato com a Manejo Vertical e agende uma avaliação técnica. Respondemos rapidamente pelo WhatsApp.
+          </p>
+
+          <div class="mv-contact-info-item">
+            <div class="mv-contact-info-icon">
+              <Icon name="phone" size={20} />
+            </div>
+            <div>
+              <div class="mv-contact-info-label">WhatsApp / Telefone</div>
+              <div class="mv-contact-info-value">
+                <a href={waLink()} target="_blank" rel="noopener noreferrer">{site.phoneDisplay}</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="mv-contact-info-item">
+            <div class="mv-contact-info-icon">
+              <Icon name="pin" size={20} />
+            </div>
+            <div>
+              <div class="mv-contact-info-label">Área de Atuação</div>
+              <div class="mv-contact-info-value">{site.area}</div>
+            </div>
+          </div>
+
+          <a href={waLink()} target="_blank" rel="noopener noreferrer" class="mv-whatsapp-btn">
+            <WhatsAppIcon size={20} />
+            Falar pelo WhatsApp
+          </a>
+        </div>
+
+        <div class="mv-contact-form-wrap">
+          <h3 class="mv-contact-form-title">Envie uma mensagem</h3>
+          <form id="mv-contact-form">
+            <div class="mv-form-group">
+              <label for="mv-name" class="mv-form-label">Nome completo *</label>
+              <input type="text" id="mv-name" name="name" placeholder="Seu nome" class="mv-form-input" required />
+            </div>
+            <div class="mv-form-group">
+              <label for="mv-phone" class="mv-form-label">Telefone *</label>
+              <input type="tel" id="mv-phone" name="phone" placeholder="(51) 99999-9999" class="mv-form-input" required />
+            </div>
+            <div class="mv-form-group">
+              <label for="mv-email" class="mv-form-label">E-mail *</label>
+              <input type="email" id="mv-email" name="email" placeholder="seu@email.com" class="mv-form-input" required />
+            </div>
+            <div class="mv-form-group">
+              <label for="mv-message" class="mv-form-label">Mensagem *</label>
+              <textarea id="mv-message" name="message" rows="4" placeholder="Descreva o problema ou serviço que precisa..." class="mv-form-textarea" required></textarea>
+            </div>
+            <button type="submit" id="mv-form-submit" class="mv-form-submit">Enviar Mensagem</button>
+            <div id="mv-form-success" class="mv-form-success">
+              ✓ Mensagem montada. Vamos abrir o WhatsApp para você enviar.
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

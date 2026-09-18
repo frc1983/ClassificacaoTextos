@@ -1,0 +1,44 @@
+---
+import Header from './Header.astro';
+import Footer from './Footer.astro';
+import WhatsAppFloat from './WhatsAppFloat.astro';
+import HeroCarousel from './HeroCarousel.astro';
+import Problems from './Problems.astro';
+import Differentials from './Differentials.astro';
+import Services from './Services.astro';
+import Gallery from './Gallery.astro';
+import Testimonials from './Testimonials.astro';
+import About from './About.astro';
+import ContactForm from './ContactForm.astro';
+import type { NavLink } from '../data/site';
+import type { ServicePage } from '../data/types';
+
+interface Props {
+  nav: NavLink[];
+  page: ServicePage;
+}
+const { nav, page } = Astro.props;
+---
+<Header links={nav} />
+<HeroCarousel
+  heroClass={page.heroClass}
+  badge={page.badge}
+  titleHtml={page.titleHtml}
+  subtitle={page.subtitle}
+  slides={page.slides}
+/>
+<Problems intro={page.problemsIntro} items={page.problems} />
+<Differentials intro={page.diffsIntro} items={page.diffs} />
+<Services intro={page.servicesIntro} items={page.services} />
+<Gallery intro={page.galleryIntro} items={page.gallery} />
+<Testimonials items={page.testimonials} />
+<About
+  title={page.aboutTitle}
+  paragraphs={page.aboutParagraphs}
+  checks={page.aboutChecks}
+  image={page.aboutImage}
+  crossLink={page.aboutCrossLink}
+/>
+<ContactForm />
+<Footer />
+<WhatsAppFloat />

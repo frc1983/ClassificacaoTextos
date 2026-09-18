@@ -1,0 +1,9 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ServiceLanding from '../components/ServiceLanding.astro';
+import { predialNav, predialSeo } from '../data/site';
+import { predialPage } from '../data/predial';
+---
+<BaseLayout {...predialSeo}>
+  <ServiceLanding nav={predialNav} page={predialPage} />
+</BaseLayout>

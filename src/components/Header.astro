@@ -1,0 +1,47 @@
+---
+import Icon from './Icon.astro';
+import WhatsAppIcon from './WhatsAppIcon.astro';
+import { site, waLink, type NavLink } from '../data/site';
+
+interface Props {
+  links: NavLink[];
+  logoHref?: string;
+}
+const { links, logoHref = '/' } = Astro.props;
+---
+<nav id="mv-navbar">
+  <div class="mv-container">
+    <div class="mv-nav-inner">
+      <a href={logoHref} class="mv-logo">
+        <div class="mv-logo-icon">
+          <Icon name="home" size={20} />
+        </div>
+        <span class="mv-logo-text">{site.name}</span>
+      </a>
+
+      <ul class="mv-nav-links">
+        {links.map((link) => (
+          <li><a href={link.href}>{link.label}</a></li>
+        ))}
+      </ul>
+
+      <a href={waLink()} target="_blank" rel="noopener noreferrer" class="mv-nav-cta">
+        <WhatsAppIcon size={16} />
+        WhatsApp
+      </a>
+
+      <button id="mv-menu-btn" class="mv-menu-btn" aria-label="Menu" type="button">
+        <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </button>
+    </div>
+
+    <div id="mv-mobile-menu" class="mv-mobile-menu">
+      {links.map((link) => (
+        <a href={link.href}>{link.label}</a>
+      ))}
+      <a href={waLink()} target="_blank" rel="noopener noreferrer" style="color: #25d366; font-weight: 700;">
+        Falar pelo WhatsApp
+      </a>
+    </div>
+  </div>
+</nav>

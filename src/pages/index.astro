@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import WhatsAppFloat from '../components/WhatsAppFloat.astro';
+import HeroHub from '../components/HeroHub.astro';
+import ChoiceCards from '../components/ChoiceCards.astro';
+import TrustStrip from '../components/TrustStrip.astro';
+import { homeNav, homeSeo } from '../data/site';
+---
+<BaseLayout {...homeSeo}>
+  <Header links={homeNav} logoHref="#hero" />
+  <HeroHub />
+  <ChoiceCards />
+  <TrustStrip />
+  <Footer />
+  <WhatsAppFloat />
+</BaseLayout>

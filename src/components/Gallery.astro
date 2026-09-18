@@ -1,0 +1,30 @@
+---
+import type { GalleryItem } from '../data/types';
+
+interface Props {
+  intro: string;
+  items: GalleryItem[];
+}
+const { intro, items } = Astro.props;
+---
+<section id="gallery">
+  <div id="mv-gallery">
+    <div class="mv-container">
+      <div class="text-center" style="margin-bottom: 1rem;">
+        <span class="mv-section-label">Nossos Trabalhos</span>
+        <h2 class="mv-section-title">Galeria de Serviços</h2>
+        <p class="mv-section-desc">{intro}</p>
+      </div>
+      <div class="mv-gallery-grid">
+        {items.map((item) => (
+          <div class="mv-gallery-item mv-gallery-item--labeled">
+            <img src={item.src} alt={item.alt} loading="lazy" />
+            <div class="mv-gallery-overlay">
+              <span class="mv-gallery-label">{item.alt}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>

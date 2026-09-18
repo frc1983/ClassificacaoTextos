@@ -1,0 +1,30 @@
+---
+import Icon from './Icon.astro';
+import type { CardItem } from '../data/types';
+
+interface Props {
+  intro: string;
+  items: CardItem[];
+}
+const { intro, items } = Astro.props;
+---
+<section id="mv-problems">
+  <div class="mv-container">
+    <div class="text-center" style="margin-bottom: 1rem;">
+      <span class="mv-section-label">Por que nos contratar?</span>
+      <h2 class="mv-section-title">Problemas que Resolvemos</h2>
+      <p class="mv-section-desc">{intro}</p>
+    </div>
+    <div class="mv-problems-grid">
+      {items.map((item) => (
+        <div class="mv-problem-card">
+          <div class="mv-problem-icon">
+            <Icon name={item.icon} />
+          </div>
+          <h3 class="mv-problem-title">{item.title}</h3>
+          <p class="mv-problem-desc">{item.desc}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
