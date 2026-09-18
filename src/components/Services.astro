@@ -1,0 +1,45 @@
+---
+import Icon from './Icon.astro';
+import { waLink } from '../data/site';
+import type { ServiceItem } from '../data/types';
+
+interface Props {
+  intro: string;
+  items: ServiceItem[];
+}
+const { intro, items } = Astro.props;
+---
+<section id="services">
+  <div id="mv-services">
+    <div class="mv-container">
+      <div class="text-center" style="margin-bottom: 1rem;">
+        <span class="mv-section-label">O que fazemos</span>
+        <h2 class="mv-section-title">Nossos Serviços</h2>
+        <p class="mv-section-desc">{intro}</p>
+      </div>
+      <div class="mv-services-grid">
+        {items.map((item) => (
+          <div class="mv-service-card">
+            <div class="mv-service-media">
+              {item.media.type === 'video' ? (
+                <video class="mv-service-img" controls playsinline preload="metadata" poster={item.media.poster}>
+                  <source src={item.media.src} type="video/mp4" />
+                </video>
+              ) : (
+                <img src={item.media.src} alt={item.media.alt} class="mv-service-img" loading="lazy" />
+              )}
+            </div>
+            <div class="mv-service-body">
+              <h3 class="mv-service-title">{item.title}</h3>
+              <p class="mv-service-desc">{item.desc}</p>
+              <a href={waLink()} target="_blank" rel="noopener noreferrer" class="mv-service-cta">
+                Solicitar orçamento
+                <Icon name="arrow" size={14} />
+              </a>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>

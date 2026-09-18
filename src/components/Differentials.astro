@@ -1,0 +1,30 @@
+---
+import Icon from './Icon.astro';
+import type { CardItem } from '../data/types';
+
+interface Props {
+  intro: string;
+  items: CardItem[];
+}
+const { intro, items } = Astro.props;
+---
+<section id="mv-differentials">
+  <div class="mv-container">
+    <div class="text-center" style="margin-bottom: 1rem;">
+      <span class="mv-section-label">Nossos Diferenciais</span>
+      <h2 class="mv-section-title">Por que a Manejo Vertical?</h2>
+      <p class="mv-section-desc">{intro}</p>
+    </div>
+    <div class="mv-diff-grid">
+      {items.map((item) => (
+        <div class="mv-diff-card">
+          <div class="mv-diff-icon">
+            <Icon name={item.icon} />
+          </div>
+          <h3 class="mv-diff-title">{item.title}</h3>
+          <p class="mv-diff-desc">{item.desc}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

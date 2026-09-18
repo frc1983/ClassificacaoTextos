@@ -1,0 +1,22 @@
+---
+import Icon from './Icon.astro';
+import { site } from '../data/site';
+---
+<footer id="mv-footer">
+  <div class="mv-container">
+    <div class="mv-footer-inner">
+      <div style="display: flex; align-items: center; gap: 0.625rem;">
+        <div style="width: 1.75rem; height: 1.75rem; border-radius: 0.5rem; background: var(--olive); display: flex; align-items: center; justify-content: center; color: #fff;">
+          <Icon name="home" size={16} />
+        </div>
+        <span style="font-family: 'Playfair Display', serif; font-weight: 700; color: white; font-size: 1rem;">{site.name}</span>
+      </div>
+      <p class="mv-footer-copy">
+        &copy; {new Date().getFullYear()} {site.name}. Todos os direitos reservados. Porto Alegre, RS.
+      </p>
+      <a href={site.instagram} target="_blank" rel="noopener noreferrer" class="mv-footer-insta">
+        {site.instagramHandle}
+      </a>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,32 @@
+---
+import Icon from './Icon.astro';
+import { homeChoices } from '../data/home';
+---
+<section id="escolha" class="mv-hub-choice">
+  <div class="mv-container">
+    <div class="text-center" style="margin-bottom: 1rem;">
+      <span class="mv-section-label">Comece por aqui</span>
+      <h2 class="mv-section-title">Qual serviço você precisa?</h2>
+      <p class="mv-section-desc">Toque em um dos cards abaixo para ver detalhes e solicitar seu orçamento.</p>
+    </div>
+
+    <div class="mv-hub-choice-grid">
+      {homeChoices.map((card) => (
+        <a
+          href={card.href}
+          class:list={['mv-hub-choice-card', card.variant === 'poda' && 'mv-hub-choice-card--poda']}
+        >
+          <div class="mv-hub-choice-icon">
+            <Icon name={card.icon} size={30} />
+          </div>
+          <h3>{card.title}</h3>
+          <p>{card.desc}</p>
+          <span class="mv-service-cta">
+            {card.cta}
+            <Icon name="arrow" size={14} />
+          </span>
+        </a>
+      ))}
+    </div>
+  </div>
+</section>
